@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerMiningInteraction : MonoBehaviour
 {
+    //채굴 상호작용이 가능한 최대거리
     [SerializeField, Min(0.1f)] private float interactionRange = 1.8f;
     [SerializeField] private MiningInteractionPrompt prompt;
     [SerializeField] private PickaxeMiningAnimation pickaxe;
@@ -67,8 +68,9 @@ public class PlayerMiningInteraction : MonoBehaviour
                 requireRelease = true;
                 completedUntil = Time.time + 0.75f;
                 if (pickaxe != null)
-                    pickaxe.SetMining(false, Vector3.zero); 
-                completedTarget.CompleteMining();
+                    pickaxe.SetMining(false, Vector3.zero);
+                float random = Random.Range(1f, 100f);
+                completedTarget.CompleteMining(random);
                 // Reward callbacks may disable or destroy the target/player.
                 if (!isActiveAndEnabled || currentTarget == null || !currentTarget.isActiveAndEnabled)
                 {
