@@ -17,7 +17,7 @@ public class MiningTarget : MonoBehaviour
     //광석 채굴 완료후 호출할 함수 이벤트
     [SerializeField] private UnityEvent<OreType> onMined = new UnityEvent<OreType>();
     //SO 추가(얻을 광석을 결정함)
-    [SerializeField] private OreProbability oreProbability;
+    [SerializeField] private OreProbabilitySO oreProbabilitySO;
     
     //getset
     public static IReadOnlyList<MiningTarget> ActiveTargets => activeTargets;
@@ -46,10 +46,11 @@ public class MiningTarget : MonoBehaviour
         activeTargets.Remove(this);
     }
 
-    //광석벽과 가까울떄 실행하는 함수
+    //플레이어와 광석벽과 가까울떄 실행하는 함수
     public Vector3 ClosestPoint(Vector3 playerPosition)
     {
         Bounds bounds = oreRenderer.bounds;
+        //전달한 좌표에서 bounds 영역까지 가장 가까운 점을 반환하는 함수야.
         Vector3 point = bounds.ClosestPoint(new Vector3(playerPosition.x, playerPosition.y, bounds.center.z));
         point.z = playerPosition.z;
         return point;
@@ -58,7 +59,7 @@ public class MiningTarget : MonoBehaviour
     //광석 캐기가 완료되었을 경우 실행
     public void CompleteMining(float random)
     {
-        if (oreProbability == null)
+        if (oreProbabilitySO == null)
         {
             Debug.LogError("MiningTarget에 OreProbability SO를 연결해주세요.", this);
             return;
@@ -66,6 +67,6 @@ public class MiningTarget : MonoBehaviour
 
         CompletedCount++;
 
-        onMined.Invoke(oreProbability.GetOre());
+        onMined.Invoke(oreProbabilitySO.GetOre(random));
     }
 }

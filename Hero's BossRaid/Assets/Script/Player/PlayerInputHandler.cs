@@ -4,7 +4,8 @@ using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(PlayerMove))]
 public class PlayerInputHandler : MonoBehaviour
-{
+{   
+    //스크립트 참조
     private PlayerMove _playerMove;
     private PlayerMiningInteraction _miningInteraction;
     private bool isTransitioning = false;
@@ -29,7 +30,7 @@ public class PlayerInputHandler : MonoBehaviour
     }
 
     public void OnInteract(InputAction.CallbackContext context)
-    {
+    {//광석에 상호작용시 작동하는 함수(NPC와의 상호작용도 포함할 예정)
         if (_miningInteraction != null)
             _miningInteraction.SetInteractHeld(!context.canceled && context.ReadValueAsButton());
     }
