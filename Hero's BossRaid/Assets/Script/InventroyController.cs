@@ -45,16 +45,16 @@ public class InventoryController : MonoBehaviour
         switch (oreType)
         {
             case OreType.Iron: _ironCount++;
-                ironText.text = _ironCount.ToString();
+                ironText.text = $"철광석 개수: {_ironCount}";
                 break;
             case OreType.Gold: _goldCount++; 
-                goldText.text = _goldCount.ToString();
+                goldText.text = $"금광석 개수:  {_goldCount}";
                 break;
             case OreType.Ruby: _rubyCount++;
-                rubyText.text = _rubyCount.ToString();
+                rubyText.text = $"루비 개수: {_rubyCount}";
                 break;
             case OreType.Diamond: _diamondCount++;
-                diamondText.text = _diamondCount.ToString();
+                diamondText.text = $"다이아몬드 개수: {_diamondCount}";
                 break;
         }
     }

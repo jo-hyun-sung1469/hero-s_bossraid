@@ -19,11 +19,11 @@ public class PlayerInputHandler : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        if(context.phase == InputActionPhase.Performed)
+        if(context.performed)
         {
             _playerMove.Vector2 = context.ReadValue<Vector2>();
         }
-        else if(context.phase == InputActionPhase.Canceled)
+        else if(context.canceled)
         {
             _playerMove.Vector2 = Vector2.zero;
         }
