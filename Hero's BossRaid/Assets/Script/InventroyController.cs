@@ -8,6 +8,9 @@ public class InventoryController : MonoBehaviour
     private RectTransform _inventoryPos;
     [SerializeField] private float speed = 20f;
     [HideInInspector] public bool isOpening;
+
+    [Header("무기 장착")]
+    [SerializeField] private PlayerController playerController;
     
     [Header("광석 Text")]
     [SerializeField] private TextMeshProUGUI ironText;
@@ -62,6 +65,18 @@ public class InventoryController : MonoBehaviour
     public void GetSword(string sword)
     {
         //대장간에서 재화를 소모하면 얻을 수 있음
+    }
+
+    // 검 슬롯의 Button.onClick에서 무기 이름을 전달
+    public void EquipSword(string weaponName)
+    {
+        if (playerController == null)
+        {
+            Debug.LogWarning("InventoryController에 PlayerController를 연결해주세요.", this);
+            return;
+        }
+
+        playerController.ChangeWeapon(weaponName);
     }
 
     public void UseItem(string itemName, int itemcnt)
