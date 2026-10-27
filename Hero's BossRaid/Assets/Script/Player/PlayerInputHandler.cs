@@ -10,6 +10,7 @@ public class PlayerInputHandler : MonoBehaviour
     private PlayerMiningInteraction _miningInteraction;
     private bool isTransitioning = false;
     [SerializeField] private InventoryController inventoryController; 
+    [SerializeField] private PlayerManager playerManager;
 
     void Start()
     {
@@ -39,7 +40,7 @@ public class PlayerInputHandler : MonoBehaviour
     {
         if (context.phase == InputActionPhase.Started)
         {
-            //공격 실행 함수 요청
+            playerManager.CheckAttackRange();
         }
     }
     
