@@ -19,6 +19,7 @@ public enum Weapon
 public class PlayerController : MonoBehaviour, IAttackable, IDamageable
 {
     [SerializeField] private Weapon usingWeapon = Weapon.None;
+    [SerializeField] private SwordSwingAnimation swordSwing;
     private float hp = PlayerStat.MaxHealth;
     public float Hp { get; set; }
     
@@ -27,6 +28,7 @@ public class PlayerController : MonoBehaviour, IAttackable, IDamageable
         switch (weaponName)
         {
             case "None":
+            case "NormalSword":
                 usingWeapon = Weapon.None; break;
             case "IronSword":
                 usingWeapon = Weapon.IronSword; break;
@@ -46,7 +48,15 @@ public class PlayerController : MonoBehaviour, IAttackable, IDamageable
 
     public float Attack()
     {
-        //에니메이션 코드도 필요
+        return Attack(Vector2.zero);
+    }
+
+    public float Attack(Vector2 direction)
+    {
+        if (swordSwing != null)
+            swordSwing.Play(usingWeapon, direction);
+
+        // 일반 검의 추가 피해량은 0이므로 기본 피해량만 사용
         return PlayerStat.Damage + (float)usingWeapon;
     }
 
