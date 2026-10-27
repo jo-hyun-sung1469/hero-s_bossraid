@@ -38,6 +38,10 @@ public class PlayerInputHandler : MonoBehaviour
 
     public void OnAttack(InputAction.CallbackContext context)
     {
+        // 인벤토리 슬롯을 클릭할 때 월드 공격이 함께 실행되지 않도록 차단
+        if (isTransitioning || (inventoryController != null && inventoryController.isOpening))
+            return;
+
         if (context.phase == InputActionPhase.Started)
         {
             playerManager.CheckAttackRange();
