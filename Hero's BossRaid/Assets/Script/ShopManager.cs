@@ -1,6 +1,14 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+public enum OreItem
+{
+    Iron = 200,
+    Gold = 2500,
+    Ruby = 20000,
+    Diamond = 100000,
+}
+
 public class ShopManager : MonoBehaviour
 {
     [SerializeField] private InventoryController inventory;
