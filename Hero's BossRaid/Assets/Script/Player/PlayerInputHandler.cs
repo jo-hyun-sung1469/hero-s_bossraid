@@ -58,7 +58,7 @@ public class PlayerInputHandler : MonoBehaviour
                 _miningInteraction.SetInteractHeld(false);
             // 메인 씬: 키를 처음 눌렀을 때만 거리를 확인하고 상점을 엶
             if (context.started && shopManager != null)
-                shopManager.TryOpenShop(transform);
+                shopManager.OpenShop(transform);
         }
     }
 
