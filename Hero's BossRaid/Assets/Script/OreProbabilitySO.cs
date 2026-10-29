@@ -21,7 +21,7 @@ public struct OreChance
 
     public OreChance(OreType oreType, int weight)
     {
-        this.oreType = oreType;
+        this.oreType = oreType; 
         this.weight = weight;
     }
 }
@@ -41,17 +41,18 @@ public class OreProbabilitySO : ScriptableObject
 
     public OreType GetOre(float random)
     {
-        float Probability = 0;
-        OreType Ore = OreType.Iron;
+        float probability = 0;
+        OreType ore = OreType.Iron;
         foreach (OreChance oreChance in oreChances)
         {
-            if (oreChance.Weight + Probability > random)
+            probability += oreChance.Weight;
+            if (probability > random)
             {
-                Ore = oreChance.OreType; 
+                ore = oreChance.OreType; 
             }
         }
 
-        return Ore;
+        return ore;
     }
 
     public void UpgradeOreProbability(int level)
