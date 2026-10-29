@@ -1,7 +1,9 @@
 using System.Collections;
+using System.Diagnostics;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using Debug = UnityEngine.Debug;
 
 public class InventoryController : MonoBehaviour
 {
@@ -20,13 +22,12 @@ public class InventoryController : MonoBehaviour
 
     //광석 갯수
     private int _ironCount;
-    public int IronCount { get; set; }
     private int _goldCount;
-    public int GoldCount { get; set; }
     private int _rubyCount;
-    public int RubyCount { get; set; }
     private int _diamondCount;
-    public int DiamondCount { get; set; }
+
+    //원래는 Gold로 할 생각이였지만 같은 이름의 광석 때문에 변경
+    private long _money;
 
     private void Awake()
     {
@@ -62,6 +63,12 @@ public class InventoryController : MonoBehaviour
         }
     }
 
+    //Gold용 GetItem함수
+    public void GetItem(int money)
+    {
+        this._money += money;
+    }
+
     public void GetSword(string sword)
     {
         //대장간에서 재화를 소모하면 얻을 수 있음
@@ -81,14 +88,25 @@ public class InventoryController : MonoBehaviour
 
     public void UseItem(string itemName, int itemcnt)
     {
-        //재화 사용시 사용할 함수
+        switch(itemName)
+        {
+            case "Iron": _ironCount -= itemcnt; break;
+            case "Gold": _goldCount -= itemcnt; break;
+            case "Ruby": _rubyCount -= itemcnt; break;
+            case "Diamond": _diamondCount -= itemcnt; break;
+            case "Money": _money += itemcnt; break;
+        }
+    }
+
+    public void BuyWeapon()
+    {
+        
     }
 
     public IEnumerator OpenCorutine()
     {
         while (_inventoryPos.position.x <= 50f)
         {
-            Debug.Log("실행 1");
             _inventoryPos.position += Vector3.right * (speed * Time.deltaTime);
             yield return null;
         }
