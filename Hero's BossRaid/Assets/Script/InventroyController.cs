@@ -22,9 +22,13 @@ public class InventoryController : MonoBehaviour
 
     //광석 갯수
     private int _ironCount;
+    public int  IronCount => _ironCount;
     private int _goldCount;
+    public  int  GoldCount => _goldCount;
     private int _rubyCount;
+    public int  RubyCount => _rubyCount;
     private int _diamondCount;
+    public int  DiamondCount => _diamondCount;
 
     //원래는 Gold로 할 생각이였지만 같은 이름의 광석 때문에 변경
     private long _money;
@@ -64,14 +68,14 @@ public class InventoryController : MonoBehaviour
     }
 
     //Gold용 GetItem함수
-    public void GetItem(int money)
+    public void GetMoney(int money)
     {
         this._money += money;
     }
 
     public void GetSword(string sword)
     {
-        //대장간에서 재화를 소모하면 얻을 수 있음
+        //상점에서 재화를 소모하면 얻을 수 있음
     }
 
     // 검 슬롯의 Button.onClick에서 무기 이름을 전달
@@ -96,11 +100,6 @@ public class InventoryController : MonoBehaviour
             case "Diamond": _diamondCount -= itemcnt; break;
             case "Money": _money += itemcnt; break;
         }
-    }
-
-    public void BuyWeapon()
-    {
-        
     }
 
     public IEnumerator OpenCorutine()
