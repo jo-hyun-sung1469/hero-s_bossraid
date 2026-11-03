@@ -1,24 +1,33 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(PlayerMove))]
 public class PlayerInputHandler : MonoBehaviour
 {   
     //스크립트 참조
     private PlayerMove _playerMove;
-    private PlayerMiningInteraction _miningInteraction;
+    //별도 Manager 오브젝트의 상호작용 매니저를 연결
+    [SerializeField] private InteractionManager _interactionManager;
     private bool isTransitioning = false;
     [SerializeField] private InventoryController inventoryController; 
     [SerializeField] private PlayerManager playerManager;
-    // MainScene에서 상점 NPC의 ShopManager를 연결
     [SerializeField] private ShopManager shopManager;
 
-    void Start()
+    //씬 이동 후에도 유지되는 매니저를 우선 사용
+    public InteractionManager Interactions => InteractionManager.Instance != null ? InteractionManager.Instance : _interactionManager;
+
+    private void Awake()
     {
         _playerMove = GetComponent<PlayerMove>();
-        _miningInteraction = GetComponent<PlayerMiningInteraction>();
+        if (shopManager == null)
+            shopManager = FindFirstObjectByType<ShopManager>();
+    }
+
+    private void Update()
+    {
+        if (Interactions != null)
+            Interactions.SetBlocked(isTransitioning);
     }
 
     public void OnMove(InputAction.CallbackContext context)
@@ -35,38 +44,18 @@ public class PlayerInputHandler : MonoBehaviour
 
     public void OnInteract(InputAction.CallbackContext context)
     {
-        // 키를 떼면 씬의 상호작용 종류와 관계없이 채굴 홀딩을 해제
-        if (context.canceled)
-        {
-            if (_miningInteraction != null)
-                _miningInteraction.SetInteractHeld(false);
+        if (Interactions == null)
             return;
-        }
-
-        if (isTransitioning || (inventoryController != null && inventoryController.isOpening))
-            return;
-
-        if (SceneManager.GetActiveScene().name == "MiningScene")
-        {
-            // 채광 씬: 누르고 있는 동안 채굴
-            if (_miningInteraction != null)
-                _miningInteraction.SetInteractHeld(context.ReadValueAsButton());
-        }
-        else if (SceneManager.GetActiveScene().name == "MainScene")
-        {
-            if (_miningInteraction != null)
-                _miningInteraction.SetInteractHeld(false);
-            // 메인 씬: 키를 처음 눌렀을 때만 거리를 확인하고 상점을 엶
-            if (context.started && shopManager != null)
-                shopManager.OpenShop(transform);
-        }
+        Interactions.SetBlocked(isTransitioning);
+        //키를 떼면 상호작용 종류와 관계없이 홀딩을 해제
+        Interactions.SetInteractHeld(!context.canceled && context.ReadValueAsButton());
     }
 
     public void OnAttack(InputAction.CallbackContext context)
     {
         // UI를 클릭할 때 월드 공격이 함께 실행되지 않도록 차단
         if (isTransitioning || (inventoryController != null && inventoryController.isOpening)
-            || (shopManager != null && shopManager.IsOpen))
+            || (Interactions != null && Interactions.IsBlocked))
             return;
 
         if (context.phase == InputActionPhase.Started)
@@ -77,15 +66,44 @@ public class PlayerInputHandler : MonoBehaviour
     
     public void OnInventory(InputAction.CallbackContext context)
     {
-        if (context.phase != InputActionPhase.Started || isTransitioning)
+        if (context.phase != InputActionPhase.Started)
+            return;
+
+        //탭 키는 맨 위의 수량 선택 창부터 닫음
+        if (shopManager != null && shopManager.IsCountSelectUIOpen)
+        {
+            shopManager.OnCloseCountSelectUI();
+            return;
+        }
+
+        //수량 선택 창이 없으면 상점과 인벤토리를 함께 닫음
+        if (shopManager != null && shopManager.IsOpen)
+        {
+            shopManager.OnCloseShop();
+            return;
+        }
+
+        if (inventoryController == null || isTransitioning || (Interactions != null && Interactions.HasModalInteraction))
             return;
 
         StartCoroutine(ChangeInventory(!inventoryController.isOpening));
     }
 
+    private void OnDisable()
+    {
+        if (Interactions != null && Interactions.Player == this)
+        {
+            //플레이어가 비활성화되면 진행 중인 홀딩도 종료
+            Interactions.SetInteractHeld(false);
+            Interactions.SetBlocked(true);
+        }
+    }
+
     private IEnumerator ChangeInventory(bool open)
     {
         isTransitioning = true;
+        //상점에서 시작한 인벤토리 이동과 겹치지 않도록 종료
+        inventoryController.StopAllCoroutines();
 
         if (open)
         {
