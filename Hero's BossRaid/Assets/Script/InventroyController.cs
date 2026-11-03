@@ -13,6 +13,9 @@ public class InventoryController : MonoBehaviour
 
     [Header("무기 장착")]
     [SerializeField] private PlayerController playerController;
+
+    [Header("보유 골드 Text")]
+    [SerializeField] private TextMeshProUGUI moneyText;
     
     [Header("광석 Text")]
     [SerializeField] private TextMeshProUGUI ironText;
@@ -22,29 +25,35 @@ public class InventoryController : MonoBehaviour
 
     //광석 갯수
     private int _ironCount;
-    public int  IronCount => _ironCount;
+    public int  IronCount { get => _ironCount; set => _ironCount = value; }
     private int _goldCount;
-    public  int  GoldCount => _goldCount;
+    public  int  GoldCount { get => _goldCount; set => _goldCount = value; }
     private int _rubyCount;
-    public int  RubyCount => _rubyCount;
+    public int  RubyCount { get => _rubyCount; set => _rubyCount = value; }
     private int _diamondCount;
-    public int  DiamondCount => _diamondCount;
+    public int  DiamondCount { get => _diamondCount; set => _diamondCount = value; }
 
     //원래는 Gold로 할 생각이였지만 같은 이름의 광석 때문에 변경
     private long _money;
+    public long Money => _money;
 
     private void Awake()
     {
         _inventoryPos = GetComponent<RectTransform>();
+        UpdateMoneyUI();
     }
     
     public void Open()
     {
+        StopAllCoroutines();
+        isOpening = true;
         StartCoroutine(OpenCorutine());
     }
 
     public void Close()
     {
+        StopAllCoroutines();
+        isOpening = false;
         StartCoroutine(CloseCorutine());
     }
 
@@ -70,7 +79,20 @@ public class InventoryController : MonoBehaviour
     //Gold용 GetItem함수
     public void GetMoney(int money)
     {
+        GetMoney((long)money);
+    }
+
+    public void GetMoney(long money)
+    {
         this._money += money;
+        UpdateMoneyUI();
+    }
+
+    //보유 골드가 바뀌면 인벤토리 왼쪽 상단의 표시 갱신
+    private void UpdateMoneyUI()
+    {
+        if (moneyText != null)
+            moneyText.text = $"골드: {_money:N0}";
     }
 
     public void GetSword(string sword)
@@ -98,8 +120,23 @@ public class InventoryController : MonoBehaviour
             case "Gold": _goldCount -= itemcnt; break;
             case "Ruby": _rubyCount -= itemcnt; break;
             case "Diamond": _diamondCount -= itemcnt; break;
-            case "Money": _money += itemcnt; break;
+            case "Money": _money -= itemcnt;
+                UpdateMoneyUI(); break;
         }
+        UpdateOreUI();
+    }
+
+    //판매 및 구매 재료 사용 후 실제 보유 수량 표시
+    private void UpdateOreUI()
+    {
+        if (ironText != null)
+            ironText.text = $"철광석 개수: {_ironCount}";
+        if (goldText != null)
+            goldText.text = $"금광석 개수: {_goldCount}";
+        if (rubyText != null)
+            rubyText.text = $"루비 개수: {_rubyCount}";
+        if (diamondText != null)
+            diamondText.text = $"다이아몬드 개수: {_diamondCount}";
     }
 
     public IEnumerator OpenCorutine()
