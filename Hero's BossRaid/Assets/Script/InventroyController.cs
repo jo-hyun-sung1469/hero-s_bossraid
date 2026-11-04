@@ -14,6 +14,14 @@ public class InventoryController : MonoBehaviour
     [Header("무기 장착")]
     [SerializeField] private PlayerController playerController;
 
+    // 2026-11-04
+    private const string EquippedWeaponKey = "HeroBossRaid.Player.EquippedWeapon";
+    [SerializeField] private Button ironSwordSlot;
+    [SerializeField] private Button goldSwordSlot;
+    [SerializeField] private Button rubySwordSlot;
+    [SerializeField] private Button diamondSwordSlot;
+    public PlayerController Player => playerController;
+
     [Header("보유 골드 Text")]
     [SerializeField] private TextMeshProUGUI moneyText;
     
@@ -41,6 +49,12 @@ public class InventoryController : MonoBehaviour
     {
         _inventoryPos = GetComponent<RectTransform>();
         UpdateMoneyUI();
+    }
+
+    // 2026-11-04
+    private void OnEnable()
+    {
+        RefreshWeaponSlots();
     }
     
     public void Open()
@@ -98,6 +112,12 @@ public class InventoryController : MonoBehaviour
     public void GetSword(string sword)
     {
         //상점에서 재화를 소모하면 얻을 수 있음
+        if (playerController != null && PlayerController.TryGetWeapon(sword, out Weapon weapon))
+        {
+            //보유 무기 추가
+            playerController.AddWeapon(weapon);
+            RefreshWeaponSlots();
+        }
     }
 
     // 검 슬롯의 Button.onClick에서 무기 이름을 전달
@@ -108,8 +128,49 @@ public class InventoryController : MonoBehaviour
             Debug.LogWarning("InventoryController에 PlayerController를 연결해주세요.", this);
             return;
         }
+        
+        //플레이어에게 장착할 무기가 있는지 확인
+        if (!PlayerController.TryGetWeapon(weaponName, out Weapon weapon) || !playerController.HasWeapon(weapon))
+            return;
 
-        playerController.ChangeWeapon(weaponName);
+        ApplyWeapon(playerController, weapon);
+        PlayerPrefs.SetInt(EquippedWeaponKey, (int)weapon);
+        PlayerPrefs.Save();
+    }
+
+    //장착된 무기를 다시 로딩하는 함수
+    public static void RestoreEquippedWeapon(PlayerController player)
+    {
+        if (player == null)
+            return;
+        //사용중인 무기 저장
+        Weapon weapon = (Weapon)PlayerPrefs.GetInt(EquippedWeaponKey, (int)Weapon.None);
+        //무기가 없다면 기본 무기로 변경
+        if (!player.HasWeapon(weapon))
+            weapon = Weapon.None;
+        ApplyWeapon(player, weapon);
+    }
+
+    //장착된 무기 초기화 함수
+    private static void ApplyWeapon(PlayerController player, Weapon weapon)
+    {
+        //사용중인 무기 저장
+        player.UsingWeapon = weapon;
+        if (player.SwordSwing != null)
+            player.SwordSwing.SetEquippedWeapon(weapon);
+    }
+
+    //무기가 있는지 확인해서 버튼 활성화
+    private void RefreshWeaponSlots()
+    {
+        if (ironSwordSlot != null)
+            ironSwordSlot.interactable = playerController != null && playerController.HasWeapon(Weapon.IronSword);
+        if (goldSwordSlot != null)
+            goldSwordSlot.interactable = playerController != null && playerController.HasWeapon(Weapon.GoldSword);
+        if (rubySwordSlot != null)
+            rubySwordSlot.interactable = playerController != null && playerController.HasWeapon(Weapon.RubySword);
+        if (diamondSwordSlot != null)
+            diamondSwordSlot.interactable = playerController != null && playerController.HasWeapon(Weapon.DiamondSword);
     }
 
     public void UseItem(string itemName, int itemcnt)
