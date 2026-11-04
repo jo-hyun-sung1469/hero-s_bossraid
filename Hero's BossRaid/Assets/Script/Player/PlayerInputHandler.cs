@@ -69,6 +69,13 @@ public class PlayerInputHandler : MonoBehaviour
         if (context.phase != InputActionPhase.Started)
             return;
 
+        //재화 부족 안내가 열려 있으면 안내 창부터 닫음
+        if (shopManager != null && shopManager.IsInsufficientResourceUIOpen)
+        {
+            shopManager.OnCloseInsufficientResourceUI();
+            return;
+        }
+
         //탭 키는 맨 위의 수량 선택 창부터 닫음
         if (shopManager != null && shopManager.IsCountSelectUIOpen)
         {
