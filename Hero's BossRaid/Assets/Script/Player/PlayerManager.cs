@@ -12,6 +12,8 @@ public class PlayerManager : MonoBehaviour
     [SerializeField] private LayerMask targetLayers = ~0;
     // 플레이 중 Inspector에서 감지 여부 확인
     [SerializeField] private bool hasTargetInRange;
+    
+    [SerializeField] private GameObject pickaxeObject;
 
     private PlayerController _playerController;
     private readonly List<Collider2D> rangeHits = new List<Collider2D>();
@@ -22,6 +24,20 @@ public class PlayerManager : MonoBehaviour
     private void Awake()
     {
         _playerController = GetComponent<PlayerController>();
+    }
+    
+    private void Start()
+    {
+        //장착된 무기 로딩
+        InventoryController.RestoreEquippedWeapon(_playerController);
+        //사용중인 씬이 FightingScene이면 true
+        bool isFighting = gameObject.scene.name == "FightingScene";
+        //전투 씬이면 비활성화
+        if (pickaxeObject != null)
+            pickaxeObject.SetActive(!isFighting);
+        //스윙 에니메이션 활성화
+        if (_playerController.SwordSwing != null)
+            _playerController.SwordSwing.gameObject.SetActive(isFighting);
     }
 
     // 공격 요청 시 범위 안의 가장 가까운 대상에게 한 번 피해를 줌

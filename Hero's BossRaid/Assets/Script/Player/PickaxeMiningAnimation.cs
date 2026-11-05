@@ -20,7 +20,7 @@ public class PickaxeMiningAnimation : MonoBehaviour
     //광질 에니메이션 실행
     public void SetMining(bool mining, Vector3 targetPosition)
     {
-        if (animator == null)
+        if (animator == null || !animator.isActiveAndEnabled)
             return;
 
         animator.SetBool(IsMining, mining);
