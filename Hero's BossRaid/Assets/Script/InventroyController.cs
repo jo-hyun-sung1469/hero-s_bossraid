@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Diagnostics;
+using System.Globalization;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -33,28 +34,77 @@ public class InventoryController : MonoBehaviour
 
     //광석 갯수
     private int _ironCount;
-    public int  IronCount { get => _ironCount; set => _ironCount = value; }
+    public int IronCount
+    {
+        get { EnsureResourcesLoaded(); return _ironCount; }
+        set { EnsureResourcesLoaded(); _ironCount = value; SaveResources(); UpdateOreUI(); }
+    }
     private int _goldCount;
-    public  int  GoldCount { get => _goldCount; set => _goldCount = value; }
+    public int GoldCount
+    {
+        get { EnsureResourcesLoaded(); return _goldCount; }
+        set { EnsureResourcesLoaded(); _goldCount = value; SaveResources(); UpdateOreUI(); }
+    }
     private int _rubyCount;
-    public int  RubyCount { get => _rubyCount; set => _rubyCount = value; }
+    public int RubyCount
+    {
+        get { EnsureResourcesLoaded(); return _rubyCount; }
+        set { EnsureResourcesLoaded(); _rubyCount = value; SaveResources(); UpdateOreUI(); }
+    }
     private int _diamondCount;
-    public int  DiamondCount { get => _diamondCount; set => _diamondCount = value; }
+    public int DiamondCount
+    {
+        get { EnsureResourcesLoaded(); return _diamondCount; }
+        set { EnsureResourcesLoaded(); _diamondCount = value; SaveResources(); UpdateOreUI(); }
+    }
 
     //원래는 Gold로 할 생각이였지만 같은 이름의 광석 때문에 변경
     private long _money;
-    public long Money => _money;
+    public long Money { get { EnsureResourcesLoaded(); return _money; } }
+
+    // 2026-11-04
+    private bool resourcesLoaded;
 
     private void Awake()
     {
         _inventoryPos = GetComponent<RectTransform>();
-        UpdateMoneyUI();
     }
 
     // 2026-11-04
     private void OnEnable()
     {
+        LoadResources();
         RefreshWeaponSlots();
+    }
+
+    // 2026-11-04
+    private void EnsureResourcesLoaded()
+    {
+        if (!resourcesLoaded)
+            LoadResources();
+    }
+
+    private void LoadResources()
+    {
+        _ironCount = PlayerPrefs.GetInt("HeroBossRaid.Player.Resources.Iron", 0);
+        _goldCount = PlayerPrefs.GetInt("HeroBossRaid.Player.Resources.Gold", 0);
+        _rubyCount = PlayerPrefs.GetInt("HeroBossRaid.Player.Resources.Ruby", 0);
+        _diamondCount = PlayerPrefs.GetInt("HeroBossRaid.Player.Resources.Diamond", 0);
+        long.TryParse(PlayerPrefs.GetString("HeroBossRaid.Player.Resources.Money", "0"),
+            NumberStyles.Integer, CultureInfo.InvariantCulture, out _money);
+        resourcesLoaded = true;
+        UpdateMoneyUI();
+        UpdateOreUI();
+    }
+
+    private void SaveResources()
+    {
+        PlayerPrefs.SetInt("HeroBossRaid.Player.Resources.Iron", _ironCount);
+        PlayerPrefs.SetInt("HeroBossRaid.Player.Resources.Gold", _goldCount);
+        PlayerPrefs.SetInt("HeroBossRaid.Player.Resources.Ruby", _rubyCount);
+        PlayerPrefs.SetInt("HeroBossRaid.Player.Resources.Diamond", _diamondCount);
+        PlayerPrefs.SetString("HeroBossRaid.Player.Resources.Money", _money.ToString(CultureInfo.InvariantCulture));
+        PlayerPrefs.Save();
     }
     
     public void Open()
@@ -73,21 +123,17 @@ public class InventoryController : MonoBehaviour
 
     public void GetItem(OreType oreType)
     {
+        EnsureResourcesLoaded();
         switch (oreType)
         {
-            case OreType.Iron: _ironCount++;
-                ironText.text = $"철광석 개수: {_ironCount}";
-                break;
-            case OreType.Gold: _goldCount++; 
-                goldText.text = $"금광석 개수:  {_goldCount}";
-                break;
-            case OreType.Ruby: _rubyCount++;
-                rubyText.text = $"루비 개수: {_rubyCount}";
-                break;
-            case OreType.Diamond: _diamondCount++;
-                diamondText.text = $"다이아몬드 개수: {_diamondCount}";
-                break;
+            case OreType.Iron: _ironCount++; break;
+            case OreType.Gold: _goldCount++; break;
+            case OreType.Ruby: _rubyCount++; break;
+            case OreType.Diamond: _diamondCount++; break;
+            default: return;
         }
+        SaveResources();
+        UpdateOreUI();
     }
 
     //Gold용 GetItem함수
@@ -98,7 +144,9 @@ public class InventoryController : MonoBehaviour
 
     public void GetMoney(long money)
     {
+        EnsureResourcesLoaded();
         this._money += money;
+        SaveResources();
         UpdateMoneyUI();
     }
 
@@ -175,6 +223,7 @@ public class InventoryController : MonoBehaviour
 
     public void UseItem(string itemName, int itemcnt)
     {
+        EnsureResourcesLoaded();
         switch(itemName)
         {
             case "Iron": _ironCount -= itemcnt; break;
@@ -183,7 +232,9 @@ public class InventoryController : MonoBehaviour
             case "Diamond": _diamondCount -= itemcnt; break;
             case "Money": _money -= itemcnt;
                 UpdateMoneyUI(); break;
+            default: return;
         }
+        SaveResources();
         UpdateOreUI();
     }
 
