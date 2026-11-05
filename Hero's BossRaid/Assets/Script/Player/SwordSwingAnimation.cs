@@ -31,12 +31,41 @@ public class SwordSwingAnimation : MonoBehaviour
     private void Update()
     {
         if (playerMove != null && playerMove.Vector2.sqrMagnitude > 0.001f)
+        {
             facingDirection = playerMove.Vector2.normalized;
+            if (animator != null && animator.GetCurrentAnimatorStateInfo(0).fullPathHash == IdleState)
+                UpdateFacing(facingDirection);
+        }
+    }
+    
+    
+    private void OnEnable()
+    {
+        PlayerController player = GetComponentInParent<PlayerController>();
+        if (player != null)
+            SetEquippedWeapon(player.UsingWeapon);
+    }
+
+    //무기 장착 함수
+    public void SetEquippedWeapon(Weapon weapon)
+    {
+        if (bladeRenderer == null)
+            return;
+        bool hasSprite = SetWeapon(weapon);
+        if (isActiveAndEnabled && animator != null && animator.isActiveAndEnabled)
+        {
+            //기본 상태를 0번째 레이어에서 실행
+            animator.Play(IdleState, 0, 0f);
+            //에니메이션 바로 갱신
+            animator.Update(0f);
+        }
+        bladeRenderer.enabled = hasSprite && isActiveAndEnabled;
+        UpdateFacing(facingDirection);
     }
 
     public void Play(Weapon weapon, Vector2 direction)
     {
-        if (animator == null || bladeRenderer == null)
+        if (!isActiveAndEnabled || animator == null || !animator.isActiveAndEnabled || bladeRenderer == null)
             return;
 
         if (!SetWeapon(weapon))
@@ -53,18 +82,29 @@ public class SwordSwingAnimation : MonoBehaviour
         facingDirection = direction;
 
         // 감지한 적을 향하고, 대상이 없으면 마지막 이동 방향으로 휘두름
+        UpdateFacing(direction);
+        //스윙 에니메이션 실행
+        animator.Play(SwingState, 0, 0f);
+        animator.Update(0f);
+    }
+    //무기를 바라보는 방향으로 변경하는 함수
+    private void UpdateFacing(Vector2 direction)
+    {
+        if (bladeRenderer == null)
+            return;
+        //무기 위치를 바라 보는쪽으로 변경
         transform.localPosition = new Vector3(direction.x * handDistance,
             direction.y * handDistance - 0.1f, 0f);
+        //무기 방향을 바라 보는 쪽으로 변경
         transform.rotation = Quaternion.Euler(0f, 0f, Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg);
 
+        //무기 스프라이트 설정
         if (playerRenderer != null)
         {
             bladeRenderer.sortingLayerID = playerRenderer.sortingLayerID;
             bladeRenderer.sortingOrder = playerRenderer.sortingOrder + (direction.y > 0.1f ? -1 : 1);
         }
 
-        animator.Play(SwingState, 0, 0f);
-        animator.Update(0f);
     }
 
     private bool SetWeapon(Weapon weapon)
