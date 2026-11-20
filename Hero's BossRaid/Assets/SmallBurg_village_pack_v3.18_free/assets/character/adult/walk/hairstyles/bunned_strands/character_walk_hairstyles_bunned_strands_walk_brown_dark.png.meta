@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: ca30b8a00d0dac94abc2835c5d193be6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6633084523269039557
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_0
+  - first:
+      213: -8020896091472917195
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_1
+  - first:
+      213: 6841627310619833882
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_2
+  - first:
+      213: 4986053969060974382
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_3
+  - first:
+      213: 3082815032472003162
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_4
+  - first:
+      213: -687156433383087158
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_5
+  - first:
+      213: -6075315837150729136
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_6
+  - first:
+      213: 3413415900761294341
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_7
+  - first:
+      213: -4868447107849320134
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_8
+  - first:
+      213: -7649234204595053752
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_9
+  - first:
+      213: -3726787949008948563
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_10
+  - first:
+      213: -3932004623117019048
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_11
+  - first:
+      213: -8698424690924938673
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_12
+  - first:
+      213: -7689164569079661413
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_13
+  - first:
+      213: 3643256335538240239
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_14
+  - first:
+      213: -9039757321928446203
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_15
+  - first:
+      213: -7835883894944972720
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_16
+  - first:
+      213: 7098109463523553222
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_17
+  - first:
+      213: -4201852853413582213
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_18
+  - first:
+      213: 9097616048907026024
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_19
+  - first:
+      213: -1505532660510561099
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_20
+  - first:
+      213: 3733770278769364123
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_21
+  - first:
+      213: 7359498496538677394
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_22
+  - first:
+      213: -124833455285084120
+    second: character_walk_hairstyles_bunned_strands_walk_brown_dark_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a796fa337d0c50800000000000000
+      internalID: 6633084523269039557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 219
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d0077508d00b090800000000000000
+      internalID: -8020896091472917195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a163b1f5ac752fe50800000000000000
+      internalID: 6841627310619833882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4ec8eaa5023540800000000000000
+      internalID: 4986053969060974382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 219
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a526ab640fb58ca20800000000000000
+      internalID: 3082815032472003162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3a3135ddab676f0800000000000000
+      internalID: -687156433383087158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 156
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c635c3f6420bba0800000000000000
+      internalID: -6075315837150729136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 155
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5060c8b3da3ee5f20800000000000000
+      internalID: 3413415900761294341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 156
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390dd8462dcf6cb0800000000000000
+      internalID: -4868447107849320134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b185fa40678d590800000000000000
+      internalID: -7649234204595053752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da27d121b1ac74cc0800000000000000
+      internalID: -3726787949008948563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 156
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589aefb0a6be69c0800000000000000
+      internalID: -3932004623117019048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 92
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9eef64dcf84780800000000000000
+      internalID: -8698424690924938673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cbc7830999a4590800000000000000
+      internalID: -7689164569079661413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab27995527f8230800000000000000
+      internalID: 3643256335538240239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe7b24c945c8280800000000000000
+      internalID: -9039757321928446203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c9942d19514390800000000000000
+      internalID: -7835883894944972720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfe82e13fc818260800000000000000
+      internalID: 7098109463523553222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 28
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a62d9971500b5c0800000000000000
+      internalID: -4201852853413582213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86efef16899314e70800000000000000
+      internalID: 9097616048907026024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 28
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce48c95064b1be0800000000000000
+      internalID: -1505532660510561099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 28
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c85f2494401d330800000000000000
+      internalID: 3733770278769364123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290953be3e0322660800000000000000
+      internalID: 7359498496538677394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bunned_strands_walk_brown_dark_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 28
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820e5a142a0844ef0800000000000000
+      internalID: -124833455285084120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_0: 6633084523269039557
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_1: -8020896091472917195
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_10: -3726787949008948563
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_11: -3932004623117019048
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_12: -8698424690924938673
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_13: -7689164569079661413
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_14: 3643256335538240239
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_15: -9039757321928446203
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_16: -7835883894944972720
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_17: 7098109463523553222
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_18: -4201852853413582213
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_19: 9097616048907026024
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_2: 6841627310619833882
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_20: -1505532660510561099
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_21: 3733770278769364123
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_22: 7359498496538677394
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_23: -124833455285084120
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_3: 4986053969060974382
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_4: 3082815032472003162
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_5: -687156433383087158
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_6: -6075315837150729136
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_7: 3413415900761294341
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_8: -4868447107849320134
+      character_walk_hairstyles_bunned_strands_walk_brown_dark_9: -7649234204595053752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

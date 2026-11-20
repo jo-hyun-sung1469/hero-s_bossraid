@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: e2f45a47ada52744a92908d469e3edb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7120705767373074827
+    second: character_run_hairstyles_long_hair_purple_0
+  - first:
+      213: 5969515299915451548
+    second: character_run_hairstyles_long_hair_purple_1
+  - first:
+      213: 7319826089924275978
+    second: character_run_hairstyles_long_hair_purple_2
+  - first:
+      213: -9041286109482901770
+    second: character_run_hairstyles_long_hair_purple_3
+  - first:
+      213: 5888216223795204294
+    second: character_run_hairstyles_long_hair_purple_4
+  - first:
+      213: -573198949552122942
+    second: character_run_hairstyles_long_hair_purple_5
+  - first:
+      213: 1436343917830623418
+    second: character_run_hairstyles_long_hair_purple_6
+  - first:
+      213: -4293905221254846233
+    second: character_run_hairstyles_long_hair_purple_7
+  - first:
+      213: -583888004461145255
+    second: character_run_hairstyles_long_hair_purple_8
+  - first:
+      213: 8784653474960012505
+    second: character_run_hairstyles_long_hair_purple_9
+  - first:
+      213: -1041528545249952628
+    second: character_run_hairstyles_long_hair_purple_10
+  - first:
+      213: -1761843557956907859
+    second: character_run_hairstyles_long_hair_purple_11
+  - first:
+      213: 5742043995395975882
+    second: character_run_hairstyles_long_hair_purple_12
+  - first:
+      213: -3653112235288794127
+    second: character_run_hairstyles_long_hair_purple_13
+  - first:
+      213: 6026139031421713656
+    second: character_run_hairstyles_long_hair_purple_14
+  - first:
+      213: 1544890761010777162
+    second: character_run_hairstyles_long_hair_purple_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e07a9e4db2e2d90800000000000000
+      internalID: -7120705767373074827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 222
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c48b4998af7d250800000000000000
+      internalID: 5969515299915451548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fa293fb0f359560800000000000000
+      internalID: 7319826089924275978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 222
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe199baf26e68280800000000000000
+      internalID: -9041286109482901770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 156
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0510c557527b150800000000000000
+      internalID: 5888216223795204294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 158
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c39152a7969b08f0800000000000000
+      internalID: -573198949552122942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab05695ee2beee310800000000000000
+      internalID: 1436343917830623418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 158
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e8eb83fbf864c0800000000000000
+      internalID: -4293905221254846233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9535b7914fc95e7f0800000000000000
+      internalID: -583888004461145255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d474e9dacb59e970800000000000000
+      internalID: 8784653474960012505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c72fc6e4fbb81f0800000000000000
+      internalID: -1041528545249952628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0b226e9cac87e0800000000000000
+      internalID: -1761843557956907859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaed365796dfaf40800000000000000
+      internalID: 5742043995395975882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb6afae6c98d4dc0800000000000000
+      internalID: -3653112235288794127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 30
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf10f658521a350800000000000000
+      internalID: 6026139031421713656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_long_hair_purple_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c84d246fd807510800000000000000
+      internalID: 1544890761010777162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_run_hairstyles_long_hair_purple_0: -7120705767373074827
+      character_run_hairstyles_long_hair_purple_1: 5969515299915451548
+      character_run_hairstyles_long_hair_purple_10: -1041528545249952628
+      character_run_hairstyles_long_hair_purple_11: -1761843557956907859
+      character_run_hairstyles_long_hair_purple_12: 5742043995395975882
+      character_run_hairstyles_long_hair_purple_13: -3653112235288794127
+      character_run_hairstyles_long_hair_purple_14: 6026139031421713656
+      character_run_hairstyles_long_hair_purple_15: 1544890761010777162
+      character_run_hairstyles_long_hair_purple_2: 7319826089924275978
+      character_run_hairstyles_long_hair_purple_3: -9041286109482901770
+      character_run_hairstyles_long_hair_purple_4: 5888216223795204294
+      character_run_hairstyles_long_hair_purple_5: -573198949552122942
+      character_run_hairstyles_long_hair_purple_6: 1436343917830623418
+      character_run_hairstyles_long_hair_purple_7: -4293905221254846233
+      character_run_hairstyles_long_hair_purple_8: -583888004461145255
+      character_run_hairstyles_long_hair_purple_9: 8784653474960012505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 82e8f4f173cc31849b6d853f2faf79ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8679598699179031131
+    second: character_run_hairstyles_bunned_strands_brown_dark_0
+  - first:
+      213: -1742764353751482646
+    second: character_run_hairstyles_bunned_strands_brown_dark_1
+  - first:
+      213: 3479044946352263357
+    second: character_run_hairstyles_bunned_strands_brown_dark_2
+  - first:
+      213: -167306666225494761
+    second: character_run_hairstyles_bunned_strands_brown_dark_3
+  - first:
+      213: 522137524743926300
+    second: character_run_hairstyles_bunned_strands_brown_dark_4
+  - first:
+      213: 6658569161069771990
+    second: character_run_hairstyles_bunned_strands_brown_dark_5
+  - first:
+      213: -5992021662874427818
+    second: character_run_hairstyles_bunned_strands_brown_dark_6
+  - first:
+      213: 1928406478075918140
+    second: character_run_hairstyles_bunned_strands_brown_dark_7
+  - first:
+      213: 4621688584463033119
+    second: character_run_hairstyles_bunned_strands_brown_dark_8
+  - first:
+      213: -7286245297613004684
+    second: character_run_hairstyles_bunned_strands_brown_dark_9
+  - first:
+      213: -5257199349154671770
+    second: character_run_hairstyles_bunned_strands_brown_dark_10
+  - first:
+      213: -2116179998672066628
+    second: character_run_hairstyles_bunned_strands_brown_dark_11
+  - first:
+      213: 7745861404551912741
+    second: character_run_hairstyles_bunned_strands_brown_dark_12
+  - first:
+      213: -1880211966171071216
+    second: character_run_hairstyles_bunned_strands_brown_dark_13
+  - first:
+      213: 4843486288223165086
+    second: character_run_hairstyles_bunned_strands_brown_dark_14
+  - first:
+      213: -7352959938512312044
+    second: character_run_hairstyles_bunned_strands_brown_dark_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5cd7638fedb8780800000000000000
+      internalID: -8679598699179031131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeefd67cd0570d7e0800000000000000
+      internalID: -1742764353751482646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d1f822fc084030800000000000000
+      internalID: 3479044946352263357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7151317397b9dadf0800000000000000
+      internalID: -167306666225494761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 155
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c127346ff410f3700800000000000000
+      internalID: 522137524743926300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc3fe59f5df76c50800000000000000
+      internalID: 6658569161069771990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e9ce17b0018dca0800000000000000
+      internalID: -5992021662874427818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 157
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f644897313ca10800000000000000
+      internalID: 1928406478075918140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a563e749832040800000000000000
+      internalID: 4621688584463033119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470aa69818e02ea90800000000000000
+      internalID: -7286245297613004684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 93
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639838bb0daa07b0800000000000000
+      internalID: -5257199349154671770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 91
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb76d52d081d1a2e0800000000000000
+      internalID: -2116179998672066628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d99b978e3de7b60800000000000000
+      internalID: 7745861404551912741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 26
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3fe5bd2528e5e0800000000000000
+      internalID: -1880211966171071216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a54040e15873340800000000000000
+      internalID: 4843486288223165086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_bunned_strands_brown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 26
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ab41c4e905f990800000000000000
+      internalID: -7352959938512312044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_run_hairstyles_bunned_strands_brown_dark_0: -8679598699179031131
+      character_run_hairstyles_bunned_strands_brown_dark_1: -1742764353751482646
+      character_run_hairstyles_bunned_strands_brown_dark_10: -5257199349154671770
+      character_run_hairstyles_bunned_strands_brown_dark_11: -2116179998672066628
+      character_run_hairstyles_bunned_strands_brown_dark_12: 7745861404551912741
+      character_run_hairstyles_bunned_strands_brown_dark_13: -1880211966171071216
+      character_run_hairstyles_bunned_strands_brown_dark_14: 4843486288223165086
+      character_run_hairstyles_bunned_strands_brown_dark_15: -7352959938512312044
+      character_run_hairstyles_bunned_strands_brown_dark_2: 3479044946352263357
+      character_run_hairstyles_bunned_strands_brown_dark_3: -167306666225494761
+      character_run_hairstyles_bunned_strands_brown_dark_4: 522137524743926300
+      character_run_hairstyles_bunned_strands_brown_dark_5: 6658569161069771990
+      character_run_hairstyles_bunned_strands_brown_dark_6: -5992021662874427818
+      character_run_hairstyles_bunned_strands_brown_dark_7: 1928406478075918140
+      character_run_hairstyles_bunned_strands_brown_dark_8: 4621688584463033119
+      character_run_hairstyles_bunned_strands_brown_dark_9: -7286245297613004684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

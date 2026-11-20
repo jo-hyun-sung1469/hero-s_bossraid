@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 4052eaa1bed64a344b989b0e161dc258
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8916654152829536046
+    second: run_hairs_ponytail_bown_dark_0
+  - first:
+      213: 6479262631073446297
+    second: run_hairs_ponytail_bown_dark_1
+  - first:
+      213: 1960798998002580230
+    second: run_hairs_ponytail_bown_dark_2
+  - first:
+      213: -2758421801981933132
+    second: run_hairs_ponytail_bown_dark_3
+  - first:
+      213: -7823852405035137275
+    second: run_hairs_ponytail_bown_dark_4
+  - first:
+      213: -5548729923146055288
+    second: run_hairs_ponytail_bown_dark_5
+  - first:
+      213: 4383471054339620065
+    second: run_hairs_ponytail_bown_dark_6
+  - first:
+      213: 1533732417316695921
+    second: run_hairs_ponytail_bown_dark_7
+  - first:
+      213: 7048464924376085907
+    second: run_hairs_ponytail_bown_dark_8
+  - first:
+      213: -8225185005976332025
+    second: run_hairs_ponytail_bown_dark_9
+  - first:
+      213: 3528699166899052574
+    second: run_hairs_ponytail_bown_dark_10
+  - first:
+      213: 7706153850107708404
+    second: run_hairs_ponytail_bown_dark_11
+  - first:
+      213: 215110326246497488
+    second: run_hairs_ponytail_bown_dark_12
+  - first:
+      213: -3587296733179750269
+    second: run_hairs_ponytail_bown_dark_13
+  - first:
+      213: -5950312829362241668
+    second: run_hairs_ponytail_bown_dark_14
+  - first:
+      213: -2729292119046579938
+    second: run_hairs_ponytail_bown_dark_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 223
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278a64a5b15ebb70800000000000000
+      internalID: 8916654152829536046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 221
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999789bc807fae950800000000000000
+      internalID: 6479262631073446297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 223
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb2e7cc48263b10800000000000000
+      internalID: 1960798998002580230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 221
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b98c206cfd18b9d0800000000000000
+      internalID: -2758421801981933132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078bcea0b71c6390800000000000000
+      internalID: -7823852405035137275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8818c488883fef2b0800000000000000
+      internalID: -5548729923146055288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 159
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecbe1503b735dc30800000000000000
+      internalID: 4383471054339620065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa9aae189e84510800000000000000
+      internalID: 1533732417316695921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395bc3d118d21d160800000000000000
+      internalID: 7048464924376085907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70959e2e0d54add80800000000000000
+      internalID: -8225185005976332025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e102c3a423578f030800000000000000
+      internalID: 3528699166899052574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3cd240912c1fa60800000000000000
+      internalID: 7706153850107708404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcd077b3b93cf200800000000000000
+      internalID: 215110326246497488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d6e2a0ac573ec0800000000000000
+      internalID: -3587296733179750269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ff96ff10e3c6da0800000000000000
+      internalID: -5950312829362241668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_ponytail_bown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1994f3374b9f1ad0800000000000000
+      internalID: -2729292119046579938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run_hairs_ponytail_bown_dark_0: 8916654152829536046
+      run_hairs_ponytail_bown_dark_1: 6479262631073446297
+      run_hairs_ponytail_bown_dark_10: 3528699166899052574
+      run_hairs_ponytail_bown_dark_11: 7706153850107708404
+      run_hairs_ponytail_bown_dark_12: 215110326246497488
+      run_hairs_ponytail_bown_dark_13: -3587296733179750269
+      run_hairs_ponytail_bown_dark_14: -5950312829362241668
+      run_hairs_ponytail_bown_dark_15: -2729292119046579938
+      run_hairs_ponytail_bown_dark_2: 1960798998002580230
+      run_hairs_ponytail_bown_dark_3: -2758421801981933132
+      run_hairs_ponytail_bown_dark_4: -7823852405035137275
+      run_hairs_ponytail_bown_dark_5: -5548729923146055288
+      run_hairs_ponytail_bown_dark_6: 4383471054339620065
+      run_hairs_ponytail_bown_dark_7: 1533732417316695921
+      run_hairs_ponytail_bown_dark_8: 7048464924376085907
+      run_hairs_ponytail_bown_dark_9: -8225185005976332025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

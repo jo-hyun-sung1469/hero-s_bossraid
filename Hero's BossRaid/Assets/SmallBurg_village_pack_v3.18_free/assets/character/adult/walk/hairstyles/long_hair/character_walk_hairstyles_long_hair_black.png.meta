@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: ec043a652b38a06408ddf9d028cd0801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -806555003022247438
+    second: character_walk_hairstyles_long_hair_black_0
+  - first:
+      213: -4245374197703556818
+    second: character_walk_hairstyles_long_hair_black_1
+  - first:
+      213: 8033029446746485314
+    second: character_walk_hairstyles_long_hair_black_2
+  - first:
+      213: 1287741908341245922
+    second: character_walk_hairstyles_long_hair_black_3
+  - first:
+      213: -9111785100988548631
+    second: character_walk_hairstyles_long_hair_black_4
+  - first:
+      213: 8391788598317372127
+    second: character_walk_hairstyles_long_hair_black_5
+  - first:
+      213: -1084965969043165120
+    second: character_walk_hairstyles_long_hair_black_6
+  - first:
+      213: 3455856094927161335
+    second: character_walk_hairstyles_long_hair_black_7
+  - first:
+      213: 1809020652404340778
+    second: character_walk_hairstyles_long_hair_black_8
+  - first:
+      213: -184371960136908464
+    second: character_walk_hairstyles_long_hair_black_9
+  - first:
+      213: 443823308070140647
+    second: character_walk_hairstyles_long_hair_black_10
+  - first:
+      213: -749953637367588371
+    second: character_walk_hairstyles_long_hair_black_11
+  - first:
+      213: 8046664875220403671
+    second: character_walk_hairstyles_long_hair_black_12
+  - first:
+      213: 8362940429081798898
+    second: character_walk_hairstyles_long_hair_black_13
+  - first:
+      213: -8554133090933389266
+    second: character_walk_hairstyles_long_hair_black_14
+  - first:
+      213: 2994865037286380634
+    second: character_walk_hairstyles_long_hair_black_15
+  - first:
+      213: -9188108360832945172
+    second: character_walk_hairstyles_long_hair_black_16
+  - first:
+      213: -318723846495045848
+    second: character_walk_hairstyles_long_hair_black_17
+  - first:
+      213: -6510495346867605987
+    second: character_walk_hairstyles_long_hair_black_18
+  - first:
+      213: -8930148658643254783
+    second: character_walk_hairstyles_long_hair_black_19
+  - first:
+      213: -7954149861010214866
+    second: character_walk_hairstyles_long_hair_black_20
+  - first:
+      213: -6366298852067933044
+    second: character_walk_hairstyles_long_hair_black_21
+  - first:
+      213: -5820932632296158444
+    second: character_walk_hairstyles_long_hair_black_22
+  - first:
+      213: 5807761020980726482
+    second: character_walk_hairstyles_long_hair_black_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97b018f7a8ec4f0800000000000000
+      internalID: -806555003022247438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 220
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21454ff8a66515c0800000000000000
+      internalID: -4245374197703556818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242b39398bd0b7f60800000000000000
+      internalID: 8033029446746485314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74011617afed110800000000000000
+      internalID: 1287741908341245922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e971e91abf6c8180800000000000000
+      internalID: -9111785100988548631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd251e0c44f957470800000000000000
+      internalID: 8391788598317372127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407bc5133d61f0f0800000000000000
+      internalID: -1084965969043165120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 156
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78005fecaa5ff20800000000000000
+      internalID: 3455856094927161335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f7e1e2beea1910800000000000000
+      internalID: 1809020652404340778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514f79ddaaf07df0800000000000000
+      internalID: -184371960136908464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 156
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3f8c72f6c82600800000000000000
+      internalID: 443823308070140647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de951b6e321a795f0800000000000000
+      internalID: -749953637367588371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5002a221f7baf60800000000000000
+      internalID: 8046664875220403671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f86c21f2022f0470800000000000000
+      internalID: 8362940429081798898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e284089864d994980800000000000000
+      internalID: -8554133090933389266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5411b942e5ef8920800000000000000
+      internalID: 2994865037286380634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce371c260284d7080800000000000000
+      internalID: -9188108360832945172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827773ca95aa39bf0800000000000000
+      internalID: -318723846495045848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e6f12e9f216a5a0800000000000000
+      internalID: -6510495346867605987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024322eb1db11480800000000000000
+      internalID: -8930148658643254783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20734428de2d9190800000000000000
+      internalID: -7954149861010214866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8483849cec56a7a0800000000000000
+      internalID: -6366298852067933044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b028e8c94e73fa0800000000000000
+      internalID: -5820932632296158444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_long_hair_black_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da8ae3b0ef499050800000000000000
+      internalID: 5807761020980726482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_long_hair_black_0: -806555003022247438
+      character_walk_hairstyles_long_hair_black_1: -4245374197703556818
+      character_walk_hairstyles_long_hair_black_10: 443823308070140647
+      character_walk_hairstyles_long_hair_black_11: -749953637367588371
+      character_walk_hairstyles_long_hair_black_12: 8046664875220403671
+      character_walk_hairstyles_long_hair_black_13: 8362940429081798898
+      character_walk_hairstyles_long_hair_black_14: -8554133090933389266
+      character_walk_hairstyles_long_hair_black_15: 2994865037286380634
+      character_walk_hairstyles_long_hair_black_16: -9188108360832945172
+      character_walk_hairstyles_long_hair_black_17: -318723846495045848
+      character_walk_hairstyles_long_hair_black_18: -6510495346867605987
+      character_walk_hairstyles_long_hair_black_19: -8930148658643254783
+      character_walk_hairstyles_long_hair_black_2: 8033029446746485314
+      character_walk_hairstyles_long_hair_black_20: -7954149861010214866
+      character_walk_hairstyles_long_hair_black_21: -6366298852067933044
+      character_walk_hairstyles_long_hair_black_22: -5820932632296158444
+      character_walk_hairstyles_long_hair_black_23: 5807761020980726482
+      character_walk_hairstyles_long_hair_black_3: 1287741908341245922
+      character_walk_hairstyles_long_hair_black_4: -9111785100988548631
+      character_walk_hairstyles_long_hair_black_5: 8391788598317372127
+      character_walk_hairstyles_long_hair_black_6: -1084965969043165120
+      character_walk_hairstyles_long_hair_black_7: 3455856094927161335
+      character_walk_hairstyles_long_hair_black_8: 1809020652404340778
+      character_walk_hairstyles_long_hair_black_9: -184371960136908464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

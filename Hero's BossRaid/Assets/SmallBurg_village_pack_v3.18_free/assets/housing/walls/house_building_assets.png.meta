@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: dc30ac49119240f4a86be2d6acce81a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8739375689472965848
+    second: house_building_assets_0
+  - first:
+      213: -8981373434908835167
+    second: house_building_assets_1
+  - first:
+      213: -7502854584044495431
+    second: house_building_assets_2
+  - first:
+      213: 1182273155922374565
+    second: house_building_assets_3
+  - first:
+      213: -2936718974680317314
+    second: house_building_assets_4
+  - first:
+      213: 4784396700272165429
+    second: house_building_assets_5
+  - first:
+      213: -3248249724498042048
+    second: house_building_assets_6
+  - first:
+      213: 7478511537754907896
+    second: house_building_assets_7
+  - first:
+      213: 6158788579975538662
+    second: house_building_assets_8
+  - first:
+      213: -4971432479478997367
+    second: house_building_assets_9
+  - first:
+      213: 67100665185584254
+    second: house_building_assets_10
+  - first:
+      213: 7679563118549696431
+    second: house_building_assets_11
+  - first:
+      213: -1189199810538454353
+    second: house_building_assets_12
+  - first:
+      213: -7699438635779021035
+    second: house_building_assets_13
+  - first:
+      213: -1008458044154437093
+    second: house_building_assets_14
+  - first:
+      213: -5904946171315630416
+    second: house_building_assets_15
+  - first:
+      213: 6941132773856079111
+    second: house_building_assets_16
+  - first:
+      213: -8797458892458318680
+    second: house_building_assets_17
+  - first:
+      213: -5836184536282349342
+    second: house_building_assets_18
+  - first:
+      213: -6178061669628900128
+    second: house_building_assets_19
+  - first:
+      213: -6557940648120967116
+    second: house_building_assets_20
+  - first:
+      213: -4090604888412302085
+    second: house_building_assets_21
+  - first:
+      213: -5758486682721903862
+    second: house_building_assets_22
+  - first:
+      213: -5611133614129752919
+    second: house_building_assets_23
+  - first:
+      213: -798568370427773745
+    second: house_building_assets_24
+  - first:
+      213: 5924050250479278056
+    second: house_building_assets_25
+  - first:
+      213: -367771808896431563
+    second: house_building_assets_26
+  - first:
+      213: 2299557456662163665
+    second: house_building_assets_27
+  - first:
+      213: 6111344748079898933
+    second: house_building_assets_28
+  - first:
+      213: 2395712122482956692
+    second: house_building_assets_29
+  - first:
+      213: 8472313270531916799
+    second: house_building_assets_30
+  - first:
+      213: -4802494189769388516
+    second: house_building_assets_31
+  - first:
+      213: -9069458614220292206
+    second: house_building_assets_32
+  - first:
+      213: 4866018387327642401
+    second: house_building_assets_33
+  - first:
+      213: 3608022945427766844
+    second: house_building_assets_34
+  - first:
+      213: 2902057868737132941
+    second: house_building_assets_35
+  - first:
+      213: 2589478537250307271
+    second: house_building_assets_36
+  - first:
+      213: -3973648847240405861
+    second: house_building_assets_37
+  - first:
+      213: 7279448665948681104
+    second: house_building_assets_38
+  - first:
+      213: -1962858690985562736
+    second: house_building_assets_39
+  - first:
+      213: 1544372907155435170
+    second: house_building_assets_40
+  - first:
+      213: 5132267519467429230
+    second: house_building_assets_41
+  - first:
+      213: 190095735812894272
+    second: house_building_assets_42
+  - first:
+      213: -3909465713768019704
+    second: house_building_assets_43
+  - first:
+      213: -6859145719810484529
+    second: house_building_assets_44
+  - first:
+      213: -646644777984240812
+    second: house_building_assets_45
+  - first:
+      213: 8015936766981997991
+    second: house_building_assets_46
+  - first:
+      213: 4119059463362099061
+    second: house_building_assets_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_building_assets_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 543
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc78b9e2ef784970800000000000000
+      internalID: 8739375689472965848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 543
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a201214270cb5380800000000000000
+      internalID: -8981373434908835167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 623
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddd94f18180e790800000000000000
+      internalID: -7502854584044495431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 543
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afab3edb27486010800000000000000
+      internalID: 1182273155922374565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 543
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c705e6adae37d0800000000000000
+      internalID: -2936718974680317314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 623
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53206483377956240800000000000000
+      internalID: 4784396700272165429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 543
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a885e516ebe2d0800000000000000
+      internalID: -3248249724498042048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_7
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 543
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4aa88ee9209c760800000000000000
+      internalID: 7478511537754907896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_8
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 623
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ac243599687550800000000000000
+      internalID: 6158788579975538662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 543
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e90dbef7ce10bb0800000000000000
+      internalID: -4971432479478997367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 543
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74449013b36ee000800000000000000
+      internalID: 67100665185584254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_11
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 543
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf785fd7f9439a60800000000000000
+      internalID: 7679563118549696431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 367
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c4eda21d1f7fe0800000000000000
+      internalID: -1189199810538454353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 367
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5172978aa59162590800000000000000
+      internalID: -7699438635779021035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 447
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b122a4b70cc3102f0800000000000000
+      internalID: -1008458044154437093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 367
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0becde03eba6d0ea0800000000000000
+      internalID: -5904946171315630416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 367
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d638c6b7bd35060800000000000000
+      internalID: 6941132773856079111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 447
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4abec8fb529e580800000000000000
+      internalID: -8797458892458318680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 367
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0434fe515b10fa0800000000000000
+      internalID: -5836184536282349342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_19
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 367
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec005de4ad134aa0800000000000000
+      internalID: -6178061669628900128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_20
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 447
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a7aad9b38df4a0800000000000000
+      internalID: -6557940648120967116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 367
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf455b5e6804b37c0800000000000000
+      internalID: -4090604888412302085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 367
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b1b803fdeb510b0800000000000000
+      internalID: -5758486682721903862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_23
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 367
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4da8ef4bf3122b0800000000000000
+      internalID: -5611133614129752919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 191
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc3acf4c4aeae4f0800000000000000
+      internalID: -798568370427773745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 191
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7916bd054763250800000000000000
+      internalID: 5924050250479278056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 271
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a43540d7965eaf0800000000000000
+      internalID: -367771808896431563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 191
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f2f0c25ba9ef10800000000000000
+      internalID: 2299557456662163665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 191
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53160494babdfc450800000000000000
+      internalID: 6111344748079898933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_29
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 271
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49991bc7b774f3120800000000000000
+      internalID: 2395712122482956692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_30
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 191
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff302e30804b39570800000000000000
+      internalID: 8472313270531916799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_31
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 191
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e0be6aafc1a5db0800000000000000
+      internalID: -4802494189769388516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_32
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 271
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ffa42417fc22280800000000000000
+      internalID: -9069458614220292206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 191
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bee2721f1978340800000000000000
+      internalID: 4866018387327642401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_34
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 191
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e3ea3b0c5421230800000000000000
+      internalID: 3608022945427766844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_35
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 191
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8934bf714e264820800000000000000
+      internalID: 2902057868737132941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7d4e820dafe320800000000000000
+      internalID: 2589478537250307271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c581e3d63cad8c0800000000000000
+      internalID: -3973648847240405861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 95
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ff865efbc50560800000000000000
+      internalID: 7279448665948681104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 15
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d64839b6682c4e0800000000000000
+      internalID: -1962858690985562736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 15
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeacb30af6be6510800000000000000
+      internalID: 1544372907155435170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_41
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 95
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9126fd1a793740800000000000000
+      internalID: 5132267519467429230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_42
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 15
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea176801b53a200800000000000000
+      internalID: 190095735812894272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_43
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 15
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c94585a9ceb9c0800000000000000
+      internalID: -3909465713768019704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_44
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 95
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc61e042f4b6fc0a0800000000000000
+      internalID: -6859145719810484529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 15
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45353602008a607f0800000000000000
+      internalID: -646644777984240812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 15
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a584f1f4045e3f60800000000000000
+      internalID: 8015936766981997991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_47
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 15
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b86a12c6d92930800000000000000
+      internalID: 4119059463362099061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_building_assets_0: 8739375689472965848
+      house_building_assets_1: -8981373434908835167
+      house_building_assets_10: 67100665185584254
+      house_building_assets_11: 7679563118549696431
+      house_building_assets_12: -1189199810538454353
+      house_building_assets_13: -7699438635779021035
+      house_building_assets_14: -1008458044154437093
+      house_building_assets_15: -5904946171315630416
+      house_building_assets_16: 6941132773856079111
+      house_building_assets_17: -8797458892458318680
+      house_building_assets_18: -5836184536282349342
+      house_building_assets_19: -6178061669628900128
+      house_building_assets_2: -7502854584044495431
+      house_building_assets_20: -6557940648120967116
+      house_building_assets_21: -4090604888412302085
+      house_building_assets_22: -5758486682721903862
+      house_building_assets_23: -5611133614129752919
+      house_building_assets_24: -798568370427773745
+      house_building_assets_25: 5924050250479278056
+      house_building_assets_26: -367771808896431563
+      house_building_assets_27: 2299557456662163665
+      house_building_assets_28: 6111344748079898933
+      house_building_assets_29: 2395712122482956692
+      house_building_assets_3: 1182273155922374565
+      house_building_assets_30: 8472313270531916799
+      house_building_assets_31: -4802494189769388516
+      house_building_assets_32: -9069458614220292206
+      house_building_assets_33: 4866018387327642401
+      house_building_assets_34: 3608022945427766844
+      house_building_assets_35: 2902057868737132941
+      house_building_assets_36: 2589478537250307271
+      house_building_assets_37: -3973648847240405861
+      house_building_assets_38: 7279448665948681104
+      house_building_assets_39: -1962858690985562736
+      house_building_assets_4: -2936718974680317314
+      house_building_assets_40: 1544372907155435170
+      house_building_assets_41: 5132267519467429230
+      house_building_assets_42: 190095735812894272
+      house_building_assets_43: -3909465713768019704
+      house_building_assets_44: -6859145719810484529
+      house_building_assets_45: -646644777984240812
+      house_building_assets_46: 8015936766981997991
+      house_building_assets_47: 4119059463362099061
+      house_building_assets_5: 4784396700272165429
+      house_building_assets_6: -3248249724498042048
+      house_building_assets_7: 7478511537754907896
+      house_building_assets_8: 6158788579975538662
+      house_building_assets_9: -4971432479478997367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

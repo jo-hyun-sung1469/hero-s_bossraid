@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: d3d7630c9477a4b42838616adf7ab641
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2253619117163274930
+    second: house_building_assets_red_light_0
+  - first:
+      213: 7623245664050605877
+    second: house_building_assets_red_light_1
+  - first:
+      213: -6410426695858505196
+    second: house_building_assets_red_light_2
+  - first:
+      213: 5356918861748976299
+    second: house_building_assets_red_light_3
+  - first:
+      213: 4982041844816912638
+    second: house_building_assets_red_light_4
+  - first:
+      213: 6232765263465096694
+    second: house_building_assets_red_light_5
+  - first:
+      213: 5533836210284713750
+    second: house_building_assets_red_light_6
+  - first:
+      213: 3010267210670451751
+    second: house_building_assets_red_light_7
+  - first:
+      213: -7635171794194396222
+    second: house_building_assets_red_light_8
+  - first:
+      213: 904287806850494241
+    second: house_building_assets_red_light_9
+  - first:
+      213: 2979221992858355982
+    second: house_building_assets_red_light_10
+  - first:
+      213: -4253232692559760197
+    second: house_building_assets_red_light_11
+  - first:
+      213: -7664257844927062843
+    second: house_building_assets_red_light_12
+  - first:
+      213: -1911786783531229808
+    second: house_building_assets_red_light_13
+  - first:
+      213: 6450108453230602739
+    second: house_building_assets_red_light_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_building_assets_red_light_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 217
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d14766a5989b0e0800000000000000
+      internalID: -2253619117163274930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 219
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fe541ba853bc960800000000000000
+      internalID: 7623245664050605877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 299
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a3cae42e69907a0800000000000000
+      internalID: -6410426695858505196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 219
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa33259259975a40800000000000000
+      internalID: 5356918861748976299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 139
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a17079a4c32540800000000000000
+      internalID: 4982041844816912638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 91
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f52b390cfa3f7650800000000000000
+      internalID: 6232765263465096694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d637b6b22ccc40800000000000000
+      internalID: 5533836210284713750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 92
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca40b341e96c920800000000000000
+      internalID: 3010267210670451751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 86
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb06ffb4bb6a0690800000000000000
+      internalID: -7635171794194396222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 60
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6a0e18fcac8c00800000000000000
+      internalID: 904287806850494241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 60
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098a5f2e92585920800000000000000
+      internalID: 2979221992858355982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b5e4966b79f4c0800000000000000
+      internalID: -4253232692559760197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 44
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc1f16d81613a590800000000000000
+      internalID: -7664257844927062843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 43
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d9559ac08f775e0800000000000000
+      internalID: -1911786783531229808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_assets_red_light_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ed8dc673638950800000000000000
+      internalID: 6450108453230602739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_building_assets_red_light_0: -2253619117163274930
+      house_building_assets_red_light_1: 7623245664050605877
+      house_building_assets_red_light_10: 2979221992858355982
+      house_building_assets_red_light_11: -4253232692559760197
+      house_building_assets_red_light_12: -7664257844927062843
+      house_building_assets_red_light_13: -1911786783531229808
+      house_building_assets_red_light_14: 6450108453230602739
+      house_building_assets_red_light_2: -6410426695858505196
+      house_building_assets_red_light_3: 5356918861748976299
+      house_building_assets_red_light_4: 4982041844816912638
+      house_building_assets_red_light_5: 6232765263465096694
+      house_building_assets_red_light_6: 5533836210284713750
+      house_building_assets_red_light_7: 3010267210670451751
+      house_building_assets_red_light_8: -7635171794194396222
+      house_building_assets_red_light_9: 904287806850494241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

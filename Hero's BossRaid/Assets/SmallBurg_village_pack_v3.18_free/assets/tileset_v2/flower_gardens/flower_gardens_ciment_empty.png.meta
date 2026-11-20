@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: fee37720776d005409edae804b2dfe3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2587276160127355344
+    second: flower_gardens_ciment_empty_0
+  - first:
+      213: -8767680264783220267
+    second: flower_gardens_ciment_empty_1
+  - first:
+      213: 4712491194058032569
+    second: flower_gardens_ciment_empty_2
+  - first:
+      213: 130904776226249144
+    second: flower_gardens_ciment_empty_3
+  - first:
+      213: -721661764207726221
+    second: flower_gardens_ciment_empty_4
+  - first:
+      213: 8765284910911641492
+    second: flower_gardens_ciment_empty_5
+  - first:
+      213: 2120582472331531218
+    second: flower_gardens_ciment_empty_6
+  - first:
+      213: -4234296730779043652
+    second: flower_gardens_ciment_empty_7
+  - first:
+      213: 6216347732783165809
+    second: flower_gardens_ciment_empty_8
+  - first:
+      213: -1104428633476544217
+    second: flower_gardens_ciment_empty_9
+  - first:
+      213: 5298927670376550362
+    second: flower_gardens_ciment_empty_10
+  - first:
+      213: -8405766525764587705
+    second: flower_gardens_ciment_empty_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036b5c35a06281cd0800000000000000
+      internalID: -2587276160127355344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 65
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b4699041f25680800000000000000
+      internalID: -8767680264783220267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54cfce5c1266140800000000000000
+      internalID: 4712491194058032569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 65
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b91e5e433111d100800000000000000
+      internalID: 130904776226249144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 65
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ba60f2742cf5f0800000000000000
+      internalID: -721661764207726221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 65
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497dafd9f2c84a970800000000000000
+      internalID: 8765284910911641492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39d34f582dd6d10800000000000000
+      internalID: 2120582472331531218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb83150ce81cc35c0800000000000000
+      internalID: -4234296730779043652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 27
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17178dcc357e44650800000000000000
+      internalID: 6216347732783165809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 27
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294cd562084ca0f0800000000000000
+      internalID: -1104428633476544217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf484b24a2998940800000000000000
+      internalID: 5298927670376550362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_gardens_ciment_empty_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 27
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74faee661e7b85b80800000000000000
+      internalID: -8405766525764587705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flower_gardens_ciment_empty_0: -2587276160127355344
+      flower_gardens_ciment_empty_1: -8767680264783220267
+      flower_gardens_ciment_empty_10: 5298927670376550362
+      flower_gardens_ciment_empty_11: -8405766525764587705
+      flower_gardens_ciment_empty_2: 4712491194058032569
+      flower_gardens_ciment_empty_3: 130904776226249144
+      flower_gardens_ciment_empty_4: -721661764207726221
+      flower_gardens_ciment_empty_5: 8765284910911641492
+      flower_gardens_ciment_empty_6: 2120582472331531218
+      flower_gardens_ciment_empty_7: -4234296730779043652
+      flower_gardens_ciment_empty_8: 6216347732783165809
+      flower_gardens_ciment_empty_9: -1104428633476544217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

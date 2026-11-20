@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 415ac82353849ac4d82dca4164618e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8166582677932485163
+    second: running_hairs_small_brown_light_0
+  - first:
+      213: 6688230166619954476
+    second: running_hairs_small_brown_light_1
+  - first:
+      213: -4956068687045465558
+    second: running_hairs_small_brown_light_2
+  - first:
+      213: 2014442890703923146
+    second: running_hairs_small_brown_light_3
+  - first:
+      213: -8026216064641604275
+    second: running_hairs_small_brown_light_4
+  - first:
+      213: 7334021699234149478
+    second: running_hairs_small_brown_light_5
+  - first:
+      213: 6467131118937885044
+    second: running_hairs_small_brown_light_6
+  - first:
+      213: 6535187795760877158
+    second: running_hairs_small_brown_light_7
+  - first:
+      213: 2146511667360675127
+    second: running_hairs_small_brown_light_8
+  - first:
+      213: 5680220215443058149
+    second: running_hairs_small_brown_light_9
+  - first:
+      213: 7939034798763629402
+    second: running_hairs_small_brown_light_10
+  - first:
+      213: 1930508226375100729
+    second: running_hairs_small_brown_light_11
+  - first:
+      213: 4443861905879401050
+    second: running_hairs_small_brown_light_12
+  - first:
+      213: -5656793036714714279
+    second: running_hairs_small_brown_light_13
+  - first:
+      213: -1090985593465232994
+    second: running_hairs_small_brown_light_14
+  - first:
+      213: 531065068709414655
+    second: running_hairs_small_brown_light_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a260b5da7855170800000000000000
+      internalID: 8166582677932485163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 220
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d1f6996ed51dc50800000000000000
+      internalID: 6688230166619954476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ae73a99c1883bb0800000000000000
+      internalID: -4956068687045465558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7e7b8d22db4fb10800000000000000
+      internalID: 2014442890703923146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45e08093072d9090800000000000000
+      internalID: -8026216064641604275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664bbddc0eda7c560800000000000000
+      internalID: 7334021699234149478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479ca240d7ddfb950800000000000000
+      internalID: 6467131118937885044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 155
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e8bc2eca6a1ba50800000000000000
+      internalID: 6535187795760877158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 93
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735b34f1df0f9cd10800000000000000
+      internalID: 2146511667360675127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ede97bd03234de40800000000000000
+      internalID: 5680220215443058149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 93
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b55cf261e1d2e60800000000000000
+      internalID: 7939034798763629402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ae0de00b8aca10800000000000000
+      internalID: 1930508226375100729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5205dadbd4cbad30800000000000000
+      internalID: 4443861905879401050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b57be34b80f71b0800000000000000
+      internalID: -5656793036714714279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 29
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91af6e026a0cd0f0800000000000000
+      internalID: -1090985593465232994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_small_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60b05cdd8be5700800000000000000
+      internalID: 531065068709414655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running_hairs_small_brown_light_0: 8166582677932485163
+      running_hairs_small_brown_light_1: 6688230166619954476
+      running_hairs_small_brown_light_10: 7939034798763629402
+      running_hairs_small_brown_light_11: 1930508226375100729
+      running_hairs_small_brown_light_12: 4443861905879401050
+      running_hairs_small_brown_light_13: -5656793036714714279
+      running_hairs_small_brown_light_14: -1090985593465232994
+      running_hairs_small_brown_light_15: 531065068709414655
+      running_hairs_small_brown_light_2: -4956068687045465558
+      running_hairs_small_brown_light_3: 2014442890703923146
+      running_hairs_small_brown_light_4: -8026216064641604275
+      running_hairs_small_brown_light_5: 7334021699234149478
+      running_hairs_small_brown_light_6: 6467131118937885044
+      running_hairs_small_brown_light_7: 6535187795760877158
+      running_hairs_small_brown_light_8: 2146511667360675127
+      running_hairs_small_brown_light_9: 5680220215443058149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

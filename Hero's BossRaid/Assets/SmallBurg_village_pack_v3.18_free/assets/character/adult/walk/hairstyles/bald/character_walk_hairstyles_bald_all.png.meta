@@ -1,0 +1,4812 @@
+fileFormatVersion: 2
+guid: bddc48463040bd745b4096bdace18cda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8742852377456833992
+    second: character_walk_hairstyles_bald_all_0
+  - first:
+      213: 8017637824951029926
+    second: character_walk_hairstyles_bald_all_1
+  - first:
+      213: -1409953314536842919
+    second: character_walk_hairstyles_bald_all_2
+  - first:
+      213: 8832990889344625034
+    second: character_walk_hairstyles_bald_all_3
+  - first:
+      213: 2972892754184177124
+    second: character_walk_hairstyles_bald_all_4
+  - first:
+      213: 5721704263959141943
+    second: character_walk_hairstyles_bald_all_5
+  - first:
+      213: -2821717625770587314
+    second: character_walk_hairstyles_bald_all_6
+  - first:
+      213: -7780737311946265542
+    second: character_walk_hairstyles_bald_all_7
+  - first:
+      213: -4949492228254199355
+    second: character_walk_hairstyles_bald_all_8
+  - first:
+      213: 7599618066816884245
+    second: character_walk_hairstyles_bald_all_9
+  - first:
+      213: -7899984234058468052
+    second: character_walk_hairstyles_bald_all_10
+  - first:
+      213: -2795494974696655808
+    second: character_walk_hairstyles_bald_all_11
+  - first:
+      213: 4169557152160947232
+    second: character_walk_hairstyles_bald_all_12
+  - first:
+      213: 4677490163693454799
+    second: character_walk_hairstyles_bald_all_13
+  - first:
+      213: 8374261528095516862
+    second: character_walk_hairstyles_bald_all_14
+  - first:
+      213: -7761828299256636560
+    second: character_walk_hairstyles_bald_all_15
+  - first:
+      213: -801846018165758736
+    second: character_walk_hairstyles_bald_all_16
+  - first:
+      213: 4592658973630558547
+    second: character_walk_hairstyles_bald_all_17
+  - first:
+      213: 4524122960490331963
+    second: character_walk_hairstyles_bald_all_18
+  - first:
+      213: -1599354588497928614
+    second: character_walk_hairstyles_bald_all_19
+  - first:
+      213: 6139725246931953478
+    second: character_walk_hairstyles_bald_all_20
+  - first:
+      213: -3177345368935413276
+    second: character_walk_hairstyles_bald_all_21
+  - first:
+      213: -8756506401328643198
+    second: character_walk_hairstyles_bald_all_22
+  - first:
+      213: 7974123165266402535
+    second: character_walk_hairstyles_bald_all_23
+  - first:
+      213: -7238345380143715031
+    second: character_walk_hairstyles_bald_all_24
+  - first:
+      213: 5445556322203181967
+    second: character_walk_hairstyles_bald_all_25
+  - first:
+      213: 1500885221851368
+    second: character_walk_hairstyles_bald_all_26
+  - first:
+      213: 2534484658814888913
+    second: character_walk_hairstyles_bald_all_27
+  - first:
+      213: 392063263423777867
+    second: character_walk_hairstyles_bald_all_28
+  - first:
+      213: -8979739081836753954
+    second: character_walk_hairstyles_bald_all_29
+  - first:
+      213: -2653099720811288166
+    second: character_walk_hairstyles_bald_all_30
+  - first:
+      213: -6995416728115675225
+    second: character_walk_hairstyles_bald_all_31
+  - first:
+      213: -5282466567847481091
+    second: character_walk_hairstyles_bald_all_32
+  - first:
+      213: 1782582651733173166
+    second: character_walk_hairstyles_bald_all_33
+  - first:
+      213: 3080225146901803857
+    second: character_walk_hairstyles_bald_all_34
+  - first:
+      213: 3908806359456665660
+    second: character_walk_hairstyles_bald_all_35
+  - first:
+      213: -571109508059445023
+    second: character_walk_hairstyles_bald_all_36
+  - first:
+      213: 1239552722142021057
+    second: character_walk_hairstyles_bald_all_37
+  - first:
+      213: -6923258181518970684
+    second: character_walk_hairstyles_bald_all_38
+  - first:
+      213: 8650519136000357229
+    second: character_walk_hairstyles_bald_all_39
+  - first:
+      213: -4926807211421068747
+    second: character_walk_hairstyles_bald_all_40
+  - first:
+      213: 3609916203652931119
+    second: character_walk_hairstyles_bald_all_41
+  - first:
+      213: 6522383868303232474
+    second: character_walk_hairstyles_bald_all_42
+  - first:
+      213: -8253592138995586851
+    second: character_walk_hairstyles_bald_all_43
+  - first:
+      213: -1967731008909438205
+    second: character_walk_hairstyles_bald_all_44
+  - first:
+      213: 5631280988415402140
+    second: character_walk_hairstyles_bald_all_45
+  - first:
+      213: -4460994099852678913
+    second: character_walk_hairstyles_bald_all_46
+  - first:
+      213: 2880172323376718345
+    second: character_walk_hairstyles_bald_all_47
+  - first:
+      213: 1379209316854820927
+    second: character_walk_hairstyles_bald_all_48
+  - first:
+      213: 901401862342196364
+    second: character_walk_hairstyles_bald_all_49
+  - first:
+      213: -7324625176377796279
+    second: character_walk_hairstyles_bald_all_50
+  - first:
+      213: -7533283250722483793
+    second: character_walk_hairstyles_bald_all_51
+  - first:
+      213: -4560033983050100265
+    second: character_walk_hairstyles_bald_all_52
+  - first:
+      213: -1828967442904677143
+    second: character_walk_hairstyles_bald_all_53
+  - first:
+      213: 173135102544014613
+    second: character_walk_hairstyles_bald_all_54
+  - first:
+      213: -5727327386547372540
+    second: character_walk_hairstyles_bald_all_55
+  - first:
+      213: -6954094327392434876
+    second: character_walk_hairstyles_bald_all_56
+  - first:
+      213: 2762615164514245263
+    second: character_walk_hairstyles_bald_all_57
+  - first:
+      213: -7873005757516563338
+    second: character_walk_hairstyles_bald_all_58
+  - first:
+      213: -1976404332882602771
+    second: character_walk_hairstyles_bald_all_59
+  - first:
+      213: -5478389216791109139
+    second: character_walk_hairstyles_bald_all_60
+  - first:
+      213: -5994439584228139357
+    second: character_walk_hairstyles_bald_all_61
+  - first:
+      213: 2941990795229819915
+    second: character_walk_hairstyles_bald_all_62
+  - first:
+      213: -4928919944276262595
+    second: character_walk_hairstyles_bald_all_63
+  - first:
+      213: 2956428163344792082
+    second: character_walk_hairstyles_bald_all_64
+  - first:
+      213: 294238135507858493
+    second: character_walk_hairstyles_bald_all_65
+  - first:
+      213: 7850253513635213630
+    second: character_walk_hairstyles_bald_all_66
+  - first:
+      213: -2760881693348726186
+    second: character_walk_hairstyles_bald_all_67
+  - first:
+      213: 6749338325230039747
+    second: character_walk_hairstyles_bald_all_68
+  - first:
+      213: 3488551084920458594
+    second: character_walk_hairstyles_bald_all_69
+  - first:
+      213: -4573970011487773993
+    second: character_walk_hairstyles_bald_all_70
+  - first:
+      213: 7077652544911149430
+    second: character_walk_hairstyles_bald_all_71
+  - first:
+      213: 3650487968044548588
+    second: character_walk_hairstyles_bald_all_72
+  - first:
+      213: -789610738702889793
+    second: character_walk_hairstyles_bald_all_73
+  - first:
+      213: -7762804400160149019
+    second: character_walk_hairstyles_bald_all_74
+  - first:
+      213: 5158734281679390232
+    second: character_walk_hairstyles_bald_all_75
+  - first:
+      213: 3408351283520792838
+    second: character_walk_hairstyles_bald_all_76
+  - first:
+      213: -7716820429302906019
+    second: character_walk_hairstyles_bald_all_77
+  - first:
+      213: -4015010118703388236
+    second: character_walk_hairstyles_bald_all_78
+  - first:
+      213: 822577899413599471
+    second: character_walk_hairstyles_bald_all_79
+  - first:
+      213: 2142572839754930016
+    second: character_walk_hairstyles_bald_all_80
+  - first:
+      213: 2317251156685301865
+    second: character_walk_hairstyles_bald_all_81
+  - first:
+      213: 5189930619702553233
+    second: character_walk_hairstyles_bald_all_82
+  - first:
+      213: -5134390803718350660
+    second: character_walk_hairstyles_bald_all_83
+  - first:
+      213: 6100045350364942478
+    second: character_walk_hairstyles_bald_all_84
+  - first:
+      213: -711423440980231715
+    second: character_walk_hairstyles_bald_all_85
+  - first:
+      213: 4133751864680833061
+    second: character_walk_hairstyles_bald_all_86
+  - first:
+      213: 8702664869486852503
+    second: character_walk_hairstyles_bald_all_87
+  - first:
+      213: -3822631237260232858
+    second: character_walk_hairstyles_bald_all_88
+  - first:
+      213: -5153775769841711939
+    second: character_walk_hairstyles_bald_all_89
+  - first:
+      213: -4380705697438222591
+    second: character_walk_hairstyles_bald_all_90
+  - first:
+      213: 332006356771871788
+    second: character_walk_hairstyles_bald_all_91
+  - first:
+      213: 4906384727522475227
+    second: character_walk_hairstyles_bald_all_92
+  - first:
+      213: 6261618684967560276
+    second: character_walk_hairstyles_bald_all_93
+  - first:
+      213: -6907851259195100686
+    second: character_walk_hairstyles_bald_all_94
+  - first:
+      213: 3733028047787630237
+    second: character_walk_hairstyles_bald_all_95
+  - first:
+      213: -3139377545273379964
+    second: character_walk_hairstyles_bald_all_96
+  - first:
+      213: -4242909362814016939
+    second: character_walk_hairstyles_bald_all_97
+  - first:
+      213: 3012060558784902366
+    second: character_walk_hairstyles_bald_all_98
+  - first:
+      213: 5741092763316823819
+    second: character_walk_hairstyles_bald_all_99
+  - first:
+      213: 3028966858755655555
+    second: character_walk_hairstyles_bald_all_100
+  - first:
+      213: 5474535964483368375
+    second: character_walk_hairstyles_bald_all_101
+  - first:
+      213: -8456063955763224793
+    second: character_walk_hairstyles_bald_all_102
+  - first:
+      213: 6208338449248059685
+    second: character_walk_hairstyles_bald_all_103
+  - first:
+      213: -6901321167213964528
+    second: character_walk_hairstyles_bald_all_104
+  - first:
+      213: 4019981571851463083
+    second: character_walk_hairstyles_bald_all_105
+  - first:
+      213: -2980024550023838820
+    second: character_walk_hairstyles_bald_all_106
+  - first:
+      213: 2096253236629571404
+    second: character_walk_hairstyles_bald_all_107
+  - first:
+      213: -6630996653128793031
+    second: character_walk_hairstyles_bald_all_108
+  - first:
+      213: -2033066188096067061
+    second: character_walk_hairstyles_bald_all_109
+  - first:
+      213: 861942597498537916
+    second: character_walk_hairstyles_bald_all_110
+  - first:
+      213: -9036340133545905519
+    second: character_walk_hairstyles_bald_all_111
+  - first:
+      213: 7269080168075675953
+    second: character_walk_hairstyles_bald_all_112
+  - first:
+      213: 4364748724121058207
+    second: character_walk_hairstyles_bald_all_113
+  - first:
+      213: 458840588908467773
+    second: character_walk_hairstyles_bald_all_114
+  - first:
+      213: 7924504482498169935
+    second: character_walk_hairstyles_bald_all_115
+  - first:
+      213: -8765089773704736180
+    second: character_walk_hairstyles_bald_all_116
+  - first:
+      213: -3472607638361887134
+    second: character_walk_hairstyles_bald_all_117
+  - first:
+      213: 7641080462691325854
+    second: character_walk_hairstyles_bald_all_118
+  - first:
+      213: -5676509221352232968
+    second: character_walk_hairstyles_bald_all_119
+  - first:
+      213: -8298214321112048732
+    second: character_walk_hairstyles_bald_all_120
+  - first:
+      213: 148837483728942322
+    second: character_walk_hairstyles_bald_all_121
+  - first:
+      213: 5072977804927578014
+    second: character_walk_hairstyles_bald_all_122
+  - first:
+      213: 3567026791078924168
+    second: character_walk_hairstyles_bald_all_123
+  - first:
+      213: -4597769545947474479
+    second: character_walk_hairstyles_bald_all_124
+  - first:
+      213: -401965498889696921
+    second: character_walk_hairstyles_bald_all_125
+  - first:
+      213: 8814004111216516493
+    second: character_walk_hairstyles_bald_all_126
+  - first:
+      213: 6816863534144603598
+    second: character_walk_hairstyles_bald_all_127
+  - first:
+      213: -6198273894251056523
+    second: character_walk_hairstyles_bald_all_128
+  - first:
+      213: 1693094343933207901
+    second: character_walk_hairstyles_bald_all_129
+  - first:
+      213: -4697286018418060165
+    second: character_walk_hairstyles_bald_all_130
+  - first:
+      213: 6020763526979311889
+    second: character_walk_hairstyles_bald_all_131
+  - first:
+      213: -7112542262304885899
+    second: character_walk_hairstyles_bald_all_132
+  - first:
+      213: -5571700154575299791
+    second: character_walk_hairstyles_bald_all_133
+  - first:
+      213: 5917084183055949938
+    second: character_walk_hairstyles_bald_all_134
+  - first:
+      213: -4599654790433107401
+    second: character_walk_hairstyles_bald_all_135
+  - first:
+      213: -4437335453281150600
+    second: character_walk_hairstyles_bald_all_136
+  - first:
+      213: -522469379235441094
+    second: character_walk_hairstyles_bald_all_137
+  - first:
+      213: 3977157412504072013
+    second: character_walk_hairstyles_bald_all_138
+  - first:
+      213: 6505327558457062448
+    second: character_walk_hairstyles_bald_all_139
+  - first:
+      213: -7875473225504289827
+    second: character_walk_hairstyles_bald_all_140
+  - first:
+      213: 2469583816870215638
+    second: character_walk_hairstyles_bald_all_141
+  - first:
+      213: -4237807197734459979
+    second: character_walk_hairstyles_bald_all_142
+  - first:
+      213: -1451985496788675383
+    second: character_walk_hairstyles_bald_all_143
+  - first:
+      213: 2180755198196202802
+    second: character_walk_hairstyles_bald_all_144
+  - first:
+      213: 6202153526881489968
+    second: character_walk_hairstyles_bald_all_145
+  - first:
+      213: -8286781035563342296
+    second: character_walk_hairstyles_bald_all_146
+  - first:
+      213: -3165166118683835086
+    second: character_walk_hairstyles_bald_all_147
+  - first:
+      213: 4588687163514916585
+    second: character_walk_hairstyles_bald_all_148
+  - first:
+      213: -6605508773311156998
+    second: character_walk_hairstyles_bald_all_149
+  - first:
+      213: 7993754714088067465
+    second: character_walk_hairstyles_bald_all_150
+  - first:
+      213: 2574571103437226537
+    second: character_walk_hairstyles_bald_all_151
+  - first:
+      213: 4419416558551052193
+    second: character_walk_hairstyles_bald_all_152
+  - first:
+      213: -1876101354546284572
+    second: character_walk_hairstyles_bald_all_153
+  - first:
+      213: 7516353452670582060
+    second: character_walk_hairstyles_bald_all_154
+  - first:
+      213: 3269706756079310479
+    second: character_walk_hairstyles_bald_all_155
+  - first:
+      213: -213361816033216230
+    second: character_walk_hairstyles_bald_all_156
+  - first:
+      213: -2317173667130662028
+    second: character_walk_hairstyles_bald_all_157
+  - first:
+      213: 5548367893706205552
+    second: character_walk_hairstyles_bald_all_158
+  - first:
+      213: -6785457840776459940
+    second: character_walk_hairstyles_bald_all_159
+  - first:
+      213: 4940869237026354898
+    second: character_walk_hairstyles_bald_all_160
+  - first:
+      213: -6417859359025584761
+    second: character_walk_hairstyles_bald_all_161
+  - first:
+      213: 5685925992250928270
+    second: character_walk_hairstyles_bald_all_162
+  - first:
+      213: 409227366751947305
+    second: character_walk_hairstyles_bald_all_163
+  - first:
+      213: 820595199389160959
+    second: character_walk_hairstyles_bald_all_164
+  - first:
+      213: -2890029894171586528
+    second: character_walk_hairstyles_bald_all_165
+  - first:
+      213: 8422065956492965368
+    second: character_walk_hairstyles_bald_all_166
+  - first:
+      213: -6103768365989765367
+    second: character_walk_hairstyles_bald_all_167
+  - first:
+      213: 2216477254039516379
+    second: character_walk_hairstyles_bald_all_168
+  - first:
+      213: -2661896481893653078
+    second: character_walk_hairstyles_bald_all_169
+  - first:
+      213: -5037221650121688989
+    second: character_walk_hairstyles_bald_all_170
+  - first:
+      213: 7813428813820054766
+    second: character_walk_hairstyles_bald_all_171
+  - first:
+      213: 7587304503364508623
+    second: character_walk_hairstyles_bald_all_172
+  - first:
+      213: 6564737091882115650
+    second: character_walk_hairstyles_bald_all_173
+  - first:
+      213: 2083211305863824533
+    second: character_walk_hairstyles_bald_all_174
+  - first:
+      213: 5139214227348422919
+    second: character_walk_hairstyles_bald_all_175
+  - first:
+      213: 5692394399893882702
+    second: character_walk_hairstyles_bald_all_176
+  - first:
+      213: -4800950549103112632
+    second: character_walk_hairstyles_bald_all_177
+  - first:
+      213: 874725487587601788
+    second: character_walk_hairstyles_bald_all_178
+  - first:
+      213: 5600910321324393352
+    second: character_walk_hairstyles_bald_all_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2526
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a810695162ba680800000000000000
+      internalID: -8742852377456833992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2526
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a011fd5f1f544f60800000000000000
+      internalID: 8017637824951029926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2527
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95995214ee6de6ce0800000000000000
+      internalID: -1409953314536842919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2527
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e5a72a66159a70800000000000000
+      internalID: 8832990889344625034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2526
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e50b787536d14920800000000000000
+      internalID: 2972892754184177124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2527
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5f1396b3976f40800000000000000
+      internalID: 5721704263959141943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2399
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4c7bf4ce37d8d0800000000000000
+      internalID: -2821717625770587314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2462
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca0de83a4450490800000000000000
+      internalID: -7780737311946265542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2463
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c11a5cba0fdf4bb0800000000000000
+      internalID: -4949492228254199355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2463
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ed2450e54477960800000000000000
+      internalID: 7599618066816884245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2462
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2532cde13e9d5290800000000000000
+      internalID: -7899984234058468052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2463
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f0d5b1286439d0800000000000000
+      internalID: -2795494974696655808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2334
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c1e3d732e3dd930800000000000000
+      internalID: 4169557152160947232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2334
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5055f7588c9e040800000000000000
+      internalID: 4677490163693454799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2333
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb86a56bd7a573470800000000000000
+      internalID: 8374261528095516862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2334
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bdb372942784490800000000000000
+      internalID: -7761828299256636560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2334
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f42baa7b454fd4f0800000000000000
+      internalID: -801846018165758736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2333
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35172c9e0076cbf30800000000000000
+      internalID: 4592658973630558547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2270
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff63cdcd9e8ce30800000000000000
+      internalID: 4524122960490331963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2270
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e90bab973fdc9e0800000000000000
+      internalID: -1599354588497928614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2271
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64760e9159fa43550800000000000000
+      internalID: 6139725246931953478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2271
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e94fd3a83dc7e3d0800000000000000
+      internalID: -3177345368935413276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2270
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2834f5b62d3aa7680800000000000000
+      internalID: -8756506401328643198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2271
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecdae425c6c9ae60800000000000000
+      internalID: 7974123165266402535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2143
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da1f62a3b3c8b90800000000000000
+      internalID: -7238345380143715031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2206
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ad4d8f90829b40800000000000000
+      internalID: 5445556322203181967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04f721c05550000800000000000000
+      internalID: 1500885221851368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba6517e5c4c2320800000000000000
+      internalID: 2534484658814888913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2206
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ccad9f573e07500800000000000000
+      internalID: 392063263423777867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb8d6bb1ee816380800000000000000
+      internalID: -8979739081836753954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2078
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ea535cdb4e2bd0800000000000000
+      internalID: -2653099720811288166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2078
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff6d09c894bee90800000000000000
+      internalID: -6995416728115675225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2077
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f29de4a8e0b6b0800000000000000
+      internalID: -5282466567847481091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2078
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3645b2a710db810800000000000000
+      internalID: 1782582651733173166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2078
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153be4d83782fba20800000000000000
+      internalID: 3080225146901803857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_35
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2077
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d3379caede3630800000000000000
+      internalID: 3908806359456665660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2014
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c444ade20318f0800000000000000
+      internalID: -571109508059445023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2014
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c4a322a6c33110800000000000000
+      internalID: 1239552722142021057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2015
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0be3a6d55abef90800000000000000
+      internalID: -6923258181518970684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2015
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6335006251dc0870800000000000000
+      internalID: 8650519136000357229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2014
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321a6ec1f670abb0800000000000000
+      internalID: -4926807211421068747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2015
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed8ab39aff81230800000000000000
+      internalID: 3609916203652931119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1887
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addc3f63299248a50800000000000000
+      internalID: 6522383868303232474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1950
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82632dda9557d80800000000000000
+      internalID: -8253592138995586851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1951
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3039e68a21731b4e0800000000000000
+      internalID: -1967731008909438205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1951
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9029e02934562e40800000000000000
+      internalID: 5631280988415402140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1950
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ea25608d5712c0800000000000000
+      internalID: -4460994099852678913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1951
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e7c2e77d68f720800000000000000
+      internalID: 2880172323376718345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1822
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307a0af09fe32310800000000000000
+      internalID: 1379209316854820927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1822
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c38ccc73c628c00800000000000000
+      internalID: 901401862342196364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1821
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495e19a534b95a90800000000000000
+      internalID: -7324625176377796279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1822
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa15948ebc6647790800000000000000
+      internalID: -7533283250722483793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1822
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1d694a04187b0c0800000000000000
+      internalID: -4560033983050100265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_53
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1821
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e489eb0dc33e96e0800000000000000
+      internalID: -1828967442904677143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1758
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d694d5579176200800000000000000
+      internalID: 173135102544014613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1758
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3a7c26127480b0800000000000000
+      internalID: -5727327386547372540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1759
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4450739bd081e7f90800000000000000
+      internalID: -6954094327392434876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1759
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9afbead7c65620800000000000000
+      internalID: 2762615164514245263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1758
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cbe9cf9f67db290800000000000000
+      internalID: -7873005757516563338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1759
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de45dfd0bb66294e0800000000000000
+      internalID: -1976404332882602771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1631
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e5d7780ad8f3b0800000000000000
+      internalID: -5478389216791109139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1694
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae9a8245f87fcca0800000000000000
+      internalID: -5994439584228139357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1695
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04742a7a0d04d820800000000000000
+      internalID: 2941990795229819915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1695
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31431bdc65f89bb0800000000000000
+      internalID: -4928919944276262595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1694
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a702030c7570920800000000000000
+      internalID: 2956428163344792082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1695
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b15a7608551400800000000000000
+      internalID: 294238135507858493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_66
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1566
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313dfc6af3b1fc60800000000000000
+      internalID: 7850253513635213630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1566
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af1194ab06fa9d0800000000000000
+      internalID: -2760881693348726186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1565
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2344082777aad50800000000000000
+      internalID: 6749338325230039747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1566
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dcc758ab2d96030800000000000000
+      internalID: 3488551084920458594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_70
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1566
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da5bfb228ef580c0800000000000000
+      internalID: -4573970011487773993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_71
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1565
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67981179d7fd83260800000000000000
+      internalID: 7077652544911149430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_72
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1502
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10220477329a230800000000000000
+      internalID: 3650487968044548588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1502
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc7c8773dba05f0800000000000000
+      internalID: -789610738702889793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1503
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e17d93f68af44490800000000000000
+      internalID: -7762804400160149019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1503
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816412e3f71879740800000000000000
+      internalID: 5158734281679390232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_76
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1502
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e0042f65ec4f20800000000000000
+      internalID: 3408351283520792838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_77
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1503
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534ceb74b858e490800000000000000
+      internalID: -7716820429302906019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_78
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1375
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9e519c191d748c0800000000000000
+      internalID: -4015010118703388236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1438
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe472a6cd326a6b00800000000000000
+      internalID: 822577899413599471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_80
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1439
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0671efa55a2fbbd10800000000000000
+      internalID: 2142572839754930016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_81
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1439
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968279156a7882020800000000000000
+      internalID: 2317251156685301865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_82
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1438
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a2b44b666560840800000000000000
+      internalID: 5189930619702553233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_83
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1439
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8d55664cafeb8b0800000000000000
+      internalID: -5134390803718350660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1310
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80964e3de6b7a450800000000000000
+      internalID: 6100045350364942478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1310
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9bc7356248026f0800000000000000
+      internalID: -711423440980231715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1309
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e8eb5b690e5930800000000000000
+      internalID: 4133751864680833061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1310
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f801179316c870800000000000000
+      internalID: 8702664869486852503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1310
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667bac3942943fac0800000000000000
+      internalID: -3822631237260232858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1309
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4c1924e3c1a78b0800000000000000
+      internalID: -5153775769841711939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_90
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1246
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1073aaec06b9433c0800000000000000
+      internalID: -4380705697438222591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1246
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1f8eb5068b9400800000000000000
+      internalID: 332006356771871788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_92
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1247
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcf06f1aeaf61440800000000000000
+      internalID: 4906384727522475227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1247
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a07cb40db5e650800000000000000
+      internalID: 6261618684967560276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1246
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1f07e01e16220a0800000000000000
+      internalID: -6907851259195100686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_95
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1247
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e93f42b316ec330800000000000000
+      internalID: 3733028047787630237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1119
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483742671c0be64d0800000000000000
+      internalID: -3139377545273379964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_97
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1182
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552aa471a682e15c0800000000000000
+      internalID: -4242909362814016939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_98
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4b650ae1dfcc920800000000000000
+      internalID: 3012060558784902366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_99
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a01c53757caf40800000000000000
+      internalID: 5741092763316823819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_100
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1182
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387cf845f4d090a20800000000000000
+      internalID: 3028966858755655555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_101
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5b121547579fb40800000000000000
+      internalID: 5474535964483368375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1054
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9fb662a606aa80800000000000000
+      internalID: -8456063955763224793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_103
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1054
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52184d82de2782650800000000000000
+      internalID: 6208338449248059685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_104
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1053
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d35396f49930a0800000000000000
+      internalID: -6901321167213964528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1054
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9a2d9d0f7d9c730800000000000000
+      internalID: 4019981571851463083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_106
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1054
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c2e9e573d4a6d0800000000000000
+      internalID: -2980024550023838820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_107
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1053
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4781985633671d10800000000000000
+      internalID: 2096253236629571404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_108
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 990
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934447f2da7f9f3a0800000000000000
+      internalID: -6630996653128793031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_109
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 990
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a2da5d21919c3e0800000000000000
+      internalID: -2033066188096067061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_110
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 991
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb78da4c93c36fb00800000000000000
+      internalID: 861942597498537916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 991
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192f36e6688789280800000000000000
+      internalID: -9036340133545905519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 990
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ccfd46e5f0e460800000000000000
+      internalID: 7269080168075675953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 991
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b3313d6d3b29c30800000000000000
+      internalID: 4364748724121058207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_114
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 863
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d369b66a5112e5600800000000000000
+      internalID: 458840588908467773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 926
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c4b4c47de79fd60800000000000000
+      internalID: 7924504482498169935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_116
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 927
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c429bed4a452c5680800000000000000
+      internalID: -8765089773704736180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 927
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ea12760c1decfc0800000000000000
+      internalID: -3472607638361887134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_118
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 926
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d4e652329a0a60800000000000000
+      internalID: 7641080462691325854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_119
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 927
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7221940fcf831b0800000000000000
+      internalID: -5676509221352232968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_120
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 798
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab9e007a02d6dc80800000000000000
+      internalID: -8298214321112048732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 798
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43de227e6c01200800000000000000
+      internalID: 148837483728942322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_122
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 797
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f26209f66d66640800000000000000
+      internalID: 5072977804927578014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 798
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f8f82b7ff908130800000000000000
+      internalID: 3567026791078924168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 798
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d511be35f07130c0800000000000000
+      internalID: -4597769545947474479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_125
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 797
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76987ba228eeb6af0800000000000000
+      internalID: -401965498889696921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_126
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 734
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d94e16a02a15a70800000000000000
+      internalID: 8814004111216516493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_127
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 734
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c00b544d5a9e50800000000000000
+      internalID: 6816863534144603598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_128
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 735
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572b698abbe4bf9a0800000000000000
+      internalID: -6198273894251056523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_129
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 735
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ac5dd5541f7710800000000000000
+      internalID: 1693094343933207901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_130
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 734
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7458c7e043efceb0800000000000000
+      internalID: -4697286018418060165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_131
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 735
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119da36478c0e8350800000000000000
+      internalID: 6020763526979311889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_132
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 607
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733d5d0f7c2b4d90800000000000000
+      internalID: -7112542262304885899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_133
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 670
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bdc83ca385da2b0800000000000000
+      internalID: -5571700154575299791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_134
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 671
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270e125e6b4bd1250800000000000000
+      internalID: 5917084183055949938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_135
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 671
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7329fce865eba20c0800000000000000
+      internalID: -4599654790433107401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_136
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 670
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8791eed4aea6b62c0800000000000000
+      internalID: -4437335453281150600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_137
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 671
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3617a42ed0dfb8f0800000000000000
+      internalID: -522469379235441094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_138
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 542
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fed144893b13730800000000000000
+      internalID: 3977157412504072013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_139
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 542
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034746d92f0974a50800000000000000
+      internalID: 6505327558457062448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_140
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 541
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb87b3d3d2b4b290800000000000000
+      internalID: -7875473225504289827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_141
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 542
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3a93a569b54220800000000000000
+      internalID: 2469583816870215638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_142
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 542
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5a1787ec84035c0800000000000000
+      internalID: -4237807197734459979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_143
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 541
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c454e432e289dbe0800000000000000
+      internalID: -1451985496788675383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_144
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 478
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d32927c49934e10800000000000000
+      internalID: 2180755198196202802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_145
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 478
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0341534b5c9721650800000000000000
+      internalID: 6202153526881489968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_146
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 479
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826adcbad807ffc80800000000000000
+      internalID: -8286781035563342296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_147
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 479
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2358fb05f221314d0800000000000000
+      internalID: -3165166118683835086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_148
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 478
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee83bec9aa4eaf30800000000000000
+      internalID: 4588687163514916585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_149
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 479
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcef06a4c48454a0800000000000000
+      internalID: -6605508773311156998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_150
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 351
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d2da4f858fee60800000000000000
+      internalID: 7993754714088067465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_151
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 414
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9228c5527c6bab320800000000000000
+      internalID: 2574571103437226537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_152
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 415
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2ae6e1fbe45d30800000000000000
+      internalID: 4419416558551052193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_153
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 415
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b3af02cfb6f5e0800000000000000
+      internalID: -1876101354546284572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_154
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 414
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2df5b054a37f4860800000000000000
+      internalID: 7516353452670582060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 415
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f865dc398f4506d20800000000000000
+      internalID: 3269706756079310479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_156
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 286
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1935ba0f8cf90df0800000000000000
+      internalID: -213361816033216230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_157
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 286
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a9cf93deb7dfd0800000000000000
+      internalID: -2317173667130662028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_158
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 285
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796a8be333cffc40800000000000000
+      internalID: 5548367893706205552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_159
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 286
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5941227b0635d1a0800000000000000
+      internalID: -6785457840776459940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_160
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 286
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67c9aa46e719440800000000000000
+      internalID: 4940869237026354898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_161
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 285
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7852dde8aee2fe6a0800000000000000
+      internalID: -6417859359025584761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_162
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 222
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce64b809778ee40800000000000000
+      internalID: 5685925992250928270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_163
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a4e933f1edda500800000000000000
+      internalID: 409227366751947305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_164
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff55bf37cf6536b00800000000000000
+      internalID: 820595199389160959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_165
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02094af8f1d84e7d0800000000000000
+      internalID: -2890029894171586528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_166
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57cab8d5031e470800000000000000
+      internalID: 8422065956492965368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_167
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fd9e1a20f0b4ba0800000000000000
+      internalID: -6103768365989765367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_168
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd432c3b15282ce10800000000000000
+      internalID: 2216477254039516379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_169
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 158
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5edd7c04b0f0bd0800000000000000
+      internalID: -2661896481893653078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_170
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368f699f891381ab0800000000000000
+      internalID: -5037221650121688989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_171
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeccb8ddb10ee6c60800000000000000
+      internalID: 7813428813820054766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_172
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb53cd1f358b4960800000000000000
+      internalID: 7587304503364508623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_173
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e6758a91aa1b50800000000000000
+      internalID: 6564737091882115650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_174
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594471635ad09ec10800000000000000
+      internalID: 2083211305863824533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_175
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 141
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7018cbd6c18225740800000000000000
+      internalID: 5139214227348422919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_176
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47091f0c827ffe40800000000000000
+      internalID: 5692394399893882702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_177
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e0e7089e89f5db0800000000000000
+      internalID: -4800950549103112632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_178
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da3ab4236a32c00800000000000000
+      internalID: 874725487587601788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_bald_all_179
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8830c59234e6abd40800000000000000
+      internalID: 5600910321324393352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_bald_all_0: -8742852377456833992
+      character_walk_hairstyles_bald_all_1: 8017637824951029926
+      character_walk_hairstyles_bald_all_10: -7899984234058468052
+      character_walk_hairstyles_bald_all_100: 3028966858755655555
+      character_walk_hairstyles_bald_all_101: 5474535964483368375
+      character_walk_hairstyles_bald_all_102: -8456063955763224793
+      character_walk_hairstyles_bald_all_103: 6208338449248059685
+      character_walk_hairstyles_bald_all_104: -6901321167213964528
+      character_walk_hairstyles_bald_all_105: 4019981571851463083
+      character_walk_hairstyles_bald_all_106: -2980024550023838820
+      character_walk_hairstyles_bald_all_107: 2096253236629571404
+      character_walk_hairstyles_bald_all_108: -6630996653128793031
+      character_walk_hairstyles_bald_all_109: -2033066188096067061
+      character_walk_hairstyles_bald_all_11: -2795494974696655808
+      character_walk_hairstyles_bald_all_110: 861942597498537916
+      character_walk_hairstyles_bald_all_111: -9036340133545905519
+      character_walk_hairstyles_bald_all_112: 7269080168075675953
+      character_walk_hairstyles_bald_all_113: 4364748724121058207
+      character_walk_hairstyles_bald_all_114: 458840588908467773
+      character_walk_hairstyles_bald_all_115: 7924504482498169935
+      character_walk_hairstyles_bald_all_116: -8765089773704736180
+      character_walk_hairstyles_bald_all_117: -3472607638361887134
+      character_walk_hairstyles_bald_all_118: 7641080462691325854
+      character_walk_hairstyles_bald_all_119: -5676509221352232968
+      character_walk_hairstyles_bald_all_12: 4169557152160947232
+      character_walk_hairstyles_bald_all_120: -8298214321112048732
+      character_walk_hairstyles_bald_all_121: 148837483728942322
+      character_walk_hairstyles_bald_all_122: 5072977804927578014
+      character_walk_hairstyles_bald_all_123: 3567026791078924168
+      character_walk_hairstyles_bald_all_124: -4597769545947474479
+      character_walk_hairstyles_bald_all_125: -401965498889696921
+      character_walk_hairstyles_bald_all_126: 8814004111216516493
+      character_walk_hairstyles_bald_all_127: 6816863534144603598
+      character_walk_hairstyles_bald_all_128: -6198273894251056523
+      character_walk_hairstyles_bald_all_129: 1693094343933207901
+      character_walk_hairstyles_bald_all_13: 4677490163693454799
+      character_walk_hairstyles_bald_all_130: -4697286018418060165
+      character_walk_hairstyles_bald_all_131: 6020763526979311889
+      character_walk_hairstyles_bald_all_132: -7112542262304885899
+      character_walk_hairstyles_bald_all_133: -5571700154575299791
+      character_walk_hairstyles_bald_all_134: 5917084183055949938
+      character_walk_hairstyles_bald_all_135: -4599654790433107401
+      character_walk_hairstyles_bald_all_136: -4437335453281150600
+      character_walk_hairstyles_bald_all_137: -522469379235441094
+      character_walk_hairstyles_bald_all_138: 3977157412504072013
+      character_walk_hairstyles_bald_all_139: 6505327558457062448
+      character_walk_hairstyles_bald_all_14: 8374261528095516862
+      character_walk_hairstyles_bald_all_140: -7875473225504289827
+      character_walk_hairstyles_bald_all_141: 2469583816870215638
+      character_walk_hairstyles_bald_all_142: -4237807197734459979
+      character_walk_hairstyles_bald_all_143: -1451985496788675383
+      character_walk_hairstyles_bald_all_144: 2180755198196202802
+      character_walk_hairstyles_bald_all_145: 6202153526881489968
+      character_walk_hairstyles_bald_all_146: -8286781035563342296
+      character_walk_hairstyles_bald_all_147: -3165166118683835086
+      character_walk_hairstyles_bald_all_148: 4588687163514916585
+      character_walk_hairstyles_bald_all_149: -6605508773311156998
+      character_walk_hairstyles_bald_all_15: -7761828299256636560
+      character_walk_hairstyles_bald_all_150: 7993754714088067465
+      character_walk_hairstyles_bald_all_151: 2574571103437226537
+      character_walk_hairstyles_bald_all_152: 4419416558551052193
+      character_walk_hairstyles_bald_all_153: -1876101354546284572
+      character_walk_hairstyles_bald_all_154: 7516353452670582060
+      character_walk_hairstyles_bald_all_155: 3269706756079310479
+      character_walk_hairstyles_bald_all_156: -213361816033216230
+      character_walk_hairstyles_bald_all_157: -2317173667130662028
+      character_walk_hairstyles_bald_all_158: 5548367893706205552
+      character_walk_hairstyles_bald_all_159: -6785457840776459940
+      character_walk_hairstyles_bald_all_16: -801846018165758736
+      character_walk_hairstyles_bald_all_160: 4940869237026354898
+      character_walk_hairstyles_bald_all_161: -6417859359025584761
+      character_walk_hairstyles_bald_all_162: 5685925992250928270
+      character_walk_hairstyles_bald_all_163: 409227366751947305
+      character_walk_hairstyles_bald_all_164: 820595199389160959
+      character_walk_hairstyles_bald_all_165: -2890029894171586528
+      character_walk_hairstyles_bald_all_166: 8422065956492965368
+      character_walk_hairstyles_bald_all_167: -6103768365989765367
+      character_walk_hairstyles_bald_all_168: 2216477254039516379
+      character_walk_hairstyles_bald_all_169: -2661896481893653078
+      character_walk_hairstyles_bald_all_17: 4592658973630558547
+      character_walk_hairstyles_bald_all_170: -5037221650121688989
+      character_walk_hairstyles_bald_all_171: 7813428813820054766
+      character_walk_hairstyles_bald_all_172: 7587304503364508623
+      character_walk_hairstyles_bald_all_173: 6564737091882115650
+      character_walk_hairstyles_bald_all_174: 2083211305863824533
+      character_walk_hairstyles_bald_all_175: 5139214227348422919
+      character_walk_hairstyles_bald_all_176: 5692394399893882702
+      character_walk_hairstyles_bald_all_177: -4800950549103112632
+      character_walk_hairstyles_bald_all_178: 874725487587601788
+      character_walk_hairstyles_bald_all_179: 5600910321324393352
+      character_walk_hairstyles_bald_all_18: 4524122960490331963
+      character_walk_hairstyles_bald_all_19: -1599354588497928614
+      character_walk_hairstyles_bald_all_2: -1409953314536842919
+      character_walk_hairstyles_bald_all_20: 6139725246931953478
+      character_walk_hairstyles_bald_all_21: -3177345368935413276
+      character_walk_hairstyles_bald_all_22: -8756506401328643198
+      character_walk_hairstyles_bald_all_23: 7974123165266402535
+      character_walk_hairstyles_bald_all_24: -7238345380143715031
+      character_walk_hairstyles_bald_all_25: 5445556322203181967
+      character_walk_hairstyles_bald_all_26: 1500885221851368
+      character_walk_hairstyles_bald_all_27: 2534484658814888913
+      character_walk_hairstyles_bald_all_28: 392063263423777867
+      character_walk_hairstyles_bald_all_29: -8979739081836753954
+      character_walk_hairstyles_bald_all_3: 8832990889344625034
+      character_walk_hairstyles_bald_all_30: -2653099720811288166
+      character_walk_hairstyles_bald_all_31: -6995416728115675225
+      character_walk_hairstyles_bald_all_32: -5282466567847481091
+      character_walk_hairstyles_bald_all_33: 1782582651733173166
+      character_walk_hairstyles_bald_all_34: 3080225146901803857
+      character_walk_hairstyles_bald_all_35: 3908806359456665660
+      character_walk_hairstyles_bald_all_36: -571109508059445023
+      character_walk_hairstyles_bald_all_37: 1239552722142021057
+      character_walk_hairstyles_bald_all_38: -6923258181518970684
+      character_walk_hairstyles_bald_all_39: 8650519136000357229
+      character_walk_hairstyles_bald_all_4: 2972892754184177124
+      character_walk_hairstyles_bald_all_40: -4926807211421068747
+      character_walk_hairstyles_bald_all_41: 3609916203652931119
+      character_walk_hairstyles_bald_all_42: 6522383868303232474
+      character_walk_hairstyles_bald_all_43: -8253592138995586851
+      character_walk_hairstyles_bald_all_44: -1967731008909438205
+      character_walk_hairstyles_bald_all_45: 5631280988415402140
+      character_walk_hairstyles_bald_all_46: -4460994099852678913
+      character_walk_hairstyles_bald_all_47: 2880172323376718345
+      character_walk_hairstyles_bald_all_48: 1379209316854820927
+      character_walk_hairstyles_bald_all_49: 901401862342196364
+      character_walk_hairstyles_bald_all_5: 5721704263959141943
+      character_walk_hairstyles_bald_all_50: -7324625176377796279
+      character_walk_hairstyles_bald_all_51: -7533283250722483793
+      character_walk_hairstyles_bald_all_52: -4560033983050100265
+      character_walk_hairstyles_bald_all_53: -1828967442904677143
+      character_walk_hairstyles_bald_all_54: 173135102544014613
+      character_walk_hairstyles_bald_all_55: -5727327386547372540
+      character_walk_hairstyles_bald_all_56: -6954094327392434876
+      character_walk_hairstyles_bald_all_57: 2762615164514245263
+      character_walk_hairstyles_bald_all_58: -7873005757516563338
+      character_walk_hairstyles_bald_all_59: -1976404332882602771
+      character_walk_hairstyles_bald_all_6: -2821717625770587314
+      character_walk_hairstyles_bald_all_60: -5478389216791109139
+      character_walk_hairstyles_bald_all_61: -5994439584228139357
+      character_walk_hairstyles_bald_all_62: 2941990795229819915
+      character_walk_hairstyles_bald_all_63: -4928919944276262595
+      character_walk_hairstyles_bald_all_64: 2956428163344792082
+      character_walk_hairstyles_bald_all_65: 294238135507858493
+      character_walk_hairstyles_bald_all_66: 7850253513635213630
+      character_walk_hairstyles_bald_all_67: -2760881693348726186
+      character_walk_hairstyles_bald_all_68: 6749338325230039747
+      character_walk_hairstyles_bald_all_69: 3488551084920458594
+      character_walk_hairstyles_bald_all_7: -7780737311946265542
+      character_walk_hairstyles_bald_all_70: -4573970011487773993
+      character_walk_hairstyles_bald_all_71: 7077652544911149430
+      character_walk_hairstyles_bald_all_72: 3650487968044548588
+      character_walk_hairstyles_bald_all_73: -789610738702889793
+      character_walk_hairstyles_bald_all_74: -7762804400160149019
+      character_walk_hairstyles_bald_all_75: 5158734281679390232
+      character_walk_hairstyles_bald_all_76: 3408351283520792838
+      character_walk_hairstyles_bald_all_77: -7716820429302906019
+      character_walk_hairstyles_bald_all_78: -4015010118703388236
+      character_walk_hairstyles_bald_all_79: 822577899413599471
+      character_walk_hairstyles_bald_all_8: -4949492228254199355
+      character_walk_hairstyles_bald_all_80: 2142572839754930016
+      character_walk_hairstyles_bald_all_81: 2317251156685301865
+      character_walk_hairstyles_bald_all_82: 5189930619702553233
+      character_walk_hairstyles_bald_all_83: -5134390803718350660
+      character_walk_hairstyles_bald_all_84: 6100045350364942478
+      character_walk_hairstyles_bald_all_85: -711423440980231715
+      character_walk_hairstyles_bald_all_86: 4133751864680833061
+      character_walk_hairstyles_bald_all_87: 8702664869486852503
+      character_walk_hairstyles_bald_all_88: -3822631237260232858
+      character_walk_hairstyles_bald_all_89: -5153775769841711939
+      character_walk_hairstyles_bald_all_9: 7599618066816884245
+      character_walk_hairstyles_bald_all_90: -4380705697438222591
+      character_walk_hairstyles_bald_all_91: 332006356771871788
+      character_walk_hairstyles_bald_all_92: 4906384727522475227
+      character_walk_hairstyles_bald_all_93: 6261618684967560276
+      character_walk_hairstyles_bald_all_94: -6907851259195100686
+      character_walk_hairstyles_bald_all_95: 3733028047787630237
+      character_walk_hairstyles_bald_all_96: -3139377545273379964
+      character_walk_hairstyles_bald_all_97: -4242909362814016939
+      character_walk_hairstyles_bald_all_98: 3012060558784902366
+      character_walk_hairstyles_bald_all_99: 5741092763316823819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

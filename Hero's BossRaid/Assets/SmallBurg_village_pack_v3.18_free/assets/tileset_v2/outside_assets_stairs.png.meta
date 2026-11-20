@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 1474df2f4cc079a488c3963519277dea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6699522060976496893
+    second: outside_assets_stairs_0
+  - first:
+      213: -4781331521542293773
+    second: outside_assets_stairs_1
+  - first:
+      213: 1198719567122404473
+    second: outside_assets_stairs_2
+  - first:
+      213: 5530643159058034065
+    second: outside_assets_stairs_3
+  - first:
+      213: 8376145463811324662
+    second: outside_assets_stairs_4
+  - first:
+      213: -5216314840574224187
+    second: outside_assets_stairs_5
+  - first:
+      213: 8347844798132095734
+    second: outside_assets_stairs_6
+  - first:
+      213: 2339710450093081544
+    second: outside_assets_stairs_7
+  - first:
+      213: 3170687220227791637
+    second: outside_assets_stairs_8
+  - first:
+      213: 7071204358766290786
+    second: outside_assets_stairs_9
+  - first:
+      213: -2903132227334217897
+    second: outside_assets_stairs_10
+  - first:
+      213: 8409062402658466211
+    second: outside_assets_stairs_11
+  - first:
+      213: 21773073682451956
+    second: outside_assets_stairs_12
+  - first:
+      213: -2791301693396944733
+    second: outside_assets_stairs_13
+  - first:
+      213: 662919151204616073
+    second: outside_assets_stairs_14
+  - first:
+      213: -7628203011753163819
+    second: outside_assets_stairs_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: outside_assets_stairs_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 108
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5a9e5e248603a0800000000000000
+      internalID: -6699522060976496893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 100
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6f711505c45adb0800000000000000
+      internalID: -4781331521542293773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 93
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97414af5815b2a010800000000000000
+      internalID: 1198719567122404473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 93
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d291b86aac0cc40800000000000000
+      internalID: 5530643159058034065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 107
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa397dabeb0e3470800000000000000
+      internalID: 8376145463811324662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c899fa2a4deb97b0800000000000000
+      internalID: -5216314840574224187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 92
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa81c87d9089d370800000000000000
+      internalID: 8347844798132095734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 92
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3411f0242587020800000000000000
+      internalID: 2339710450093081544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5c8f4a3b800c20800000000000000
+      internalID: 3170687220227791637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267657246e6f12260800000000000000
+      internalID: 7071204358766290786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 29
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f51c5ee9006b7d0800000000000000
+      internalID: -2903132227334217897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 29
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9fc8cb3bdf2b470800000000000000
+      internalID: 8409062402658466211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 43
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdc282ce7a5d4000800000000000000
+      internalID: 21773073682451956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 35
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f02816ed4349d0800000000000000
+      internalID: -2791301693396944733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 28
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ca5aa479233900800000000000000
+      internalID: 662919151204616073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outside_assets_stairs_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 28
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d343e9d6cd232690800000000000000
+      internalID: -7628203011753163819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      outside_assets_stairs_0: -6699522060976496893
+      outside_assets_stairs_1: -4781331521542293773
+      outside_assets_stairs_10: -2903132227334217897
+      outside_assets_stairs_11: 8409062402658466211
+      outside_assets_stairs_12: 21773073682451956
+      outside_assets_stairs_13: -2791301693396944733
+      outside_assets_stairs_14: 662919151204616073
+      outside_assets_stairs_15: -7628203011753163819
+      outside_assets_stairs_2: 1198719567122404473
+      outside_assets_stairs_3: 5530643159058034065
+      outside_assets_stairs_4: 8376145463811324662
+      outside_assets_stairs_5: -5216314840574224187
+      outside_assets_stairs_6: 8347844798132095734
+      outside_assets_stairs_7: 2339710450093081544
+      outside_assets_stairs_8: 3170687220227791637
+      outside_assets_stairs_9: 7071204358766290786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

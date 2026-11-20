@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: c8d31d4a431f598479946452cf75c105
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1778406576883937729
+    second: character_walk_hairstyles_short_hair_green_0
+  - first:
+      213: 3999469036965668732
+    second: character_walk_hairstyles_short_hair_green_1
+  - first:
+      213: 4863387021266428260
+    second: character_walk_hairstyles_short_hair_green_2
+  - first:
+      213: -7037654588628434717
+    second: character_walk_hairstyles_short_hair_green_3
+  - first:
+      213: 88695907494095264
+    second: character_walk_hairstyles_short_hair_green_4
+  - first:
+      213: 3167406732748668559
+    second: character_walk_hairstyles_short_hair_green_5
+  - first:
+      213: -6847258986656186051
+    second: character_walk_hairstyles_short_hair_green_6
+  - first:
+      213: 1151258593094566654
+    second: character_walk_hairstyles_short_hair_green_7
+  - first:
+      213: -6666114980744641420
+    second: character_walk_hairstyles_short_hair_green_8
+  - first:
+      213: -4127770575240586417
+    second: character_walk_hairstyles_short_hair_green_9
+  - first:
+      213: -7606818265670541463
+    second: character_walk_hairstyles_short_hair_green_10
+  - first:
+      213: -1078551326492815029
+    second: character_walk_hairstyles_short_hair_green_11
+  - first:
+      213: -9012647272105910566
+    second: character_walk_hairstyles_short_hair_green_12
+  - first:
+      213: 5204534621776396392
+    second: character_walk_hairstyles_short_hair_green_13
+  - first:
+      213: -3181715618565183858
+    second: character_walk_hairstyles_short_hair_green_14
+  - first:
+      213: -3994891753288297801
+    second: character_walk_hairstyles_short_hair_green_15
+  - first:
+      213: 6899343166638456525
+    second: character_walk_hairstyles_short_hair_green_16
+  - first:
+      213: -3553545688485894705
+    second: character_walk_hairstyles_short_hair_green_17
+  - first:
+      213: 6819367118211908272
+    second: character_walk_hairstyles_short_hair_green_18
+  - first:
+      213: 4561681556976886865
+    second: character_walk_hairstyles_short_hair_green_19
+  - first:
+      213: -5161385690308429434
+    second: character_walk_hairstyles_short_hair_green_20
+  - first:
+      213: 3239726244447660671
+    second: character_walk_hairstyles_short_hair_green_21
+  - first:
+      213: 7185346349053990122
+    second: character_walk_hairstyles_short_hair_green_22
+  - first:
+      213: 9020385330730222582
+    second: character_walk_hairstyles_short_hair_green_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4d9604a4d157e0800000000000000
+      internalID: -1778406576883937729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77238626e7f08730800000000000000
+      internalID: 3999469036965668732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461a4df7ab83e7340800000000000000
+      internalID: 4863387021266428260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e087e0507a355e90800000000000000
+      internalID: -7037654588628434717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 222
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9673b357c1b3100800000000000000
+      internalID: 88695907494095264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3aac44a3e4fb20800000000000000
+      internalID: 3167406732748668559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c14fda36a9f0a0800000000000000
+      internalID: -6847258986656186051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 158
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2840e37971aff00800000000000000
+      internalID: 1151258593094566654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744ecc5eb33d73a0800000000000000
+      internalID: -6666114980744641420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b997c188637b6c0800000000000000
+      internalID: -4127770575240586417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 158
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f11cb07172f6690800000000000000
+      internalID: -7606818265670541463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419e5078473801f0800000000000000
+      internalID: -1078551326492815029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adedb3c9e05ace280800000000000000
+      internalID: -9012647272105910566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604438e9a83a3840800000000000000
+      internalID: 5204534621776396392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862c1b908648d3d0800000000000000
+      internalID: -3181715618565183858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b21d11cd1b4f88c0800000000000000
+      internalID: -3994891753288297801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 94
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcef0074e046fbf50800000000000000
+      internalID: 6899343166638456525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc56da816054faec0800000000000000
+      internalID: -3553545688485894705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b20002734243ae50800000000000000
+      internalID: 6819367118211908272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ee0e05395e4f30800000000000000
+      internalID: 4561681556976886865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b1649f031f58b0800000000000000
+      internalID: -5161385690308429434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a20d1cad1d5fc20800000000000000
+      internalID: 3239726244447660671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 28
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae453835f6a77b360800000000000000
+      internalID: 7185346349053990122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_short_hair_green_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c15f8aa8de2d70800000000000000
+      internalID: 9020385330730222582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_short_hair_green_0: -1778406576883937729
+      character_walk_hairstyles_short_hair_green_1: 3999469036965668732
+      character_walk_hairstyles_short_hair_green_10: -7606818265670541463
+      character_walk_hairstyles_short_hair_green_11: -1078551326492815029
+      character_walk_hairstyles_short_hair_green_12: -9012647272105910566
+      character_walk_hairstyles_short_hair_green_13: 5204534621776396392
+      character_walk_hairstyles_short_hair_green_14: -3181715618565183858
+      character_walk_hairstyles_short_hair_green_15: -3994891753288297801
+      character_walk_hairstyles_short_hair_green_16: 6899343166638456525
+      character_walk_hairstyles_short_hair_green_17: -3553545688485894705
+      character_walk_hairstyles_short_hair_green_18: 6819367118211908272
+      character_walk_hairstyles_short_hair_green_19: 4561681556976886865
+      character_walk_hairstyles_short_hair_green_2: 4863387021266428260
+      character_walk_hairstyles_short_hair_green_20: -5161385690308429434
+      character_walk_hairstyles_short_hair_green_21: 3239726244447660671
+      character_walk_hairstyles_short_hair_green_22: 7185346349053990122
+      character_walk_hairstyles_short_hair_green_23: 9020385330730222582
+      character_walk_hairstyles_short_hair_green_3: -7037654588628434717
+      character_walk_hairstyles_short_hair_green_4: 88695907494095264
+      character_walk_hairstyles_short_hair_green_5: 3167406732748668559
+      character_walk_hairstyles_short_hair_green_6: -6847258986656186051
+      character_walk_hairstyles_short_hair_green_7: 1151258593094566654
+      character_walk_hairstyles_short_hair_green_8: -6666114980744641420
+      character_walk_hairstyles_short_hair_green_9: -4127770575240586417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

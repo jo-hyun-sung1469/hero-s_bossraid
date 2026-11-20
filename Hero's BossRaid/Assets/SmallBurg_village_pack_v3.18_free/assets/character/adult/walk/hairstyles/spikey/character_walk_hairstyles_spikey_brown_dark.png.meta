@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 0eab4e742b64cf14d9c8472a6a590f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5080638906720269302
+    second: character_walk_hairstyles_spikey_brown_dark_0
+  - first:
+      213: 5198444158649388322
+    second: character_walk_hairstyles_spikey_brown_dark_1
+  - first:
+      213: -3302221096040422603
+    second: character_walk_hairstyles_spikey_brown_dark_2
+  - first:
+      213: 3083808843116340254
+    second: character_walk_hairstyles_spikey_brown_dark_3
+  - first:
+      213: -456973198948918185
+    second: character_walk_hairstyles_spikey_brown_dark_4
+  - first:
+      213: -5887816431537811616
+    second: character_walk_hairstyles_spikey_brown_dark_5
+  - first:
+      213: -4719079340274502706
+    second: character_walk_hairstyles_spikey_brown_dark_6
+  - first:
+      213: -7770952122253094167
+    second: character_walk_hairstyles_spikey_brown_dark_7
+  - first:
+      213: -4267549602150448287
+    second: character_walk_hairstyles_spikey_brown_dark_8
+  - first:
+      213: -7326378096689432287
+    second: character_walk_hairstyles_spikey_brown_dark_9
+  - first:
+      213: -5023865534339320397
+    second: character_walk_hairstyles_spikey_brown_dark_10
+  - first:
+      213: -5921051970385312940
+    second: character_walk_hairstyles_spikey_brown_dark_11
+  - first:
+      213: 1096981360927367747
+    second: character_walk_hairstyles_spikey_brown_dark_12
+  - first:
+      213: 7802334353753842542
+    second: character_walk_hairstyles_spikey_brown_dark_13
+  - first:
+      213: -2754499896145632669
+    second: character_walk_hairstyles_spikey_brown_dark_14
+  - first:
+      213: -1158523849021457769
+    second: character_walk_hairstyles_spikey_brown_dark_15
+  - first:
+      213: -7042298030601879219
+    second: character_walk_hairstyles_spikey_brown_dark_16
+  - first:
+      213: 8895366223480687781
+    second: character_walk_hairstyles_spikey_brown_dark_17
+  - first:
+      213: -8693918701327351144
+    second: character_walk_hairstyles_spikey_brown_dark_18
+  - first:
+      213: -5664161354634182047
+    second: character_walk_hairstyles_spikey_brown_dark_19
+  - first:
+      213: 7890507759281758989
+    second: character_walk_hairstyles_spikey_brown_dark_20
+  - first:
+      213: 7280083335615815026
+    second: character_walk_hairstyles_spikey_brown_dark_21
+  - first:
+      213: -9195413448516318303
+    second: character_walk_hairstyles_spikey_brown_dark_22
+  - first:
+      213: -2296404104708063374
+    second: character_walk_hairstyles_spikey_brown_dark_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc8ec25d1fd79b0800000000000000
+      internalID: -5080638906720269302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d40057b65942840800000000000000
+      internalID: 5198444158649388322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a5b8b8672c22d0800000000000000
+      internalID: -3302221096040422603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e146829ddc3ebca20800000000000000
+      internalID: 3083808843116340254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c96c4fb4188a9f0800000000000000
+      internalID: -456973198948918185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f0b7786264a4ea0800000000000000
+      internalID: -5887816431537811616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3bd00c756728eb0800000000000000
+      internalID: -4719079340274502706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e259829738082490800000000000000
+      internalID: -7770952122253094167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163867e4f3e96c4c0800000000000000
+      internalID: -4267549602150448287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129bf9810f9735a90800000000000000
+      internalID: -7326378096689432287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b570620ae4a74ab0800000000000000
+      internalID: -5023865534339320397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538e80aa9234dda0800000000000000
+      internalID: -5921051970385312940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342ec475cb2493f00800000000000000
+      internalID: 1096981360927367747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63235691c5774c60800000000000000
+      internalID: 7802334353753842542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362a36c30fc06c9d0800000000000000
+      internalID: -2754499896145632669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79af14b82b81cefe0800000000000000
+      internalID: -1158523849021457769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 93
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ca8bb04bb44e90800000000000000
+      internalID: -7042298030601879219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac03995370b27b70800000000000000
+      internalID: 8895366223480687781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8920245e00ff85780800000000000000
+      internalID: -8693918701327351144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162c88a024bd461b0800000000000000
+      internalID: -5664161354634182047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e3795007b08d60800000000000000
+      internalID: 7890507759281758989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d1f92e83d080560800000000000000
+      internalID: 7280083335615815026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc55e1034536080800000000000000
+      internalID: -9195413448516318303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_spikey_brown_dark_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f702632a88120e0800000000000000
+      internalID: -2296404104708063374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_spikey_brown_dark_0: -5080638906720269302
+      character_walk_hairstyles_spikey_brown_dark_1: 5198444158649388322
+      character_walk_hairstyles_spikey_brown_dark_10: -5023865534339320397
+      character_walk_hairstyles_spikey_brown_dark_11: -5921051970385312940
+      character_walk_hairstyles_spikey_brown_dark_12: 1096981360927367747
+      character_walk_hairstyles_spikey_brown_dark_13: 7802334353753842542
+      character_walk_hairstyles_spikey_brown_dark_14: -2754499896145632669
+      character_walk_hairstyles_spikey_brown_dark_15: -1158523849021457769
+      character_walk_hairstyles_spikey_brown_dark_16: -7042298030601879219
+      character_walk_hairstyles_spikey_brown_dark_17: 8895366223480687781
+      character_walk_hairstyles_spikey_brown_dark_18: -8693918701327351144
+      character_walk_hairstyles_spikey_brown_dark_19: -5664161354634182047
+      character_walk_hairstyles_spikey_brown_dark_2: -3302221096040422603
+      character_walk_hairstyles_spikey_brown_dark_20: 7890507759281758989
+      character_walk_hairstyles_spikey_brown_dark_21: 7280083335615815026
+      character_walk_hairstyles_spikey_brown_dark_22: -9195413448516318303
+      character_walk_hairstyles_spikey_brown_dark_23: -2296404104708063374
+      character_walk_hairstyles_spikey_brown_dark_3: 3083808843116340254
+      character_walk_hairstyles_spikey_brown_dark_4: -456973198948918185
+      character_walk_hairstyles_spikey_brown_dark_5: -5887816431537811616
+      character_walk_hairstyles_spikey_brown_dark_6: -4719079340274502706
+      character_walk_hairstyles_spikey_brown_dark_7: -7770952122253094167
+      character_walk_hairstyles_spikey_brown_dark_8: -4267549602150448287
+      character_walk_hairstyles_spikey_brown_dark_9: -7326378096689432287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

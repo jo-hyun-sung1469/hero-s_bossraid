@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: ead0023efe6d9a94eb220cbe8f6f1b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4841925443459349587
+    second: character_run_hairstyles_big_bun_purple_0
+  - first:
+      213: 4988411753271107925
+    second: character_run_hairstyles_big_bun_purple_1
+  - first:
+      213: 2806664299003977572
+    second: character_run_hairstyles_big_bun_purple_2
+  - first:
+      213: -8643249511465516273
+    second: character_run_hairstyles_big_bun_purple_3
+  - first:
+      213: -5154272787071588793
+    second: character_run_hairstyles_big_bun_purple_4
+  - first:
+      213: 1969470206142883787
+    second: character_run_hairstyles_big_bun_purple_5
+  - first:
+      213: 3196569610073234375
+    second: character_run_hairstyles_big_bun_purple_6
+  - first:
+      213: -4715179648532864044
+    second: character_run_hairstyles_big_bun_purple_7
+  - first:
+      213: -2580040523996406275
+    second: character_run_hairstyles_big_bun_purple_8
+  - first:
+      213: -681718247757434963
+    second: character_run_hairstyles_big_bun_purple_9
+  - first:
+      213: 266284219754384113
+    second: character_run_hairstyles_big_bun_purple_10
+  - first:
+      213: -5675366006439117867
+    second: character_run_hairstyles_big_bun_purple_11
+  - first:
+      213: 81630202447648273
+    second: character_run_hairstyles_big_bun_purple_12
+  - first:
+      213: -4799561178847956504
+    second: character_run_hairstyles_big_bun_purple_13
+  - first:
+      213: 2354263661110820362
+    second: character_run_hairstyles_big_bun_purple_14
+  - first:
+      213: -1450590794397224272
+    second: character_run_hairstyles_big_bun_purple_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 220
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf1568989f13340800000000000000
+      internalID: 4841925443459349587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 222
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551ab135f066a3540800000000000000
+      internalID: 4988411753271107925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 220
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f17e14f4643f620800000000000000
+      internalID: 2806664299003977572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 222
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03870cfc520d0880800000000000000
+      internalID: -8643249511465516273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746a22b65385878b0800000000000000
+      internalID: -5154272787071588793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 158
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7acd0c7b6f45b10800000000000000
+      internalID: 1969470206142883787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb593ccf1f7c5c20800000000000000
+      internalID: 3196569610073234375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 158
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d32c0d7711509eb0800000000000000
+      internalID: -4715179648532864044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdd41520dad13cd0800000000000000
+      internalID: -2580040523996406275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf24859ddc0a86f0800000000000000
+      internalID: -681718247757434963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa80c7461802b300800000000000000
+      internalID: 266284219754384113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db7edfbfac0d31b0800000000000000
+      internalID: -5675366006439117867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d5d39c32022100800000000000000
+      internalID: 81630202447648273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e133097988846db0800000000000000
+      internalID: -4799561178847956504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 30
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0efe1c83560ca020800000000000000
+      internalID: 2354263661110820362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_big_bun_purple_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b27089ab577edbe0800000000000000
+      internalID: -1450590794397224272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_run_hairstyles_big_bun_purple_0: 4841925443459349587
+      character_run_hairstyles_big_bun_purple_1: 4988411753271107925
+      character_run_hairstyles_big_bun_purple_10: 266284219754384113
+      character_run_hairstyles_big_bun_purple_11: -5675366006439117867
+      character_run_hairstyles_big_bun_purple_12: 81630202447648273
+      character_run_hairstyles_big_bun_purple_13: -4799561178847956504
+      character_run_hairstyles_big_bun_purple_14: 2354263661110820362
+      character_run_hairstyles_big_bun_purple_15: -1450590794397224272
+      character_run_hairstyles_big_bun_purple_2: 2806664299003977572
+      character_run_hairstyles_big_bun_purple_3: -8643249511465516273
+      character_run_hairstyles_big_bun_purple_4: -5154272787071588793
+      character_run_hairstyles_big_bun_purple_5: 1969470206142883787
+      character_run_hairstyles_big_bun_purple_6: 3196569610073234375
+      character_run_hairstyles_big_bun_purple_7: -4715179648532864044
+      character_run_hairstyles_big_bun_purple_8: -2580040523996406275
+      character_run_hairstyles_big_bun_purple_9: -681718247757434963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

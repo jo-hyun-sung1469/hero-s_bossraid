@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 877dd616852f27a4e9e42c33610ae361
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8623175038035929916
+    second: character_run_hairstyles_radical_curve_brown_light_0
+  - first:
+      213: -7063392199022844988
+    second: character_run_hairstyles_radical_curve_brown_light_1
+  - first:
+      213: -1123457613546688399
+    second: character_run_hairstyles_radical_curve_brown_light_2
+  - first:
+      213: -7690925825908707174
+    second: character_run_hairstyles_radical_curve_brown_light_3
+  - first:
+      213: 416789200835170517
+    second: character_run_hairstyles_radical_curve_brown_light_4
+  - first:
+      213: -7419204147961198736
+    second: character_run_hairstyles_radical_curve_brown_light_5
+  - first:
+      213: 3215143697737320519
+    second: character_run_hairstyles_radical_curve_brown_light_6
+  - first:
+      213: 5307511479576286341
+    second: character_run_hairstyles_radical_curve_brown_light_7
+  - first:
+      213: 272182343480955087
+    second: character_run_hairstyles_radical_curve_brown_light_8
+  - first:
+      213: -8753802261651003034
+    second: character_run_hairstyles_radical_curve_brown_light_9
+  - first:
+      213: -2129497008549151503
+    second: character_run_hairstyles_radical_curve_brown_light_10
+  - first:
+      213: 1473893591363178774
+    second: character_run_hairstyles_radical_curve_brown_light_11
+  - first:
+      213: 7618833127199717414
+    second: character_run_hairstyles_radical_curve_brown_light_12
+  - first:
+      213: 8374319510011230971
+    second: character_run_hairstyles_radical_curve_brown_light_13
+  - first:
+      213: -4320094308407995066
+    second: character_run_hairstyles_radical_curve_brown_light_14
+  - first:
+      213: 4162681075099117100
+    second: character_run_hairstyles_radical_curve_brown_light_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ba522720caba770800000000000000
+      internalID: 8623175038035929916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36afbe73ac9fd90800000000000000
+      internalID: -7063392199022844988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 220
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1707758b04da860f0800000000000000
+      internalID: -1123457613546688399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 222
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9075d8a5b7544590800000000000000
+      internalID: -7690925825908707174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 157
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0dff5e19bb8c500800000000000000
+      internalID: 416789200835170517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0770ba4d221b90990800000000000000
+      internalID: -7419204147961198736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7480875982c7e9c20800000000000000
+      internalID: 3215143697737320519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d37df19118a940800000000000000
+      internalID: 5307511479576286341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 94
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d059366cf6c300800000000000000
+      internalID: 272182343480955087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 92
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e740093f348680800000000000000
+      internalID: -8753802261651003034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcbb27d0c18272e0800000000000000
+      internalID: -2129497008549151503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115ded8962547410800000000000000
+      internalID: 1473893591363178774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b7b5ec588bb960800000000000000
+      internalID: 7618833127199717414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab7dda93f873470800000000000000
+      internalID: 8374319510011230971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 30
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64597278d11fb04c0800000000000000
+      internalID: -4320094308407995066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_hairstyles_radical_curve_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26268a0260d4c930800000000000000
+      internalID: 4162681075099117100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_run_hairstyles_radical_curve_brown_light_0: 8623175038035929916
+      character_run_hairstyles_radical_curve_brown_light_1: -7063392199022844988
+      character_run_hairstyles_radical_curve_brown_light_10: -2129497008549151503
+      character_run_hairstyles_radical_curve_brown_light_11: 1473893591363178774
+      character_run_hairstyles_radical_curve_brown_light_12: 7618833127199717414
+      character_run_hairstyles_radical_curve_brown_light_13: 8374319510011230971
+      character_run_hairstyles_radical_curve_brown_light_14: -4320094308407995066
+      character_run_hairstyles_radical_curve_brown_light_15: 4162681075099117100
+      character_run_hairstyles_radical_curve_brown_light_2: -1123457613546688399
+      character_run_hairstyles_radical_curve_brown_light_3: -7690925825908707174
+      character_run_hairstyles_radical_curve_brown_light_4: 416789200835170517
+      character_run_hairstyles_radical_curve_brown_light_5: -7419204147961198736
+      character_run_hairstyles_radical_curve_brown_light_6: 3215143697737320519
+      character_run_hairstyles_radical_curve_brown_light_7: 5307511479576286341
+      character_run_hairstyles_radical_curve_brown_light_8: 272182343480955087
+      character_run_hairstyles_radical_curve_brown_light_9: -8753802261651003034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

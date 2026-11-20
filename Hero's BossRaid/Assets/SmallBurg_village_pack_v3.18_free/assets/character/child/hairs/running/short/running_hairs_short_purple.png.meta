@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 9a5f9cbc1c346ce4d9915e12de6c0652
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6606666046300085039
+    second: running_hairs_short_purple_0
+  - first:
+      213: -6172971520172863997
+    second: running_hairs_short_purple_1
+  - first:
+      213: -5631302009604393609
+    second: running_hairs_short_purple_2
+  - first:
+      213: 8732665476431576223
+    second: running_hairs_short_purple_3
+  - first:
+      213: 7488512361963878785
+    second: running_hairs_short_purple_4
+  - first:
+      213: 1435384302110052281
+    second: running_hairs_short_purple_5
+  - first:
+      213: 4474647117363821398
+    second: running_hairs_short_purple_6
+  - first:
+      213: 9154577507148894852
+    second: running_hairs_short_purple_7
+  - first:
+      213: 4934519607642883406
+    second: running_hairs_short_purple_8
+  - first:
+      213: -3094662834727075366
+    second: running_hairs_short_purple_9
+  - first:
+      213: -291543410808028458
+    second: running_hairs_short_purple_10
+  - first:
+      213: 1456305235815544783
+    second: running_hairs_short_purple_11
+  - first:
+      213: 8473690944057609240
+    second: running_hairs_short_purple_12
+  - first:
+      213: -7259206469079696057
+    second: running_hairs_short_purple_13
+  - first:
+      213: 8465600632012950517
+    second: running_hairs_short_purple_14
+  - first:
+      213: 6220654519555347860
+    second: running_hairs_short_purple_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_hairs_short_purple_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 221
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d426a80c386054a0800000000000000
+      internalID: -6606666046300085039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 220
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4e73bb13355aa0800000000000000
+      internalID: -6172971520172863997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775369e78a899d1b0800000000000000
+      internalID: -5631302009604393609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 220
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c7501bbf8a03970800000000000000
+      internalID: 8732665476431576223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 157
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897afe315a8ce760800000000000000
+      internalID: 7488512361963878785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 156
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf0173fa628be310800000000000000
+      internalID: 1435384302110052281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 158
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b32b578d3291e30800000000000000
+      internalID: 4474647117363821398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482146e5db79b0f70800000000000000
+      internalID: 9154577507148894852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 94
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4501ce507fea7440800000000000000
+      internalID: 4934519607642883406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 92
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad14d7c4c8c8d05d0800000000000000
+      internalID: -3094662834727075366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 94
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d28e2200da34fbf0800000000000000
+      internalID: -291543410808028458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7b35965e5d53410800000000000000
+      internalID: 1456305235815544783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c8ff0a409989570800000000000000
+      internalID: 8473690944057609240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 26
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d79436d2e124b90800000000000000
+      internalID: -7259206469079696057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 28
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb44711ceadb7570800000000000000
+      internalID: 8465600632012950517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_short_purple_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495568cb354345650800000000000000
+      internalID: 6220654519555347860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running_hairs_short_purple_0: -6606666046300085039
+      running_hairs_short_purple_1: -6172971520172863997
+      running_hairs_short_purple_10: -291543410808028458
+      running_hairs_short_purple_11: 1456305235815544783
+      running_hairs_short_purple_12: 8473690944057609240
+      running_hairs_short_purple_13: -7259206469079696057
+      running_hairs_short_purple_14: 8465600632012950517
+      running_hairs_short_purple_15: 6220654519555347860
+      running_hairs_short_purple_2: -5631302009604393609
+      running_hairs_short_purple_3: 8732665476431576223
+      running_hairs_short_purple_4: 7488512361963878785
+      running_hairs_short_purple_5: 1435384302110052281
+      running_hairs_short_purple_6: 4474647117363821398
+      running_hairs_short_purple_7: 9154577507148894852
+      running_hairs_short_purple_8: 4934519607642883406
+      running_hairs_short_purple_9: -3094662834727075366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

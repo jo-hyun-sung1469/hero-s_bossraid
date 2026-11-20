@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: dff2bd9bb7a50414ab1bcaeb8f438dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6879002716034512069
+    second: walk_hairs_small_brown_light_0
+  - first:
+      213: 4666364151771771747
+    second: walk_hairs_small_brown_light_1
+  - first:
+      213: 2099986690601626354
+    second: walk_hairs_small_brown_light_2
+  - first:
+      213: -8563659549202764392
+    second: walk_hairs_small_brown_light_3
+  - first:
+      213: 2557876498598385030
+    second: walk_hairs_small_brown_light_4
+  - first:
+      213: -1607965490663203327
+    second: walk_hairs_small_brown_light_5
+  - first:
+      213: 8368032300042840508
+    second: walk_hairs_small_brown_light_6
+  - first:
+      213: 7730803060131810130
+    second: walk_hairs_small_brown_light_7
+  - first:
+      213: 5401289420912866066
+    second: walk_hairs_small_brown_light_8
+  - first:
+      213: 8558989720079528291
+    second: walk_hairs_small_brown_light_9
+  - first:
+      213: -7245279303623768901
+    second: walk_hairs_small_brown_light_10
+  - first:
+      213: 8256246366247452113
+    second: walk_hairs_small_brown_light_11
+  - first:
+      213: -7475739240553290596
+    second: walk_hairs_small_brown_light_12
+  - first:
+      213: -5234342244668601386
+    second: walk_hairs_small_brown_light_13
+  - first:
+      213: -74707143516993865
+    second: walk_hairs_small_brown_light_14
+  - first:
+      213: -9124629966838810473
+    second: walk_hairs_small_brown_light_15
+  - first:
+      213: 6669593195732134803
+    second: walk_hairs_small_brown_light_16
+  - first:
+      213: -7371256431881588909
+    second: walk_hairs_small_brown_light_17
+  - first:
+      213: 3451888923661935963
+    second: walk_hairs_small_brown_light_18
+  - first:
+      213: 4315197623570507481
+    second: walk_hairs_small_brown_light_19
+  - first:
+      213: 5701872857374289526
+    second: walk_hairs_small_brown_light_20
+  - first:
+      213: 261575734268905134
+    second: walk_hairs_small_brown_light_21
+  - first:
+      213: 3831202954443101620
+    second: walk_hairs_small_brown_light_22
+  - first:
+      213: -8194429607033757104
+    second: walk_hairs_small_brown_light_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 220
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c43f221680277f50800000000000000
+      internalID: 6879002716034512069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36339faf87142c040800000000000000
+      internalID: 4666364151771771747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 220
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faab56d4c6a42d10800000000000000
+      internalID: 2099986690601626354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d23602305c72980800000000000000
+      internalID: -8563659549202764392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 220
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685d64e8f176f7320800000000000000
+      internalID: 2557876498598385030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 219
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10edee5d7eb5fa9e0800000000000000
+      internalID: -1607965490663203327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96c098a09312470800000000000000
+      internalID: 8368032300042840508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bc8a37c64594b60800000000000000
+      internalID: 7730803060131810130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213369e6c1c35fa40800000000000000
+      internalID: 5401289420912866066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617f8d8dc3a7c670800000000000000
+      internalID: 8558989720079528291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb404094cd8937b90800000000000000
+      internalID: -7245279303623768901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 155
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf94e9354149270800000000000000
+      internalID: 8256246366247452113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 92
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c946f55d4c6d04890800000000000000
+      internalID: -7475739240553290596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db05b11671eb57b0800000000000000
+      internalID: -5234342244668601386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 92
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b64c70bf3696fef0800000000000000
+      internalID: -74707143516993865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79830b7b36dce5180800000000000000
+      internalID: -9124629966838810473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39be9fbaca72f8c50800000000000000
+      internalID: 6669593195732134803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 92
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f626d645904b990800000000000000
+      internalID: -7371256431881588909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a9faefa297ef20800000000000000
+      internalID: 3451888923661935963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a7803069a2eb30800000000000000
+      internalID: 4315197623570507481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e6c3a672f112f40800000000000000
+      internalID: 5701872857374289526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c5f29ebd41a300800000000000000
+      internalID: 261575734268905134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5120ad9ca2b2530800000000000000
+      internalID: 3831202954443101620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_small_brown_light_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522fc730b9874e80800000000000000
+      internalID: -8194429607033757104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk_hairs_small_brown_light_0: 6879002716034512069
+      walk_hairs_small_brown_light_1: 4666364151771771747
+      walk_hairs_small_brown_light_10: -7245279303623768901
+      walk_hairs_small_brown_light_11: 8256246366247452113
+      walk_hairs_small_brown_light_12: -7475739240553290596
+      walk_hairs_small_brown_light_13: -5234342244668601386
+      walk_hairs_small_brown_light_14: -74707143516993865
+      walk_hairs_small_brown_light_15: -9124629966838810473
+      walk_hairs_small_brown_light_16: 6669593195732134803
+      walk_hairs_small_brown_light_17: -7371256431881588909
+      walk_hairs_small_brown_light_18: 3451888923661935963
+      walk_hairs_small_brown_light_19: 4315197623570507481
+      walk_hairs_small_brown_light_2: 2099986690601626354
+      walk_hairs_small_brown_light_20: 5701872857374289526
+      walk_hairs_small_brown_light_21: 261575734268905134
+      walk_hairs_small_brown_light_22: 3831202954443101620
+      walk_hairs_small_brown_light_23: -8194429607033757104
+      walk_hairs_small_brown_light_3: -8563659549202764392
+      walk_hairs_small_brown_light_4: 2557876498598385030
+      walk_hairs_small_brown_light_5: -1607965490663203327
+      walk_hairs_small_brown_light_6: 8368032300042840508
+      walk_hairs_small_brown_light_7: 7730803060131810130
+      walk_hairs_small_brown_light_8: 5401289420912866066
+      walk_hairs_small_brown_light_9: 8558989720079528291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

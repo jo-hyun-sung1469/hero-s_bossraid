@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 9ac718056e843b34a801ef076d99f6cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1047036208806732531
+    second: character_walk_hairstyles_pony_tail_red_0
+  - first:
+      213: -5153327317167069188
+    second: character_walk_hairstyles_pony_tail_red_1
+  - first:
+      213: -6201428766339738156
+    second: character_walk_hairstyles_pony_tail_red_2
+  - first:
+      213: 1185407791012865357
+    second: character_walk_hairstyles_pony_tail_red_3
+  - first:
+      213: 3187940652750998104
+    second: character_walk_hairstyles_pony_tail_red_4
+  - first:
+      213: 8904970226494031540
+    second: character_walk_hairstyles_pony_tail_red_5
+  - first:
+      213: -4955388964440413930
+    second: character_walk_hairstyles_pony_tail_red_6
+  - first:
+      213: -4379945176033439556
+    second: character_walk_hairstyles_pony_tail_red_7
+  - first:
+      213: 8665378351743906251
+    second: character_walk_hairstyles_pony_tail_red_8
+  - first:
+      213: -9058462101096415872
+    second: character_walk_hairstyles_pony_tail_red_9
+  - first:
+      213: -8669037612423428406
+    second: character_walk_hairstyles_pony_tail_red_10
+  - first:
+      213: -2672639896558015339
+    second: character_walk_hairstyles_pony_tail_red_11
+  - first:
+      213: 1357635407525139867
+    second: character_walk_hairstyles_pony_tail_red_12
+  - first:
+      213: -143762155743611680
+    second: character_walk_hairstyles_pony_tail_red_13
+  - first:
+      213: 1351184005489181573
+    second: character_walk_hairstyles_pony_tail_red_14
+  - first:
+      213: 6148457448172726747
+    second: character_walk_hairstyles_pony_tail_red_15
+  - first:
+      213: -6191701420743477095
+    second: character_walk_hairstyles_pony_tail_red_16
+  - first:
+      213: 8713979960974121442
+    second: character_walk_hairstyles_pony_tail_red_17
+  - first:
+      213: 5656673379777918493
+    second: character_walk_hairstyles_pony_tail_red_18
+  - first:
+      213: -4856702090626556917
+    second: character_walk_hairstyles_pony_tail_red_19
+  - first:
+      213: 4998118430090428763
+    second: character_walk_hairstyles_pony_tail_red_20
+  - first:
+      213: -2346458657565303924
+    second: character_walk_hairstyles_pony_tail_red_21
+  - first:
+      213: 1555816930859302242
+    second: character_walk_hairstyles_pony_tail_red_22
+  - first:
+      213: 2148352231110922096
+    second: character_walk_hairstyles_pony_tail_red_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a5ec62e1d78e00800000000000000
+      internalID: 1047036208806732531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 221
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a0f8cb14bb78b0800000000000000
+      internalID: -5153327317167069188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d55e62c46910f9a0800000000000000
+      internalID: -6201428766339738156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456d49fa1a637010800000000000000
+      internalID: 1185407791012865357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 221
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a004c1227dd3c20800000000000000
+      internalID: 3187940652750998104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b64b9d8d3fc49b70800000000000000
+      internalID: 8904970226494031540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 158
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61963aaddfbea3bb0800000000000000
+      internalID: -4955388964440413930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb057de711f4733c0800000000000000
+      internalID: -4379945176033439556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc13e0423bb914870800000000000000
+      internalID: 8665378351743906251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 158
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3fcc76b0e94280800000000000000
+      internalID: -9058462101096415872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 157
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64007d83461b780800000000000000
+      internalID: -8669037612423428406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c6f11ac20e8ead0800000000000000
+      internalID: -2672639896558015339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b955708c53a47d210800000000000000
+      internalID: 1357635407525139867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f1ceb411410ef0800000000000000
+      internalID: -143762155743611680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834f51b1be50c210800000000000000
+      internalID: 1351184005489181573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9a0f22975b35550800000000000000
+      internalID: 6148457448172726747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bd45ec58a21aa0800000000000000
+      internalID: -6191701420743477095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91cb91b964ee870800000000000000
+      internalID: 8713979960974121442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d163214f77a808e40800000000000000
+      internalID: 5656673379777918493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c9e443e27899cb0800000000000000
+      internalID: -4856702090626556917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b518fd22b32ec5540800000000000000
+      internalID: 4998118430090428763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1ea37844bf6fd0800000000000000
+      internalID: -2346458657565303924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d386b614f579510800000000000000
+      internalID: 1555816930859302242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_pony_tail_red_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc8c3c8fa70dd10800000000000000
+      internalID: 2148352231110922096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_pony_tail_red_0: 1047036208806732531
+      character_walk_hairstyles_pony_tail_red_1: -5153327317167069188
+      character_walk_hairstyles_pony_tail_red_10: -8669037612423428406
+      character_walk_hairstyles_pony_tail_red_11: -2672639896558015339
+      character_walk_hairstyles_pony_tail_red_12: 1357635407525139867
+      character_walk_hairstyles_pony_tail_red_13: -143762155743611680
+      character_walk_hairstyles_pony_tail_red_14: 1351184005489181573
+      character_walk_hairstyles_pony_tail_red_15: 6148457448172726747
+      character_walk_hairstyles_pony_tail_red_16: -6191701420743477095
+      character_walk_hairstyles_pony_tail_red_17: 8713979960974121442
+      character_walk_hairstyles_pony_tail_red_18: 5656673379777918493
+      character_walk_hairstyles_pony_tail_red_19: -4856702090626556917
+      character_walk_hairstyles_pony_tail_red_2: -6201428766339738156
+      character_walk_hairstyles_pony_tail_red_20: 4998118430090428763
+      character_walk_hairstyles_pony_tail_red_21: -2346458657565303924
+      character_walk_hairstyles_pony_tail_red_22: 1555816930859302242
+      character_walk_hairstyles_pony_tail_red_23: 2148352231110922096
+      character_walk_hairstyles_pony_tail_red_3: 1185407791012865357
+      character_walk_hairstyles_pony_tail_red_4: 3187940652750998104
+      character_walk_hairstyles_pony_tail_red_5: 8904970226494031540
+      character_walk_hairstyles_pony_tail_red_6: -4955388964440413930
+      character_walk_hairstyles_pony_tail_red_7: -4379945176033439556
+      character_walk_hairstyles_pony_tail_red_8: 8665378351743906251
+      character_walk_hairstyles_pony_tail_red_9: -9058462101096415872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

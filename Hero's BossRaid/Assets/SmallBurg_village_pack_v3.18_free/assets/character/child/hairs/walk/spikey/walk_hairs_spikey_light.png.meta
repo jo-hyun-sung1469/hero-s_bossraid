@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: d95057638e0c41a4b96aaad6774e5d2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8286106992031249623
+    second: walk_hairs_spikey_light_0
+  - first:
+      213: 7355950625420313142
+    second: walk_hairs_spikey_light_1
+  - first:
+      213: 5383502179265340792
+    second: walk_hairs_spikey_light_2
+  - first:
+      213: 3929432905057536694
+    second: walk_hairs_spikey_light_3
+  - first:
+      213: -1527196503643377181
+    second: walk_hairs_spikey_light_4
+  - first:
+      213: -6623075144757073885
+    second: walk_hairs_spikey_light_5
+  - first:
+      213: -1237499738009833923
+    second: walk_hairs_spikey_light_6
+  - first:
+      213: 6293242298565048090
+    second: walk_hairs_spikey_light_7
+  - first:
+      213: -4646960788202046319
+    second: walk_hairs_spikey_light_8
+  - first:
+      213: 8535490786677982830
+    second: walk_hairs_spikey_light_9
+  - first:
+      213: 6949891542997576438
+    second: walk_hairs_spikey_light_10
+  - first:
+      213: 3550166450168183933
+    second: walk_hairs_spikey_light_11
+  - first:
+      213: 2816180569917894332
+    second: walk_hairs_spikey_light_12
+  - first:
+      213: 950800482866367692
+    second: walk_hairs_spikey_light_13
+  - first:
+      213: -857800460937255622
+    second: walk_hairs_spikey_light_14
+  - first:
+      213: 1257798879532597475
+    second: walk_hairs_spikey_light_15
+  - first:
+      213: 1460854027426419838
+    second: walk_hairs_spikey_light_16
+  - first:
+      213: -4041381304775164889
+    second: walk_hairs_spikey_light_17
+  - first:
+      213: 9020809405055546956
+    second: walk_hairs_spikey_light_18
+  - first:
+      213: 6812331917298426066
+    second: walk_hairs_spikey_light_19
+  - first:
+      213: 8551191414864683927
+    second: walk_hairs_spikey_light_20
+  - first:
+      213: 6632521259055227373
+    second: walk_hairs_spikey_light_21
+  - first:
+      213: 6763070556307492973
+    second: walk_hairs_spikey_light_22
+  - first:
+      213: -3247141193615978858
+    second: walk_hairs_spikey_light_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d437e6586a2ef270800000000000000
+      internalID: 8286106992031249623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328d7dce16951660800000000000000
+      internalID: 7355950625420313142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 220
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e6a285ba06ba40800000000000000
+      internalID: 5383502179265340792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8faa7866288630800000000000000
+      internalID: 3929432905057536694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e13e121fde4ecae0800000000000000
+      internalID: -1527196503643377181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 220
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32829041f3c1614a0800000000000000
+      internalID: -6623075144757073885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee84a7b8483dee0800000000000000
+      internalID: -1237499738009833923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17be6b0786165750800000000000000
+      internalID: 6293242298565048090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c3c06a8cda28fb0800000000000000
+      internalID: -4646960788202046319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e668f83c5a7247670800000000000000
+      internalID: 8535490786677982830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faacd74989f27060800000000000000
+      internalID: 6949891542997576438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 156
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb8cba399b44130800000000000000
+      internalID: 3550166450168183933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe205dbe45151720800000000000000
+      internalID: 2816180569917894332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc0589600ce13d00800000000000000
+      internalID: 950800482866367692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a352bad860b7814f0800000000000000
+      internalID: -857800460937255622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 91
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0cc65ba69947110800000000000000
+      internalID: 1257798879532597475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 91
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74537d7ffef54410800000000000000
+      internalID: 1460854027426419838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 92
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb8fe8d112ae7c0800000000000000
+      internalID: -4041381304775164889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b6de0c5a503d70800000000000000
+      internalID: 9020809405055546956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e0a619c34a8e50800000000000000
+      internalID: 6812331917298426066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932161294feba670800000000000000
+      internalID: 8551191414864683927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1a63bc1f27b0c50800000000000000
+      internalID: 6632521259055227373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 26
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609c93b6d04bdd50800000000000000
+      internalID: 6763070556307492973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_spikey_light_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 27
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e4bfad946dfe2d0800000000000000
+      internalID: -3247141193615978858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk_hairs_spikey_light_0: 8286106992031249623
+      walk_hairs_spikey_light_1: 7355950625420313142
+      walk_hairs_spikey_light_10: 6949891542997576438
+      walk_hairs_spikey_light_11: 3550166450168183933
+      walk_hairs_spikey_light_12: 2816180569917894332
+      walk_hairs_spikey_light_13: 950800482866367692
+      walk_hairs_spikey_light_14: -857800460937255622
+      walk_hairs_spikey_light_15: 1257798879532597475
+      walk_hairs_spikey_light_16: 1460854027426419838
+      walk_hairs_spikey_light_17: -4041381304775164889
+      walk_hairs_spikey_light_18: 9020809405055546956
+      walk_hairs_spikey_light_19: 6812331917298426066
+      walk_hairs_spikey_light_2: 5383502179265340792
+      walk_hairs_spikey_light_20: 8551191414864683927
+      walk_hairs_spikey_light_21: 6632521259055227373
+      walk_hairs_spikey_light_22: 6763070556307492973
+      walk_hairs_spikey_light_23: -3247141193615978858
+      walk_hairs_spikey_light_3: 3929432905057536694
+      walk_hairs_spikey_light_4: -1527196503643377181
+      walk_hairs_spikey_light_5: -6623075144757073885
+      walk_hairs_spikey_light_6: -1237499738009833923
+      walk_hairs_spikey_light_7: 6293242298565048090
+      walk_hairs_spikey_light_8: -4646960788202046319
+      walk_hairs_spikey_light_9: 8535490786677982830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 9b1c9740475683946a8e372018be1b42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4535506098152643340
+    second: run_caucasian_skintone_0
+  - first:
+      213: 2749428007011215240
+    second: run_caucasian_skintone_1
+  - first:
+      213: 264255333090395082
+    second: run_caucasian_skintone_2
+  - first:
+      213: 992157094403041728
+    second: run_caucasian_skintone_3
+  - first:
+      213: -6472500024285814658
+    second: run_caucasian_skintone_4
+  - first:
+      213: 1993628805403277990
+    second: run_caucasian_skintone_5
+  - first:
+      213: -4115658105443186871
+    second: run_caucasian_skintone_6
+  - first:
+      213: -5423866148009435262
+    second: run_caucasian_skintone_7
+  - first:
+      213: 6217864396161876514
+    second: run_caucasian_skintone_8
+  - first:
+      213: -4604841153642022676
+    second: run_caucasian_skintone_9
+  - first:
+      213: 4385256996603001874
+    second: run_caucasian_skintone_10
+  - first:
+      213: -7645801535115221827
+    second: run_caucasian_skintone_11
+  - first:
+      213: 8848797652790422446
+    second: run_caucasian_skintone_12
+  - first:
+      213: -4361941737093304559
+    second: run_caucasian_skintone_13
+  - first:
+      213: 7403347539978612888
+    second: run_caucasian_skintone_14
+  - first:
+      213: -319202986337112784
+    second: run_caucasian_skintone_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_caucasian_skintone_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 217
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b910124ca51fe30800000000000000
+      internalID: 4535506098152643340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 216
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e96d843ee72620800000000000000
+      internalID: 2749428007011215240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 217
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30bda43d2daa300800000000000000
+      internalID: 264255333090395082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e645ee99d4cd00800000000000000
+      internalID: 992157094403041728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70acbb458f0d26a0800000000000000
+      internalID: -6472500024285814658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7c08f5dacaab10800000000000000
+      internalID: 1993628805403277990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470a1042ce32e6c0800000000000000
+      internalID: -4115658105443186871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f91aaa97e8ab4b0800000000000000
+      internalID: -5423866148009435262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 89
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22207c289ba4a4650800000000000000
+      internalID: 6217864396161876514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce831164e515810c0800000000000000
+      internalID: -4604841153642022676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c715b11009bdc30800000000000000
+      internalID: 4385256996603001874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db422545308a4e590800000000000000
+      internalID: -7645801535115221827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab22ef059e3dca70800000000000000
+      internalID: 8848797652790422446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f6a95c9154773c0800000000000000
+      internalID: -4361941737093304559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ff2dec59fdb660800000000000000
+      internalID: 7403347539978612888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_caucasian_skintone_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03de12c3396f19bf0800000000000000
+      internalID: -319202986337112784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run_caucasian_skintone_0: 4535506098152643340
+      run_caucasian_skintone_1: 2749428007011215240
+      run_caucasian_skintone_10: 4385256996603001874
+      run_caucasian_skintone_11: -7645801535115221827
+      run_caucasian_skintone_12: 8848797652790422446
+      run_caucasian_skintone_13: -4361941737093304559
+      run_caucasian_skintone_14: 7403347539978612888
+      run_caucasian_skintone_15: -319202986337112784
+      run_caucasian_skintone_2: 264255333090395082
+      run_caucasian_skintone_3: 992157094403041728
+      run_caucasian_skintone_4: -6472500024285814658
+      run_caucasian_skintone_5: 1993628805403277990
+      run_caucasian_skintone_6: -4115658105443186871
+      run_caucasian_skintone_7: -5423866148009435262
+      run_caucasian_skintone_8: 6217864396161876514
+      run_caucasian_skintone_9: -4604841153642022676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

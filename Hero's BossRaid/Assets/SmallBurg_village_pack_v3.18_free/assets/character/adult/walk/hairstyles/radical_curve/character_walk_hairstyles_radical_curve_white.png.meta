@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 0fae022c1c0defc4fb54f695a5a36dea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 958763007516344535
+    second: character_walk_hairstyles_radical_curve_white_0
+  - first:
+      213: 8647257535997924786
+    second: character_walk_hairstyles_radical_curve_white_1
+  - first:
+      213: 817692731080085025
+    second: character_walk_hairstyles_radical_curve_white_2
+  - first:
+      213: 7089660087547191425
+    second: character_walk_hairstyles_radical_curve_white_3
+  - first:
+      213: -5209398013434309095
+    second: character_walk_hairstyles_radical_curve_white_4
+  - first:
+      213: 7321031929506266864
+    second: character_walk_hairstyles_radical_curve_white_5
+  - first:
+      213: -3440352684412067679
+    second: character_walk_hairstyles_radical_curve_white_6
+  - first:
+      213: 2040967672447708069
+    second: character_walk_hairstyles_radical_curve_white_7
+  - first:
+      213: 4657000792150579724
+    second: character_walk_hairstyles_radical_curve_white_8
+  - first:
+      213: 8228408113846596880
+    second: character_walk_hairstyles_radical_curve_white_9
+  - first:
+      213: -4356809002230744087
+    second: character_walk_hairstyles_radical_curve_white_10
+  - first:
+      213: 2751183570382228919
+    second: character_walk_hairstyles_radical_curve_white_11
+  - first:
+      213: -5525034837751890291
+    second: character_walk_hairstyles_radical_curve_white_12
+  - first:
+      213: -2237539863515160533
+    second: character_walk_hairstyles_radical_curve_white_13
+  - first:
+      213: 8694386800165886146
+    second: character_walk_hairstyles_radical_curve_white_14
+  - first:
+      213: -1710270587115409193
+    second: character_walk_hairstyles_radical_curve_white_15
+  - first:
+      213: -2313518944907831412
+    second: character_walk_hairstyles_radical_curve_white_16
+  - first:
+      213: -2624059450683039398
+    second: character_walk_hairstyles_radical_curve_white_17
+  - first:
+      213: 1478091512911844019
+    second: character_walk_hairstyles_radical_curve_white_18
+  - first:
+      213: -6311728533456080178
+    second: character_walk_hairstyles_radical_curve_white_19
+  - first:
+      213: 3450139277722386016
+    second: character_walk_hairstyles_radical_curve_white_20
+  - first:
+      213: -1187455312485136043
+    second: character_walk_hairstyles_radical_curve_white_21
+  - first:
+      213: 8545720891312818006
+    second: character_walk_hairstyles_radical_curve_white_22
+  - first:
+      213: -882852100631833655
+    second: character_walk_hairstyles_radical_curve_white_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d00cc620e53e4d00800000000000000
+      internalID: 958763007516344535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 221
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d972f9ea310870800000000000000
+      internalID: 8647257535997924786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8273e437095b00800000000000000
+      internalID: 817692731080085025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 221
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180e3887948836260800000000000000
+      internalID: 7089660087547191425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165f9b7b1084b7b0800000000000000
+      internalID: -5209398013434309095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe738b50c7899560800000000000000
+      internalID: 7321031929506266864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ae8716796140d0800000000000000
+      internalID: -3440352684412067679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 157
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab2d4ad849f25c10800000000000000
+      internalID: 2040967672447708069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a19deeb8df0a040800000000000000
+      internalID: 4657000792150579724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 157
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015b4c4659d213270800000000000000
+      internalID: 8228408113846596880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 156
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebffcbbb418983c0800000000000000
+      internalID: -4356809002230744087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 157
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd068081ea2e2620800000000000000
+      internalID: 2751183570382228919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ef32486122353b0800000000000000
+      internalID: -5525034837751890291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2027606959a2f0e0800000000000000
+      internalID: -2237539863515160533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c89bbbdabaa8a870800000000000000
+      internalID: 8694386800165886146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ff2166f5e348e0800000000000000
+      internalID: -1710270587115409193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d1a3f6cab4efd0800000000000000
+      internalID: -2313518944907831412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e78c15d7759bd0800000000000000
+      internalID: -2624059450683039398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b251a4566c338410800000000000000
+      internalID: 1478091512911844019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec237acf65c3868a0800000000000000
+      internalID: -6311728533456080178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef34ab46b51ef20800000000000000
+      internalID: 3450139277722386016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594ca84faf458fe0800000000000000
+      internalID: -1187455312485136043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657c55c9fdf789670800000000000000
+      internalID: 8545720891312818006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_radical_curve_white_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d1a821ba7fb3f0800000000000000
+      internalID: -882852100631833655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_radical_curve_white_0: 958763007516344535
+      character_walk_hairstyles_radical_curve_white_1: 8647257535997924786
+      character_walk_hairstyles_radical_curve_white_10: -4356809002230744087
+      character_walk_hairstyles_radical_curve_white_11: 2751183570382228919
+      character_walk_hairstyles_radical_curve_white_12: -5525034837751890291
+      character_walk_hairstyles_radical_curve_white_13: -2237539863515160533
+      character_walk_hairstyles_radical_curve_white_14: 8694386800165886146
+      character_walk_hairstyles_radical_curve_white_15: -1710270587115409193
+      character_walk_hairstyles_radical_curve_white_16: -2313518944907831412
+      character_walk_hairstyles_radical_curve_white_17: -2624059450683039398
+      character_walk_hairstyles_radical_curve_white_18: 1478091512911844019
+      character_walk_hairstyles_radical_curve_white_19: -6311728533456080178
+      character_walk_hairstyles_radical_curve_white_2: 817692731080085025
+      character_walk_hairstyles_radical_curve_white_20: 3450139277722386016
+      character_walk_hairstyles_radical_curve_white_21: -1187455312485136043
+      character_walk_hairstyles_radical_curve_white_22: 8545720891312818006
+      character_walk_hairstyles_radical_curve_white_23: -882852100631833655
+      character_walk_hairstyles_radical_curve_white_3: 7089660087547191425
+      character_walk_hairstyles_radical_curve_white_4: -5209398013434309095
+      character_walk_hairstyles_radical_curve_white_5: 7321031929506266864
+      character_walk_hairstyles_radical_curve_white_6: -3440352684412067679
+      character_walk_hairstyles_radical_curve_white_7: 2040967672447708069
+      character_walk_hairstyles_radical_curve_white_8: 4657000792150579724
+      character_walk_hairstyles_radical_curve_white_9: 8228408113846596880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 764f3d7e9337c254d926111d5aa9afc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -986142654789789268
+    second: run_hairs_bigbun_brown_light_0
+  - first:
+      213: -6313120176005615735
+    second: run_hairs_bigbun_brown_light_1
+  - first:
+      213: 7159535585083655430
+    second: run_hairs_bigbun_brown_light_2
+  - first:
+      213: 9157651863951340430
+    second: run_hairs_bigbun_brown_light_3
+  - first:
+      213: 2402340038741751986
+    second: run_hairs_bigbun_brown_light_4
+  - first:
+      213: -929488963473991488
+    second: run_hairs_bigbun_brown_light_5
+  - first:
+      213: -1388295348988984867
+    second: run_hairs_bigbun_brown_light_6
+  - first:
+      213: 4043756170879961014
+    second: run_hairs_bigbun_brown_light_7
+  - first:
+      213: -7779233407657344806
+    second: run_hairs_bigbun_brown_light_8
+  - first:
+      213: -1856453446414375570
+    second: run_hairs_bigbun_brown_light_9
+  - first:
+      213: -3268049418407145449
+    second: run_hairs_bigbun_brown_light_10
+  - first:
+      213: 2357746755042992663
+    second: run_hairs_bigbun_brown_light_11
+  - first:
+      213: -5520704198312500395
+    second: run_hairs_bigbun_brown_light_12
+  - first:
+      213: 7625211244299038311
+    second: run_hairs_bigbun_brown_light_13
+  - first:
+      213: 5592008720874336352
+    second: run_hairs_bigbun_brown_light_14
+  - first:
+      213: -2916494433850956048
+    second: run_hairs_bigbun_brown_light_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d463fa748052f0800000000000000
+      internalID: -986142654789789268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 220
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f65d4f5aa4368a0800000000000000
+      internalID: -6313120176005615735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6050ea98ea7cb5360800000000000000
+      internalID: 7159535585083655430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 220
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e837387d9d3861f70800000000000000
+      internalID: 9157651863951340430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 158
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b876ee7983d65120800000000000000
+      internalID: 2402340038741751986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 156
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89c7d56bac913f0800000000000000
+      internalID: -929488963473991488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd14f205cb8cbbce0800000000000000
+      internalID: -1388295348988984867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7089b00de4e1830800000000000000
+      internalID: 4043756170879961014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad08bbf8e6c9a0490800000000000000
+      internalID: -7779233407657344806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65eb682d6d8c36e0800000000000000
+      internalID: -1856453446414375570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7109b6b6e5e85a2d0800000000000000
+      internalID: -3268049418407145449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712eaac8e2668b020800000000000000
+      internalID: 2357746755042992663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553639518c48263b0800000000000000
+      internalID: -5520704198312500395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e22c10a3132d960800000000000000
+      internalID: 7625211244299038311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 30
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f99ccd4eca9d40800000000000000
+      internalID: 5592008720874336352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_hairs_bigbun_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6e8e0c3c78687d0800000000000000
+      internalID: -2916494433850956048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      run_hairs_bigbun_brown_light_0: -986142654789789268
+      run_hairs_bigbun_brown_light_1: -6313120176005615735
+      run_hairs_bigbun_brown_light_10: -3268049418407145449
+      run_hairs_bigbun_brown_light_11: 2357746755042992663
+      run_hairs_bigbun_brown_light_12: -5520704198312500395
+      run_hairs_bigbun_brown_light_13: 7625211244299038311
+      run_hairs_bigbun_brown_light_14: 5592008720874336352
+      run_hairs_bigbun_brown_light_15: -2916494433850956048
+      run_hairs_bigbun_brown_light_2: 7159535585083655430
+      run_hairs_bigbun_brown_light_3: 9157651863951340430
+      run_hairs_bigbun_brown_light_4: 2402340038741751986
+      run_hairs_bigbun_brown_light_5: -929488963473991488
+      run_hairs_bigbun_brown_light_6: -1388295348988984867
+      run_hairs_bigbun_brown_light_7: 4043756170879961014
+      run_hairs_bigbun_brown_light_8: -7779233407657344806
+      run_hairs_bigbun_brown_light_9: -1856453446414375570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 8e0237740e6aee24f9f3d43642c6f1bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3694178901624708629
+    second: character_run_body_brown_with_dust_specs_0
+  - first:
+      213: 3512522652945302815
+    second: character_run_body_brown_with_dust_specs_1
+  - first:
+      213: -173162029963909075
+    second: character_run_body_brown_with_dust_specs_2
+  - first:
+      213: -1205604666346280745
+    second: character_run_body_brown_with_dust_specs_3
+  - first:
+      213: -7843773958651393544
+    second: character_run_body_brown_with_dust_specs_4
+  - first:
+      213: 8530305717094430742
+    second: character_run_body_brown_with_dust_specs_5
+  - first:
+      213: -4333638298663592184
+    second: character_run_body_brown_with_dust_specs_6
+  - first:
+      213: 6648648175582490969
+    second: character_run_body_brown_with_dust_specs_7
+  - first:
+      213: 2883739721424544113
+    second: character_run_body_brown_with_dust_specs_8
+  - first:
+      213: 6914414021436656210
+    second: character_run_body_brown_with_dust_specs_9
+  - first:
+      213: 8660325775550548051
+    second: character_run_body_brown_with_dust_specs_10
+  - first:
+      213: -5591621873607724681
+    second: character_run_body_brown_with_dust_specs_11
+  - first:
+      213: 1039356976590394466
+    second: character_run_body_brown_with_dust_specs_12
+  - first:
+      213: -1144364046783405329
+    second: character_run_body_brown_with_dust_specs_13
+  - first:
+      213: 8712641786736941501
+    second: character_run_body_brown_with_dust_specs_14
+  - first:
+      213: -3866356606290689726
+    second: character_run_body_brown_with_dust_specs_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1aaef8cd3abbcc0800000000000000
+      internalID: -3694178901624708629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 214
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1541522ebcfeb030800000000000000
+      internalID: 3512522652945302815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 213
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d286a6b1d0ec89df0800000000000000
+      internalID: -173162029963909075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 214
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d860ea81f4d44fe0800000000000000
+      internalID: -1205604666346280745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9cf188421552390800000000000000
+      internalID: -7843773958651393544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 150
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b5ecaadbb16670800000000000000
+      internalID: 8530305717094430742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 149
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd02f8de2dbd3c0800000000000000
+      internalID: -4333638298663592184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 150
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951b4262a4eb44c50800000000000000
+      internalID: 6648648175582490969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 86
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a1387ff9150820800000000000000
+      internalID: 2883739721424544113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a46b91beee4ff50800000000000000
+      internalID: 6914414021436656210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 86
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35889d29868af2870800000000000000
+      internalID: 8660325775550548051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771be4918819662b0800000000000000
+      internalID: -5591621873607724681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649e78d9a98c6e00800000000000000
+      internalID: 1039356976590394466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe22fb966f66e10f0800000000000000
+      internalID: -1144364046783405329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db91ea12b8589e870800000000000000
+      internalID: 8712641786736941501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_body_brown_with_dust_specs_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410f03c621f75ac0800000000000000
+      internalID: -3866356606290689726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_run_body_brown_with_dust_specs_0: -3694178901624708629
+      character_run_body_brown_with_dust_specs_1: 3512522652945302815
+      character_run_body_brown_with_dust_specs_10: 8660325775550548051
+      character_run_body_brown_with_dust_specs_11: -5591621873607724681
+      character_run_body_brown_with_dust_specs_12: 1039356976590394466
+      character_run_body_brown_with_dust_specs_13: -1144364046783405329
+      character_run_body_brown_with_dust_specs_14: 8712641786736941501
+      character_run_body_brown_with_dust_specs_15: -3866356606290689726
+      character_run_body_brown_with_dust_specs_2: -173162029963909075
+      character_run_body_brown_with_dust_specs_3: -1205604666346280745
+      character_run_body_brown_with_dust_specs_4: -7843773958651393544
+      character_run_body_brown_with_dust_specs_5: 8530305717094430742
+      character_run_body_brown_with_dust_specs_6: -4333638298663592184
+      character_run_body_brown_with_dust_specs_7: 6648648175582490969
+      character_run_body_brown_with_dust_specs_8: 2883739721424544113
+      character_run_body_brown_with_dust_specs_9: 6914414021436656210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

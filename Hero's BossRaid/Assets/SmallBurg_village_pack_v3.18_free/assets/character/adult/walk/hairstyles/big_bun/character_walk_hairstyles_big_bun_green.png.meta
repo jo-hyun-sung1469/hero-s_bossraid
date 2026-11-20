@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: c46737c0b12f967499d3218407691933
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -24132884897528747
+    second: character_walk_hairstyles_big_bun_green_0
+  - first:
+      213: 915812171350513258
+    second: character_walk_hairstyles_big_bun_green_1
+  - first:
+      213: -2602978321878750557
+    second: character_walk_hairstyles_big_bun_green_2
+  - first:
+      213: 4953883838824748258
+    second: character_walk_hairstyles_big_bun_green_3
+  - first:
+      213: 6138737009413678248
+    second: character_walk_hairstyles_big_bun_green_4
+  - first:
+      213: 1452182900687524760
+    second: character_walk_hairstyles_big_bun_green_5
+  - first:
+      213: 532484154988263080
+    second: character_walk_hairstyles_big_bun_green_6
+  - first:
+      213: -6564991328727934623
+    second: character_walk_hairstyles_big_bun_green_7
+  - first:
+      213: -459656051011246604
+    second: character_walk_hairstyles_big_bun_green_8
+  - first:
+      213: 8029183109843724167
+    second: character_walk_hairstyles_big_bun_green_9
+  - first:
+      213: -9059447898210479965
+    second: character_walk_hairstyles_big_bun_green_10
+  - first:
+      213: -193263453322178850
+    second: character_walk_hairstyles_big_bun_green_11
+  - first:
+      213: 8128941398162083106
+    second: character_walk_hairstyles_big_bun_green_12
+  - first:
+      213: -3838656157759289220
+    second: character_walk_hairstyles_big_bun_green_13
+  - first:
+      213: -6215940285368589094
+    second: character_walk_hairstyles_big_bun_green_14
+  - first:
+      213: 6028465425429435213
+    second: character_walk_hairstyles_big_bun_green_15
+  - first:
+      213: 3111382002949552232
+    second: character_walk_hairstyles_big_bun_green_16
+  - first:
+      213: 3113773339644168715
+    second: character_walk_hairstyles_big_bun_green_17
+  - first:
+      213: 4790473993901076444
+    second: character_walk_hairstyles_big_bun_green_18
+  - first:
+      213: -6630623480889253113
+    second: character_walk_hairstyles_big_bun_green_19
+  - first:
+      213: 2173745442605366481
+    second: character_walk_hairstyles_big_bun_green_20
+  - first:
+      213: -4408290937455829599
+    second: character_walk_hairstyles_big_bun_green_21
+  - first:
+      213: 733456085250774070
+    second: character_walk_hairstyles_big_bun_green_22
+  - first:
+      213: 757057219909135455
+    second: character_walk_hairstyles_big_bun_green_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 221
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5540740e4434aaff0800000000000000
+      internalID: -24132884897528747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 220
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669352515e95bc00800000000000000
+      internalID: 915812171350513258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 221
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaef56e10d50ebd0800000000000000
+      internalID: -2602978321878750557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 221
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e492b7ca1bbfb440800000000000000
+      internalID: 4953883838824748258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a465af19cc213550800000000000000
+      internalID: 6138737009413678248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 221
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893506877a0372410800000000000000
+      internalID: 1452182900687524760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6799a8483c36700800000000000000
+      internalID: 532484154988263080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 156
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d6a95b2774e4a0800000000000000
+      internalID: -6564991328727934623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5ad98c149fe99f0800000000000000
+      internalID: -459656051011246604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7872dca7f736d6f60800000000000000
+      internalID: 8029183109843724167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a05106b220664280800000000000000
+      internalID: -9059447898210479965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 157
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede8aa4c9e3615df0800000000000000
+      internalID: -193263453322178850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0b65f12dcfc070800000000000000
+      internalID: 8128941398162083106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7844e5009a5abac0800000000000000
+      internalID: -3838656157759289220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a0917e3b8cb9a0800000000000000
+      internalID: -6215940285368589094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43127f3d5969a350800000000000000
+      internalID: 6028465425429435213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868f9566279dd2b20800000000000000
+      internalID: 3111382002949552232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a829cda58563b20800000000000000
+      internalID: 3113773339644168715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf683867be2b7240800000000000000
+      internalID: 4790473993901076444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7036b3e131b4bf3a0800000000000000
+      internalID: -6630623480889253113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcfd9a86f1ba2e10800000000000000
+      internalID: 2173745442605366481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad1f5e9fba92d2c0800000000000000
+      internalID: -4408290937455829599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63498bb6c62cd2a00800000000000000
+      internalID: 733456085250774070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_hairstyles_big_bun_green_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c245bc78b918a00800000000000000
+      internalID: 757057219909135455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_hairstyles_big_bun_green_0: -24132884897528747
+      character_walk_hairstyles_big_bun_green_1: 915812171350513258
+      character_walk_hairstyles_big_bun_green_10: -9059447898210479965
+      character_walk_hairstyles_big_bun_green_11: -193263453322178850
+      character_walk_hairstyles_big_bun_green_12: 8128941398162083106
+      character_walk_hairstyles_big_bun_green_13: -3838656157759289220
+      character_walk_hairstyles_big_bun_green_14: -6215940285368589094
+      character_walk_hairstyles_big_bun_green_15: 6028465425429435213
+      character_walk_hairstyles_big_bun_green_16: 3111382002949552232
+      character_walk_hairstyles_big_bun_green_17: 3113773339644168715
+      character_walk_hairstyles_big_bun_green_18: 4790473993901076444
+      character_walk_hairstyles_big_bun_green_19: -6630623480889253113
+      character_walk_hairstyles_big_bun_green_2: -2602978321878750557
+      character_walk_hairstyles_big_bun_green_20: 2173745442605366481
+      character_walk_hairstyles_big_bun_green_21: -4408290937455829599
+      character_walk_hairstyles_big_bun_green_22: 733456085250774070
+      character_walk_hairstyles_big_bun_green_23: 757057219909135455
+      character_walk_hairstyles_big_bun_green_3: 4953883838824748258
+      character_walk_hairstyles_big_bun_green_4: 6138737009413678248
+      character_walk_hairstyles_big_bun_green_5: 1452182900687524760
+      character_walk_hairstyles_big_bun_green_6: 532484154988263080
+      character_walk_hairstyles_big_bun_green_7: -6564991328727934623
+      character_walk_hairstyles_big_bun_green_8: -459656051011246604
+      character_walk_hairstyles_big_bun_green_9: 8029183109843724167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

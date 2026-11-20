@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 3dd51c336c1a94445b9b84e913833559
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5624510257658936625
+    second: running_hairs_bigbun_brown_dark_0
+  - first:
+      213: 3382961987800121399
+    second: running_hairs_bigbun_brown_dark_1
+  - first:
+      213: 3865765176062287665
+    second: running_hairs_bigbun_brown_dark_2
+  - first:
+      213: 5562030388913241959
+    second: running_hairs_bigbun_brown_dark_3
+  - first:
+      213: -5681333230972259897
+    second: running_hairs_bigbun_brown_dark_4
+  - first:
+      213: 5623960747385774510
+    second: running_hairs_bigbun_brown_dark_5
+  - first:
+      213: -8735056277600922752
+    second: running_hairs_bigbun_brown_dark_6
+  - first:
+      213: 9135550074108215756
+    second: running_hairs_bigbun_brown_dark_7
+  - first:
+      213: -3302482590682549397
+    second: running_hairs_bigbun_brown_dark_8
+  - first:
+      213: 2009393347718516244
+    second: running_hairs_bigbun_brown_dark_9
+  - first:
+      213: 2787416677091966505
+    second: running_hairs_bigbun_brown_dark_10
+  - first:
+      213: 3168980261078437566
+    second: running_hairs_bigbun_brown_dark_11
+  - first:
+      213: 7644764199547883951
+    second: running_hairs_bigbun_brown_dark_12
+  - first:
+      213: -5716824646462866901
+    second: running_hairs_bigbun_brown_dark_13
+  - first:
+      213: -74403525080271114
+    second: running_hairs_bigbun_brown_dark_14
+  - first:
+      213: 5082322487081996671
+    second: running_hairs_bigbun_brown_dark_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d3d4787464e0e40800000000000000
+      internalID: 5624510257658936625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 218
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c9731102b2fe20800000000000000
+      internalID: 3382961987800121399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 220
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f944822f4f5a530800000000000000
+      internalID: 3865765176062287665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 219
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ff9197b2d403d40800000000000000
+      internalID: 5562030388913241959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b6450789d721b0800000000000000
+      internalID: -5681333230972259897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea16ba2b0825c0e40800000000000000
+      internalID: 5623960747385774510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0831d888898d6c680800000000000000
+      internalID: -8735056277600922752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 155
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18303e36ef7ce70800000000000000
+      internalID: 9135550074108215756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 93
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637471c4993b22d0800000000000000
+      internalID: -3302482590682549397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e8bc08a9cc2eb10800000000000000
+      internalID: 2009393347718516244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 93
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ef01f03b4eea620800000000000000
+      internalID: 2787416677091966505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 90
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0ec9e1ca7afb20800000000000000
+      internalID: 3168980261078437566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1dca92988a71a60800000000000000
+      internalID: 7644764199547883951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af168e542c9a0b0800000000000000
+      internalID: -5716824646462866901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6bd8d536aa7fef0800000000000000
+      internalID: -74403525080271114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_hairs_bigbun_brown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 26
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71908cef59088640800000000000000
+      internalID: 5082322487081996671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running_hairs_bigbun_brown_dark_0: 5624510257658936625
+      running_hairs_bigbun_brown_dark_1: 3382961987800121399
+      running_hairs_bigbun_brown_dark_10: 2787416677091966505
+      running_hairs_bigbun_brown_dark_11: 3168980261078437566
+      running_hairs_bigbun_brown_dark_12: 7644764199547883951
+      running_hairs_bigbun_brown_dark_13: -5716824646462866901
+      running_hairs_bigbun_brown_dark_14: -74403525080271114
+      running_hairs_bigbun_brown_dark_15: 5082322487081996671
+      running_hairs_bigbun_brown_dark_2: 3865765176062287665
+      running_hairs_bigbun_brown_dark_3: 5562030388913241959
+      running_hairs_bigbun_brown_dark_4: -5681333230972259897
+      running_hairs_bigbun_brown_dark_5: 5623960747385774510
+      running_hairs_bigbun_brown_dark_6: -8735056277600922752
+      running_hairs_bigbun_brown_dark_7: 9135550074108215756
+      running_hairs_bigbun_brown_dark_8: -3302482590682549397
+      running_hairs_bigbun_brown_dark_9: 2009393347718516244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

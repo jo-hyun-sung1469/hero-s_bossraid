@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 3e05a0cc047ce0c48b77fc48e2ae85a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7873254153532566918
+    second: walk_hairs_ponytail_black_0
+  - first:
+      213: 3757692607643666245
+    second: walk_hairs_ponytail_black_1
+  - first:
+      213: 5947916527618303622
+    second: walk_hairs_ponytail_black_2
+  - first:
+      213: -8539223619884175510
+    second: walk_hairs_ponytail_black_3
+  - first:
+      213: -7302480290682706119
+    second: walk_hairs_ponytail_black_4
+  - first:
+      213: -4638445642489569398
+    second: walk_hairs_ponytail_black_5
+  - first:
+      213: 7039707902614583604
+    second: walk_hairs_ponytail_black_6
+  - first:
+      213: -8754702378913780111
+    second: walk_hairs_ponytail_black_7
+  - first:
+      213: 2222524254948340576
+    second: walk_hairs_ponytail_black_8
+  - first:
+      213: 6287306882591628521
+    second: walk_hairs_ponytail_black_9
+  - first:
+      213: -290337678277118809
+    second: walk_hairs_ponytail_black_10
+  - first:
+      213: 6823964221893988260
+    second: walk_hairs_ponytail_black_11
+  - first:
+      213: 3743747764141832590
+    second: walk_hairs_ponytail_black_12
+  - first:
+      213: 7818892880685562843
+    second: walk_hairs_ponytail_black_13
+  - first:
+      213: 2949106003856526972
+    second: walk_hairs_ponytail_black_14
+  - first:
+      213: -3639999444183427444
+    second: walk_hairs_ponytail_black_15
+  - first:
+      213: 1734334613102406903
+    second: walk_hairs_ponytail_black_16
+  - first:
+      213: 3220334681372180527
+    second: walk_hairs_ponytail_black_17
+  - first:
+      213: 7022521420796679814
+    second: walk_hairs_ponytail_black_18
+  - first:
+      213: -9113160235782038830
+    second: walk_hairs_ponytail_black_19
+  - first:
+      213: -6494213608364066197
+    second: walk_hairs_ponytail_black_20
+  - first:
+      213: 5284579798446176917
+    second: walk_hairs_ponytail_black_21
+  - first:
+      213: -5172797470235398928
+    second: walk_hairs_ponytail_black_22
+  - first:
+      213: 7912322844019072749
+    second: walk_hairs_ponytail_black_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 220
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d6da730fa634d60800000000000000
+      internalID: 7873254153532566918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 220
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54746bd7481062430800000000000000
+      internalID: 3757692607643666245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 219
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862d56819e3b8250800000000000000
+      internalID: 5947916527618303622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 220
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fad274c559e7980800000000000000
+      internalID: -8539223619884175510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 220
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937e096add068aa90800000000000000
+      internalID: -7302480290682706119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 220
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5371834ee0afb0800000000000000
+      internalID: -4638445642489569398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 156
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393ad91a0112b160800000000000000
+      internalID: 7039707902614583604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 156
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ea39e129c018680800000000000000
+      internalID: -8754702378913780111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 155
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063b2e0d80ef7de10800000000000000
+      internalID: 2222524254948340576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec1eb25c40014750800000000000000
+      internalID: 6287306882591628521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4716d7b6388fbf0800000000000000
+      internalID: -290337678277118809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 156
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af47fd0e4793be50800000000000000
+      internalID: 6823964221893988260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89365a91c674f330800000000000000
+      internalID: 3743747764141832590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 91
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf71216a9428c60800000000000000
+      internalID: 7818892880685562843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e07d419445de820800000000000000
+      internalID: 2949106003856526972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d3d28acf1c7dc0800000000000000
+      internalID: -3639999444183427444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 91
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc22a74428911810800000000000000
+      internalID: 1734334613102406903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f204f05a45de0bc20800000000000000
+      internalID: 3220334681372180527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 27
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686582a7602057160800000000000000
+      internalID: 7022521420796679814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1ff49c0d878180800000000000000
+      internalID: -9113160235782038830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 27
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ab3f9812befd5a0800000000000000
+      internalID: -6494213608364066197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 27
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af699e359965940800000000000000
+      internalID: 5284579798446176917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 26
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc64938b188638b0800000000000000
+      internalID: -5172797470235398928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_hairs_ponytail_black_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 27
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee17f194b73ecd60800000000000000
+      internalID: 7912322844019072749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk_hairs_ponytail_black_0: 7873254153532566918
+      walk_hairs_ponytail_black_1: 3757692607643666245
+      walk_hairs_ponytail_black_10: -290337678277118809
+      walk_hairs_ponytail_black_11: 6823964221893988260
+      walk_hairs_ponytail_black_12: 3743747764141832590
+      walk_hairs_ponytail_black_13: 7818892880685562843
+      walk_hairs_ponytail_black_14: 2949106003856526972
+      walk_hairs_ponytail_black_15: -3639999444183427444
+      walk_hairs_ponytail_black_16: 1734334613102406903
+      walk_hairs_ponytail_black_17: 3220334681372180527
+      walk_hairs_ponytail_black_18: 7022521420796679814
+      walk_hairs_ponytail_black_19: -9113160235782038830
+      walk_hairs_ponytail_black_2: 5947916527618303622
+      walk_hairs_ponytail_black_20: -6494213608364066197
+      walk_hairs_ponytail_black_21: 5284579798446176917
+      walk_hairs_ponytail_black_22: -5172797470235398928
+      walk_hairs_ponytail_black_23: 7912322844019072749
+      walk_hairs_ponytail_black_3: -8539223619884175510
+      walk_hairs_ponytail_black_4: -7302480290682706119
+      walk_hairs_ponytail_black_5: -4638445642489569398
+      walk_hairs_ponytail_black_6: 7039707902614583604
+      walk_hairs_ponytail_black_7: -8754702378913780111
+      walk_hairs_ponytail_black_8: 2222524254948340576
+      walk_hairs_ponytail_black_9: 6287306882591628521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

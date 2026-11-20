@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: a2e5b51764dbf724c926f67c9bdce53f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4179606731744656612
+    second: walk_black_skintone_0
+  - first:
+      213: -2404498491738798099
+    second: walk_black_skintone_1
+  - first:
+      213: 7458476227685641280
+    second: walk_black_skintone_2
+  - first:
+      213: 6092150466062405723
+    second: walk_black_skintone_3
+  - first:
+      213: 4892927111826799915
+    second: walk_black_skintone_4
+  - first:
+      213: -8199681902831438601
+    second: walk_black_skintone_5
+  - first:
+      213: 5403095620465526284
+    second: walk_black_skintone_6
+  - first:
+      213: -7260772454215113299
+    second: walk_black_skintone_7
+  - first:
+      213: 1794817799595083843
+    second: walk_black_skintone_8
+  - first:
+      213: 8218072483694553286
+    second: walk_black_skintone_9
+  - first:
+      213: 9011783768271384736
+    second: walk_black_skintone_10
+  - first:
+      213: -2577823160517550030
+    second: walk_black_skintone_11
+  - first:
+      213: 6088949483942489026
+    second: walk_black_skintone_12
+  - first:
+      213: -3210087120149237783
+    second: walk_black_skintone_13
+  - first:
+      213: 2459072533900157068
+    second: walk_black_skintone_14
+  - first:
+      213: 6630898601763526080
+    second: walk_black_skintone_15
+  - first:
+      213: -8599739166162363700
+    second: walk_black_skintone_16
+  - first:
+      213: 4781750562984149326
+    second: walk_black_skintone_17
+  - first:
+      213: 2476597329815700827
+    second: walk_black_skintone_18
+  - first:
+      213: -7017709255985927950
+    second: walk_black_skintone_19
+  - first:
+      213: -8339474701400053648
+    second: walk_black_skintone_20
+  - first:
+      213: 4190026387018635274
+    second: walk_black_skintone_21
+  - first:
+      213: -4339009200525333025
+    second: walk_black_skintone_22
+  - first:
+      213: 2251126257542592814
+    second: walk_black_skintone_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_black_skintone_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecb8729d22f00a30800000000000000
+      internalID: 4179606731744656612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 216
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de742f08c5181aed0800000000000000
+      internalID: -2404498491738798099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 216
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce5e4cc94d18760800000000000000
+      internalID: 7458476227685641280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5051ef329aab8450800000000000000
+      internalID: 6092150466062405723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 216
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d705cc84b27e340800000000000000
+      internalID: 4892927111826799915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4788ec0c0e43e80800000000000000
+      internalID: -8199681902831438601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 152
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06015907d6abfa40800000000000000
+      internalID: 5403095620465526284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5219f0ced8c3b90800000000000000
+      internalID: -7260772454215113299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348c965874978e810800000000000000
+      internalID: 1794817799595083843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a609f1657c0270800000000000000
+      internalID: 8218072483694553286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0727c3799401d70800000000000000
+      internalID: 9011783768271384736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 152
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230a39f4e7bb93cd0800000000000000
+      internalID: -2577823160517550030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba0b58b4b408450800000000000000
+      internalID: 6088949483942489026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa271a5ca7373d0800000000000000
+      internalID: -3210087120149237783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80e90cd071602220800000000000000
+      internalID: 2459072533900157068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5dfb3752fa50c50800000000000000
+      internalID: 6630898601763526080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccad0efaac697a880800000000000000
+      internalID: -8599739166162363700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 88
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41c13f5dc03c5240800000000000000
+      internalID: 4781750562984149326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55885f5624ae5220800000000000000
+      internalID: 2476597329815700827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8ecf3fc961c9e90800000000000000
+      internalID: -7017709255985927950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07861b981fb344c80800000000000000
+      internalID: -8339474701400053648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0852cd9cc6f52a30800000000000000
+      internalID: 4190026387018635274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd29850f1eb8c3c0800000000000000
+      internalID: -4339009200525333025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_black_skintone_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29716d776b9d3f10800000000000000
+      internalID: 2251126257542592814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walk_black_skintone_0: 4179606731744656612
+      walk_black_skintone_1: -2404498491738798099
+      walk_black_skintone_10: 9011783768271384736
+      walk_black_skintone_11: -2577823160517550030
+      walk_black_skintone_12: 6088949483942489026
+      walk_black_skintone_13: -3210087120149237783
+      walk_black_skintone_14: 2459072533900157068
+      walk_black_skintone_15: 6630898601763526080
+      walk_black_skintone_16: -8599739166162363700
+      walk_black_skintone_17: 4781750562984149326
+      walk_black_skintone_18: 2476597329815700827
+      walk_black_skintone_19: -7017709255985927950
+      walk_black_skintone_2: 7458476227685641280
+      walk_black_skintone_20: -8339474701400053648
+      walk_black_skintone_21: 4190026387018635274
+      walk_black_skintone_22: -4339009200525333025
+      walk_black_skintone_23: 2251126257542592814
+      walk_black_skintone_3: 6092150466062405723
+      walk_black_skintone_4: 4892927111826799915
+      walk_black_skintone_5: -8199681902831438601
+      walk_black_skintone_6: 5403095620465526284
+      walk_black_skintone_7: -7260772454215113299
+      walk_black_skintone_8: 1794817799595083843
+      walk_black_skintone_9: 8218072483694553286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

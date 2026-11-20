@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: aa6ae8a24744be8429ebb576ea325b52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1536103166070959972
+    second: jump_hairs_short_brown_light_0
+  - first:
+      213: -5123547240297109303
+    second: jump_hairs_short_brown_light_1
+  - first:
+      213: -6743150832875778429
+    second: jump_hairs_short_brown_light_2
+  - first:
+      213: 1921658782124528590
+    second: jump_hairs_short_brown_light_3
+  - first:
+      213: 4238850755534612096
+    second: jump_hairs_short_brown_light_4
+  - first:
+      213: 2600268597895828147
+    second: jump_hairs_short_brown_light_5
+  - first:
+      213: 5565982592189066625
+    second: jump_hairs_short_brown_light_6
+  - first:
+      213: -4790860761420430123
+    second: jump_hairs_short_brown_light_7
+  - first:
+      213: 4664691329036682493
+    second: jump_hairs_short_brown_light_8
+  - first:
+      213: -4464134580484222182
+    second: jump_hairs_short_brown_light_9
+  - first:
+      213: 5299289992501937911
+    second: jump_hairs_short_brown_light_10
+  - first:
+      213: 3286146240093128470
+    second: jump_hairs_short_brown_light_11
+  - first:
+      213: 1842488142425693272
+    second: jump_hairs_short_brown_light_12
+  - first:
+      213: -974721957769674237
+    second: jump_hairs_short_brown_light_13
+  - first:
+      213: -7579856498907387516
+    second: jump_hairs_short_brown_light_14
+  - first:
+      213: -1264363160608486136
+    second: jump_hairs_short_brown_light_15
+  - first:
+      213: -5176795539200805210
+    second: jump_hairs_short_brown_light_16
+  - first:
+      213: -2496405068739963647
+    second: jump_hairs_short_brown_light_17
+  - first:
+      213: -2887386668408976787
+    second: jump_hairs_short_brown_light_18
+  - first:
+      213: -2064710562219491412
+    second: jump_hairs_short_brown_light_19
+  - first:
+      213: 2270448958451555723
+    second: jump_hairs_short_brown_light_20
+  - first:
+      213: -5526968000194460908
+    second: jump_hairs_short_brown_light_21
+  - first:
+      213: 102311302935592204
+    second: jump_hairs_short_brown_light_22
+  - first:
+      213: -1724121448395522123
+    second: jump_hairs_short_brown_light_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90dcff1f4aaeaae0800000000000000
+      internalID: -1536103166070959972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 225
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c868204ee085e8b0800000000000000
+      internalID: -5123547240297109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 228
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4f835b048b62a0800000000000000
+      internalID: -6743150832875778429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 226
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3da002b7a1baa10800000000000000
+      internalID: 1921658782124528590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0866983cd4c63da30800000000000000
+      internalID: 4238850755534612096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 221
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21f225382061420800000000000000
+      internalID: 2600268597895828147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18def618da75e3d40800000000000000
+      internalID: 5565982592189066625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 161
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d48d234581738db0800000000000000
+      internalID: -4790860761420430123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 164
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df483169c005cb040800000000000000
+      internalID: 4664691329036682493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 162
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1353b440453c02c0800000000000000
+      internalID: -4464134580484222182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f64cdcdb2cda8940800000000000000
+      internalID: 5299289992501937911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 157
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6178cb8389cba9d20800000000000000
+      internalID: 3286146240093128470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c17202435d19910800000000000000
+      internalID: 1842488142425693272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3028d503b871972f0800000000000000
+      internalID: -974721957769674237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489603e8ca0fec690800000000000000
+      internalID: -7579856498907387516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 98
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d47d08764147ee0800000000000000
+      internalID: -1264363160608486136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 96
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6fb1b82e35828b0800000000000000
+      internalID: -5176795539200805210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 93
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105154601dcfa5dd0800000000000000
+      internalID: -2496405068739963647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac8448f11fde7d0800000000000000
+      internalID: -2887386668408976787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff8e6deaca853e0800000000000000
+      internalID: -2064710562219491412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d19216c41428f10800000000000000
+      internalID: 2270448958451555723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413457f03e34c43b0800000000000000
+      internalID: -5526968000194460908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 30
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dbbf3869b7b6100800000000000000
+      internalID: 102311302935592204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_short_brown_light_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb0ce6da0b218e0800000000000000
+      internalID: -1724121448395522123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump_hairs_short_brown_light_0: -1536103166070959972
+      jump_hairs_short_brown_light_1: -5123547240297109303
+      jump_hairs_short_brown_light_10: 5299289992501937911
+      jump_hairs_short_brown_light_11: 3286146240093128470
+      jump_hairs_short_brown_light_12: 1842488142425693272
+      jump_hairs_short_brown_light_13: -974721957769674237
+      jump_hairs_short_brown_light_14: -7579856498907387516
+      jump_hairs_short_brown_light_15: -1264363160608486136
+      jump_hairs_short_brown_light_16: -5176795539200805210
+      jump_hairs_short_brown_light_17: -2496405068739963647
+      jump_hairs_short_brown_light_18: -2887386668408976787
+      jump_hairs_short_brown_light_19: -2064710562219491412
+      jump_hairs_short_brown_light_2: -6743150832875778429
+      jump_hairs_short_brown_light_20: 2270448958451555723
+      jump_hairs_short_brown_light_21: -5526968000194460908
+      jump_hairs_short_brown_light_22: 102311302935592204
+      jump_hairs_short_brown_light_23: -1724121448395522123
+      jump_hairs_short_brown_light_3: 1921658782124528590
+      jump_hairs_short_brown_light_4: 4238850755534612096
+      jump_hairs_short_brown_light_5: 2600268597895828147
+      jump_hairs_short_brown_light_6: 5565982592189066625
+      jump_hairs_short_brown_light_7: -4790860761420430123
+      jump_hairs_short_brown_light_8: 4664691329036682493
+      jump_hairs_short_brown_light_9: -4464134580484222182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

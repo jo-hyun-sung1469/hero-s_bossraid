@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 3d4078100b1ec654799aaf16fc151cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3793126157626460473
+    second: jump_black_skintone_0
+  - first:
+      213: -4236487058450606396
+    second: jump_black_skintone_1
+  - first:
+      213: 1518446663980699170
+    second: jump_black_skintone_2
+  - first:
+      213: 4813949532029344252
+    second: jump_black_skintone_3
+  - first:
+      213: 3495965505692946863
+    second: jump_black_skintone_4
+  - first:
+      213: -8300505915468376056
+    second: jump_black_skintone_5
+  - first:
+      213: -9035491568107857272
+    second: jump_black_skintone_6
+  - first:
+      213: -4387043890575883291
+    second: jump_black_skintone_7
+  - first:
+      213: -1253605917366936303
+    second: jump_black_skintone_8
+  - first:
+      213: 2252752652799537507
+    second: jump_black_skintone_9
+  - first:
+      213: -5428848482229813165
+    second: jump_black_skintone_10
+  - first:
+      213: 5252271400825718198
+    second: jump_black_skintone_11
+  - first:
+      213: 7947026719076373513
+    second: jump_black_skintone_12
+  - first:
+      213: 944492286058197109
+    second: jump_black_skintone_13
+  - first:
+      213: 922697427594982697
+    second: jump_black_skintone_14
+  - first:
+      213: 2180841481979559612
+    second: jump_black_skintone_15
+  - first:
+      213: -1097553633200289331
+    second: jump_black_skintone_16
+  - first:
+      213: -3199082678517855739
+    second: jump_black_skintone_17
+  - first:
+      213: 7610672217519827691
+    second: jump_black_skintone_18
+  - first:
+      213: -2823009482329387853
+    second: jump_black_skintone_19
+  - first:
+      213: -4722472321941519081
+    second: jump_black_skintone_20
+  - first:
+      213: -5104158345208647151
+    second: jump_black_skintone_21
+  - first:
+      213: -7665353302633937043
+    second: jump_black_skintone_22
+  - first:
+      213: 7132082572426828881
+    second: jump_black_skintone_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_black_skintone_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6be624bdb1c5bc0800000000000000
+      internalID: -3793126157626460473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 218
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c613895779f435c0800000000000000
+      internalID: -4236487058450606396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e42f0223b921510800000000000000
+      internalID: 1518446663980699170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 219
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9544f08959ec240800000000000000
+      internalID: 4813949532029344252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 217
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d8d1ea1a248030800000000000000
+      internalID: 3495965505692946863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 216
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8089a7c09ddaecc80800000000000000
+      internalID: -8300505915468376056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 152
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad4e77a4c7b9280800000000000000
+      internalID: -9035491568107857272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 154
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e34d2833d61e13c0800000000000000
+      internalID: -4387043890575883291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d140f5f0c4a9ee0800000000000000
+      internalID: -1253605917366936303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 155
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617fe42a92634f10800000000000000
+      internalID: 2252752652799537507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 153
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500645911bd8a4b0800000000000000
+      internalID: -5428848482229813165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 152
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b50926e201d3e840800000000000000
+      internalID: 5252271400825718198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d51322b2894e60800000000000000
+      internalID: 7947026719076373513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5707893eab28b1d00800000000000000
+      internalID: 944492286058197109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92537f6fb641ecc00800000000000000
+      internalID: 922697427594982697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef3d4f5c7e34e10800000000000000
+      internalID: 2180841481979559612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 89
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9482329c4b4c0f0800000000000000
+      internalID: -1097553633200289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a86dbd0439a93d0800000000000000
+      internalID: -3199082678517855739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 24
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea243b0f0a8e9960800000000000000
+      internalID: 7610672217519827691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc823035d7a2d8d0800000000000000
+      internalID: -2823009482329387853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715cf05a178667eb0800000000000000
+      internalID: -4722472321941519081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1123e7c27036a29b0800000000000000
+      internalID: -5104158345208647151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 25
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6703a6b8c13f9590800000000000000
+      internalID: -7665353302633937043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_black_skintone_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 24
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c514eef4f3af260800000000000000
+      internalID: 7132082572426828881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump_black_skintone_0: -3793126157626460473
+      jump_black_skintone_1: -4236487058450606396
+      jump_black_skintone_10: -5428848482229813165
+      jump_black_skintone_11: 5252271400825718198
+      jump_black_skintone_12: 7947026719076373513
+      jump_black_skintone_13: 944492286058197109
+      jump_black_skintone_14: 922697427594982697
+      jump_black_skintone_15: 2180841481979559612
+      jump_black_skintone_16: -1097553633200289331
+      jump_black_skintone_17: -3199082678517855739
+      jump_black_skintone_18: 7610672217519827691
+      jump_black_skintone_19: -2823009482329387853
+      jump_black_skintone_2: 1518446663980699170
+      jump_black_skintone_20: -4722472321941519081
+      jump_black_skintone_21: -5104158345208647151
+      jump_black_skintone_22: -7665353302633937043
+      jump_black_skintone_23: 7132082572426828881
+      jump_black_skintone_3: 4813949532029344252
+      jump_black_skintone_4: 3495965505692946863
+      jump_black_skintone_5: -8300505915468376056
+      jump_black_skintone_6: -9035491568107857272
+      jump_black_skintone_7: -4387043890575883291
+      jump_black_skintone_8: -1253605917366936303
+      jump_black_skintone_9: 2252752652799537507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

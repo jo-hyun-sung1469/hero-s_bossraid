@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: f575748d87dd2e94da87d44e3f805482
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5376450644379772245
+    second: jump_hairs_ponytail_black_0
+  - first:
+      213: -7653675598772560390
+    second: jump_hairs_ponytail_black_1
+  - first:
+      213: -5310262598803728500
+    second: jump_hairs_ponytail_black_2
+  - first:
+      213: 4758271942146050529
+    second: jump_hairs_ponytail_black_3
+  - first:
+      213: 8195950979147450657
+    second: jump_hairs_ponytail_black_4
+  - first:
+      213: 6111501940267122637
+    second: jump_hairs_ponytail_black_5
+  - first:
+      213: -145699470071894847
+    second: jump_hairs_ponytail_black_6
+  - first:
+      213: 8466812500659003387
+    second: jump_hairs_ponytail_black_7
+  - first:
+      213: 6442469231616656774
+    second: jump_hairs_ponytail_black_8
+  - first:
+      213: -6508419671293712040
+    second: jump_hairs_ponytail_black_9
+  - first:
+      213: 3638270314036081988
+    second: jump_hairs_ponytail_black_10
+  - first:
+      213: -5804792679275733014
+    second: jump_hairs_ponytail_black_11
+  - first:
+      213: 3071461688474878202
+    second: jump_hairs_ponytail_black_12
+  - first:
+      213: -7061473116121347719
+    second: jump_hairs_ponytail_black_13
+  - first:
+      213: -8317709898108870036
+    second: jump_hairs_ponytail_black_14
+  - first:
+      213: -7106937556152724718
+    second: jump_hairs_ponytail_black_15
+  - first:
+      213: -9145635668705682025
+    second: jump_hairs_ponytail_black_16
+  - first:
+      213: -5163634313245252460
+    second: jump_hairs_ponytail_black_17
+  - first:
+      213: -3851863648012403928
+    second: jump_hairs_ponytail_black_18
+  - first:
+      213: -2155221327782246217
+    second: jump_hairs_ponytail_black_19
+  - first:
+      213: -6063529591672349224
+    second: jump_hairs_ponytail_black_20
+  - first:
+      213: -3752218471070692211
+    second: jump_hairs_ponytail_black_21
+  - first:
+      213: 1015256762052257496
+    second: jump_hairs_ponytail_black_22
+  - first:
+      213: -4474211408484752970
+    second: jump_hairs_ponytail_black_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5552daa106dfc9a40800000000000000
+      internalID: 5376450644379772245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 224
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd1615089ea8c590800000000000000
+      internalID: -7653675598772560390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 227
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d2462d482e46b0800000000000000
+      internalID: -5310262598803728500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 225
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9c258fe17c80240800000000000000
+      internalID: 4758271942146050529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1294994ddfdddb170800000000000000
+      internalID: 8195950979147450657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 220
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf7bb172aa60d450800000000000000
+      internalID: 6111501940267122637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 158
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cce66a9a1f5afdf0800000000000000
+      internalID: -145699470071894847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffdd993c19208570800000000000000
+      internalID: 8466812500659003387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 163
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68505eae1af386950800000000000000
+      internalID: 6442469231616656774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 161
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859af53cac27da5a0800000000000000
+      internalID: -6508419671293712040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44538f0039bbd7230800000000000000
+      internalID: 3638270314036081988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 156
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef5bf430db317fa0800000000000000
+      internalID: -5804792679275733014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af044c2e12600aa20800000000000000
+      internalID: 3071461688474878202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979cd9a3d9b900e90800000000000000
+      internalID: -7061473116121347719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 99
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c626872baee819c80800000000000000
+      internalID: -8317709898108870036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21352a462f51f5d90800000000000000
+      internalID: -7106937556152724718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd7a1a0dc241180800000000000000
+      internalID: -9145635668705682025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494aff043f51758b0800000000000000
+      internalID: -5163634313245252460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bfaf09b6e6b8ac0800000000000000
+      internalID: -3851863648012403928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b881390f9d1712e0800000000000000
+      internalID: -2155221327782246217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dddc4b56f30adba0800000000000000
+      internalID: -6063529591672349224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0c204e217debc0800000000000000
+      internalID: -3752218471070692211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d620f165aae61e00800000000000000
+      internalID: 1015256762052257496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_ponytail_black_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1244bed6868e1c0800000000000000
+      internalID: -4474211408484752970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump_hairs_ponytail_black_0: 5376450644379772245
+      jump_hairs_ponytail_black_1: -7653675598772560390
+      jump_hairs_ponytail_black_10: 3638270314036081988
+      jump_hairs_ponytail_black_11: -5804792679275733014
+      jump_hairs_ponytail_black_12: 3071461688474878202
+      jump_hairs_ponytail_black_13: -7061473116121347719
+      jump_hairs_ponytail_black_14: -8317709898108870036
+      jump_hairs_ponytail_black_15: -7106937556152724718
+      jump_hairs_ponytail_black_16: -9145635668705682025
+      jump_hairs_ponytail_black_17: -5163634313245252460
+      jump_hairs_ponytail_black_18: -3851863648012403928
+      jump_hairs_ponytail_black_19: -2155221327782246217
+      jump_hairs_ponytail_black_2: -5310262598803728500
+      jump_hairs_ponytail_black_20: -6063529591672349224
+      jump_hairs_ponytail_black_21: -3752218471070692211
+      jump_hairs_ponytail_black_22: 1015256762052257496
+      jump_hairs_ponytail_black_23: -4474211408484752970
+      jump_hairs_ponytail_black_3: 4758271942146050529
+      jump_hairs_ponytail_black_4: 8195950979147450657
+      jump_hairs_ponytail_black_5: 6111501940267122637
+      jump_hairs_ponytail_black_6: -145699470071894847
+      jump_hairs_ponytail_black_7: 8466812500659003387
+      jump_hairs_ponytail_black_8: 6442469231616656774
+      jump_hairs_ponytail_black_9: -6508419671293712040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

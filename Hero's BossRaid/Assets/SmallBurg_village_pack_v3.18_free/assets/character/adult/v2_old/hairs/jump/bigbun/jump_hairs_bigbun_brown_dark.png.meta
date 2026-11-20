@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 24937feb9597ec4489356bc7918cf9e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1731476515093246189
+    second: jump_hairs_bigbun_brown_dark_0
+  - first:
+      213: -2719072024565762742
+    second: jump_hairs_bigbun_brown_dark_1
+  - first:
+      213: 2181888180456303937
+    second: jump_hairs_bigbun_brown_dark_2
+  - first:
+      213: -1140838911025210423
+    second: jump_hairs_bigbun_brown_dark_3
+  - first:
+      213: 6014667011336182697
+    second: jump_hairs_bigbun_brown_dark_4
+  - first:
+      213: -9215007616507372077
+    second: jump_hairs_bigbun_brown_dark_5
+  - first:
+      213: -2897353197736622940
+    second: jump_hairs_bigbun_brown_dark_6
+  - first:
+      213: -2145945965025634248
+    second: jump_hairs_bigbun_brown_dark_7
+  - first:
+      213: -6329940882443495653
+    second: jump_hairs_bigbun_brown_dark_8
+  - first:
+      213: -8815267877620722462
+    second: jump_hairs_bigbun_brown_dark_9
+  - first:
+      213: -372104653966178656
+    second: jump_hairs_bigbun_brown_dark_10
+  - first:
+      213: 8175978100805822952
+    second: jump_hairs_bigbun_brown_dark_11
+  - first:
+      213: 1148309912457262108
+    second: jump_hairs_bigbun_brown_dark_12
+  - first:
+      213: -224520970354410751
+    second: jump_hairs_bigbun_brown_dark_13
+  - first:
+      213: 1148428407674419100
+    second: jump_hairs_bigbun_brown_dark_14
+  - first:
+      213: 1948637864830390940
+    second: jump_hairs_bigbun_brown_dark_15
+  - first:
+      213: -1187048499237643448
+    second: jump_hairs_bigbun_brown_dark_16
+  - first:
+      213: 4681157715654157293
+    second: jump_hairs_bigbun_brown_dark_17
+  - first:
+      213: -5631202030770524259
+    second: jump_hairs_bigbun_brown_dark_18
+  - first:
+      213: 7598296165265312451
+    second: jump_hairs_bigbun_brown_dark_19
+  - first:
+      213: -8437168348235456952
+    second: jump_hairs_bigbun_brown_dark_20
+  - first:
+      213: 389265745524877293
+    second: jump_hairs_bigbun_brown_dark_21
+  - first:
+      213: 7995388057465483299
+    second: jump_hairs_bigbun_brown_dark_22
+  - first:
+      213: 6756110629326372780
+    second: jump_hairs_bigbun_brown_dark_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 221
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0701b77b0770810800000000000000
+      internalID: 1731476515093246189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453e01666ae34ad0800000000000000
+      internalID: -2719072024565762742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 226
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14da8bf6dbf974e10800000000000000
+      internalID: 2181888180456303937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 224
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb166a0e0dea20f0800000000000000
+      internalID: -1140838911025210423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 223
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab14fc97c3687350800000000000000
+      internalID: 6014667011336182697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 219
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd1f8f5567bd1080800000000000000
+      internalID: -9215007616507372077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a401141e988ac7d0800000000000000
+      internalID: -2897353197736622940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d677b3811832e0800000000000000
+      internalID: -2145945965025634248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 162
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b179bbc0e488728a0800000000000000
+      internalID: -6329940882443495653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 160
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e451821290e9a580800000000000000
+      internalID: -8815267877620722462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 159
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68319e9c406daf0800000000000000
+      internalID: -372104653966178656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 155
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e967e5b3c8e67170800000000000000
+      internalID: 8175978100805822952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14331808cd9fef00800000000000000
+      internalID: 1148309912457262108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3665fd5752ecf0800000000000000
+      internalID: -224520970354410751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 98
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b6695d8900ff00800000000000000
+      internalID: 1148428407674419100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 97
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92571150d3fa0b10800000000000000
+      internalID: 1948637864830390940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 96
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b97cfdda1c68fe0800000000000000
+      internalID: -1187048499237643448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3252bf320d6f040800000000000000
+      internalID: 4681157715654157293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe671a693f9d1b0800000000000000
+      internalID: -5631202030770524259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0ad4da12927960800000000000000
+      internalID: 7598296165265312451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 33
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e914dd61829ea80800000000000000
+      internalID: -8437168348235456952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ec351223f66500800000000000000
+      internalID: 389265745524877293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32071aea31355fe60800000000000000
+      internalID: 7995388057465483299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_bigbun_brown_dark_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 27
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf3d3c62d682cd50800000000000000
+      internalID: 6756110629326372780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump_hairs_bigbun_brown_dark_0: 1731476515093246189
+      jump_hairs_bigbun_brown_dark_1: -2719072024565762742
+      jump_hairs_bigbun_brown_dark_10: -372104653966178656
+      jump_hairs_bigbun_brown_dark_11: 8175978100805822952
+      jump_hairs_bigbun_brown_dark_12: 1148309912457262108
+      jump_hairs_bigbun_brown_dark_13: -224520970354410751
+      jump_hairs_bigbun_brown_dark_14: 1148428407674419100
+      jump_hairs_bigbun_brown_dark_15: 1948637864830390940
+      jump_hairs_bigbun_brown_dark_16: -1187048499237643448
+      jump_hairs_bigbun_brown_dark_17: 4681157715654157293
+      jump_hairs_bigbun_brown_dark_18: -5631202030770524259
+      jump_hairs_bigbun_brown_dark_19: 7598296165265312451
+      jump_hairs_bigbun_brown_dark_2: 2181888180456303937
+      jump_hairs_bigbun_brown_dark_20: -8437168348235456952
+      jump_hairs_bigbun_brown_dark_21: 389265745524877293
+      jump_hairs_bigbun_brown_dark_22: 7995388057465483299
+      jump_hairs_bigbun_brown_dark_23: 6756110629326372780
+      jump_hairs_bigbun_brown_dark_3: -1140838911025210423
+      jump_hairs_bigbun_brown_dark_4: 6014667011336182697
+      jump_hairs_bigbun_brown_dark_5: -9215007616507372077
+      jump_hairs_bigbun_brown_dark_6: -2897353197736622940
+      jump_hairs_bigbun_brown_dark_7: -2145945965025634248
+      jump_hairs_bigbun_brown_dark_8: -6329940882443495653
+      jump_hairs_bigbun_brown_dark_9: -8815267877620722462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

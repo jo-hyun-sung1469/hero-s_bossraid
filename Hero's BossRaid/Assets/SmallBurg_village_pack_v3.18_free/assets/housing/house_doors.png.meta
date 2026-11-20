@@ -1,0 +1,5046 @@
+fileFormatVersion: 2
+guid: df0beda20c9868c48a39524fd52f3b83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3726384184265341755
+    second: house_doors_0
+  - first:
+      213: 2837623567997933047
+    second: house_doors_1
+  - first:
+      213: 6907692092422744762
+    second: house_doors_2
+  - first:
+      213: -4082185201630736180
+    second: house_doors_3
+  - first:
+      213: 1876110375132321588
+    second: house_doors_4
+  - first:
+      213: -5365440427684354848
+    second: house_doors_5
+  - first:
+      213: 4105886006507573420
+    second: house_doors_6
+  - first:
+      213: 1501756274975675726
+    second: house_doors_7
+  - first:
+      213: 6281020520684359332
+    second: house_doors_8
+  - first:
+      213: 8567359688966355455
+    second: house_doors_9
+  - first:
+      213: -7362364292328114839
+    second: house_doors_10
+  - first:
+      213: -5124953493029198232
+    second: house_doors_11
+  - first:
+      213: -4532000589874564784
+    second: house_doors_12
+  - first:
+      213: -8579201609697081053
+    second: house_doors_13
+  - first:
+      213: -6425980998322706514
+    second: house_doors_14
+  - first:
+      213: -3137508534026925559
+    second: house_doors_15
+  - first:
+      213: -3824323643006169311
+    second: house_doors_16
+  - first:
+      213: 697790072676622129
+    second: house_doors_17
+  - first:
+      213: -8327672631007059553
+    second: house_doors_18
+  - first:
+      213: 1199521492289788820
+    second: house_doors_19
+  - first:
+      213: 3064967236391868469
+    second: house_doors_20
+  - first:
+      213: -4987188054597241869
+    second: house_doors_21
+  - first:
+      213: -7841154859776523785
+    second: house_doors_22
+  - first:
+      213: 3471699942921585366
+    second: house_doors_23
+  - first:
+      213: 3713455103138115236
+    second: house_doors_24
+  - first:
+      213: -6866245085871647702
+    second: house_doors_25
+  - first:
+      213: -2231967464708555945
+    second: house_doors_26
+  - first:
+      213: -6462771992298131661
+    second: house_doors_27
+  - first:
+      213: 8856366815682025541
+    second: house_doors_28
+  - first:
+      213: 3063963504802246649
+    second: house_doors_29
+  - first:
+      213: -1900620070419175376
+    second: house_doors_30
+  - first:
+      213: -5448843519200620056
+    second: house_doors_31
+  - first:
+      213: 1137225247747123998
+    second: house_doors_32
+  - first:
+      213: 5161035387783558932
+    second: house_doors_33
+  - first:
+      213: 7757096848558281202
+    second: house_doors_34
+  - first:
+      213: 2004259393515291062
+    second: house_doors_35
+  - first:
+      213: 266270350532973706
+    second: house_doors_36
+  - first:
+      213: -8858877494635553083
+    second: house_doors_37
+  - first:
+      213: -1991734540922584340
+    second: house_doors_38
+  - first:
+      213: -6897627513132231496
+    second: house_doors_39
+  - first:
+      213: 7826510493658354995
+    second: house_doors_40
+  - first:
+      213: 8725578030833000833
+    second: house_doors_41
+  - first:
+      213: -8769734939336735929
+    second: house_doors_42
+  - first:
+      213: 7757994457347108327
+    second: house_doors_43
+  - first:
+      213: 8003897721495835343
+    second: house_doors_44
+  - first:
+      213: 8261617657325594163
+    second: house_doors_45
+  - first:
+      213: -4902968695252907232
+    second: house_doors_46
+  - first:
+      213: 3553397386936734584
+    second: house_doors_47
+  - first:
+      213: -7816513133227747829
+    second: house_doors_48
+  - first:
+      213: 3749564782313095505
+    second: house_doors_49
+  - first:
+      213: -1144834946853509658
+    second: house_doors_50
+  - first:
+      213: -5630152095727962506
+    second: house_doors_51
+  - first:
+      213: -6725222713582084074
+    second: house_doors_52
+  - first:
+      213: -5001191027080466979
+    second: house_doors_53
+  - first:
+      213: 66328262661164899
+    second: house_doors_54
+  - first:
+      213: -8658825609709348310
+    second: house_doors_55
+  - first:
+      213: -4844388790269672480
+    second: house_doors_56
+  - first:
+      213: 3119548052233927879
+    second: house_doors_57
+  - first:
+      213: 8115028997411211684
+    second: house_doors_58
+  - first:
+      213: -6100721444781983312
+    second: house_doors_59
+  - first:
+      213: -1288981255764648024
+    second: house_doors_60
+  - first:
+      213: -446588156238671893
+    second: house_doors_61
+  - first:
+      213: -3578073091340562750
+    second: house_doors_62
+  - first:
+      213: 3959204868247013613
+    second: house_doors_63
+  - first:
+      213: -155065673449739512
+    second: house_doors_64
+  - first:
+      213: 2278948050781874123
+    second: house_doors_65
+  - first:
+      213: -2984796466672598491
+    second: house_doors_66
+  - first:
+      213: -7886301256656431201
+    second: house_doors_67
+  - first:
+      213: 1152461306197791573
+    second: house_doors_68
+  - first:
+      213: 801353861468720681
+    second: house_doors_69
+  - first:
+      213: 7143927484452216875
+    second: house_doors_70
+  - first:
+      213: 300293267767834197
+    second: house_doors_71
+  - first:
+      213: 2711274000580160333
+    second: house_doors_72
+  - first:
+      213: 7811467157697318515
+    second: house_doors_73
+  - first:
+      213: -2857168122774693395
+    second: house_doors_74
+  - first:
+      213: -1342540317995128742
+    second: house_doors_75
+  - first:
+      213: -354484878160423919
+    second: house_doors_76
+  - first:
+      213: -8428987527040400160
+    second: house_doors_77
+  - first:
+      213: -2998419961952184172
+    second: house_doors_78
+  - first:
+      213: -1807277719914049769
+    second: house_doors_79
+  - first:
+      213: 1160414109507732719
+    second: house_doors_80
+  - first:
+      213: 7871327359887797966
+    second: house_doors_81
+  - first:
+      213: 1705887034149005112
+    second: house_doors_82
+  - first:
+      213: 2565266489478104729
+    second: house_doors_83
+  - first:
+      213: -237915259069801103
+    second: house_doors_84
+  - first:
+      213: -5510894071774468373
+    second: house_doors_85
+  - first:
+      213: 616349584554005489
+    second: house_doors_86
+  - first:
+      213: 7950808798527526599
+    second: house_doors_87
+  - first:
+      213: -8859195750761799969
+    second: house_doors_88
+  - first:
+      213: 8429502595270798756
+    second: house_doors_89
+  - first:
+      213: 1574499549882285820
+    second: house_doors_90
+  - first:
+      213: 3562972252474354762
+    second: house_doors_91
+  - first:
+      213: 1465813131396251988
+    second: house_doors_92
+  - first:
+      213: 8223763666969528544
+    second: house_doors_93
+  - first:
+      213: -3992877214658995391
+    second: house_doors_94
+  - first:
+      213: -3451042384143056868
+    second: house_doors_95
+  - first:
+      213: 4929037392097343766
+    second: house_doors_96
+  - first:
+      213: 1612903588378417989
+    second: house_doors_97
+  - first:
+      213: -6992234526408499378
+    second: house_doors_98
+  - first:
+      213: -2316811044508645872
+    second: house_doors_99
+  - first:
+      213: -2687787543087025289
+    second: house_doors_100
+  - first:
+      213: -5174192116108477323
+    second: house_doors_101
+  - first:
+      213: 8668696637200933179
+    second: house_doors_102
+  - first:
+      213: 4611267997937273312
+    second: house_doors_103
+  - first:
+      213: 7093548914452206724
+    second: house_doors_104
+  - first:
+      213: 6743046609059002937
+    second: house_doors_105
+  - first:
+      213: 676185620458154885
+    second: house_doors_106
+  - first:
+      213: 8143022068909863583
+    second: house_doors_107
+  - first:
+      213: -310670404928976245
+    second: house_doors_108
+  - first:
+      213: -6862841228839925556
+    second: house_doors_109
+  - first:
+      213: -1566980237190323155
+    second: house_doors_110
+  - first:
+      213: 5561424553817370190
+    second: house_doors_111
+  - first:
+      213: 8266475629789189515
+    second: house_doors_112
+  - first:
+      213: -1125714164300613582
+    second: house_doors_113
+  - first:
+      213: -2888135045095744454
+    second: house_doors_114
+  - first:
+      213: -8004600810665856209
+    second: house_doors_115
+  - first:
+      213: -6016468630415318828
+    second: house_doors_116
+  - first:
+      213: 512069151490537672
+    second: house_doors_117
+  - first:
+      213: 3727794580719244251
+    second: house_doors_118
+  - first:
+      213: 428225022548574233
+    second: house_doors_119
+  - first:
+      213: 6406163552147080907
+    second: house_doors_120
+  - first:
+      213: 6190417227593849204
+    second: house_doors_121
+  - first:
+      213: 3519052127794800835
+    second: house_doors_122
+  - first:
+      213: 8928795468706027908
+    second: house_doors_123
+  - first:
+      213: -9110051195403091267
+    second: house_doors_124
+  - first:
+      213: -4628554361064374472
+    second: house_doors_125
+  - first:
+      213: -1585370630219613777
+    second: house_doors_126
+  - first:
+      213: 1468539055398454897
+    second: house_doors_127
+  - first:
+      213: -8065079063695089116
+    second: house_doors_128
+  - first:
+      213: 1389210574540682851
+    second: house_doors_129
+  - first:
+      213: -2834098297416306963
+    second: house_doors_130
+  - first:
+      213: 6802242122246159217
+    second: house_doors_131
+  - first:
+      213: -20304218034796231
+    second: house_doors_132
+  - first:
+      213: -248727575911705324
+    second: house_doors_133
+  - first:
+      213: -7112600928968938887
+    second: house_doors_134
+  - first:
+      213: -3332429477711400432
+    second: house_doors_135
+  - first:
+      213: 8125804879007859458
+    second: house_doors_136
+  - first:
+      213: 3043318420604765061
+    second: house_doors_137
+  - first:
+      213: 7632080676198917955
+    second: house_doors_138
+  - first:
+      213: -6296362631596294664
+    second: house_doors_139
+  - first:
+      213: -3134138640121351541
+    second: house_doors_140
+  - first:
+      213: 710018705727850956
+    second: house_doors_141
+  - first:
+      213: 8773682004632527532
+    second: house_doors_142
+  - first:
+      213: 3939835891704466465
+    second: house_doors_143
+  - first:
+      213: -7235595130855766251
+    second: house_doors_144
+  - first:
+      213: -6951716062100583205
+    second: house_doors_145
+  - first:
+      213: -8747342731093135295
+    second: house_doors_146
+  - first:
+      213: 1086655060193372298
+    second: house_doors_147
+  - first:
+      213: 5033406649920306817
+    second: house_doors_148
+  - first:
+      213: 403789670342311539
+    second: house_doors_149
+  - first:
+      213: -8065781845326446648
+    second: house_doors_150
+  - first:
+      213: 8596100735526401794
+    second: house_doors_151
+  - first:
+      213: -686755365106490504
+    second: house_doors_152
+  - first:
+      213: -5066235073088082872
+    second: house_doors_153
+  - first:
+      213: -8477819158252975717
+    second: house_doors_154
+  - first:
+      213: 5620660418256302900
+    second: house_doors_155
+  - first:
+      213: 548684652200773535
+    second: house_doors_156
+  - first:
+      213: 3639375466849632555
+    second: house_doors_157
+  - first:
+      213: 6380493600547859232
+    second: house_doors_158
+  - first:
+      213: 4930555331392567903
+    second: house_doors_159
+  - first:
+      213: -4632866568122600861
+    second: house_doors_160
+  - first:
+      213: -5587177313563524438
+    second: house_doors_161
+  - first:
+      213: -9093199505099765055
+    second: house_doors_162
+  - first:
+      213: -2987827720253740443
+    second: house_doors_163
+  - first:
+      213: -8197083427410690937
+    second: house_doors_164
+  - first:
+      213: 3225056522323613437
+    second: house_doors_165
+  - first:
+      213: -1838754244176949962
+    second: house_doors_166
+  - first:
+      213: -457900233472453597
+    second: house_doors_167
+  - first:
+      213: -4035426972917368096
+    second: house_doors_168
+  - first:
+      213: 7877861707253128994
+    second: house_doors_169
+  - first:
+      213: 8914486142883935123
+    second: house_doors_170
+  - first:
+      213: -5990849027569696498
+    second: house_doors_171
+  - first:
+      213: 6248353394498770946
+    second: house_doors_172
+  - first:
+      213: -9198133676412156410
+    second: house_doors_173
+  - first:
+      213: -799413263824067666
+    second: house_doors_174
+  - first:
+      213: 8561256503112536507
+    second: house_doors_175
+  - first:
+      213: 600286294725817442
+    second: house_doors_176
+  - first:
+      213: -7376266681297863185
+    second: house_doors_177
+  - first:
+      213: 8722722198744437392
+    second: house_doors_178
+  - first:
+      213: -3273718123416474479
+    second: house_doors_179
+  - first:
+      213: 2549694702180880060
+    second: house_doors_180
+  - first:
+      213: -3318578809264749882
+    second: house_doors_181
+  - first:
+      213: 2121132863243208215
+    second: house_doors_182
+  - first:
+      213: -2378009618648547852
+    second: house_doors_183
+  - first:
+      213: 2351486065948514754
+    second: house_doors_184
+  - first:
+      213: -7340750226935004136
+    second: house_doors_185
+  - first:
+      213: -4297960388092378530
+    second: house_doors_186
+  - first:
+      213: 3946075135233974482
+    second: house_doors_187
+  - first:
+      213: 219042504355749799
+    second: house_doors_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_doors_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c40b30e359394cc0800000000000000
+      internalID: -3726384184265341755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f51bc8c993416720800000000000000
+      internalID: 2837623567997933047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abae1aa0c5d0ddf50800000000000000
+      internalID: 6907692092422744762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0917dff2a2957c0800000000000000
+      internalID: -4082185201630736180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437df253278490a10800000000000000
+      internalID: 1876110375132321588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4aa5cbb502a85b0800000000000000
+      internalID: -5365440427684354848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0912aa1990bf830800000000000000
+      internalID: 4105886006507573420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45932d106f47d410800000000000000
+      internalID: 1501756274975675726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae8452a2eaaa2750800000000000000
+      internalID: 6281020520684359332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff937dbce3065e670800000000000000
+      internalID: 8567359688966355455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96533c00fa0a3d990800000000000000
+      internalID: -7362364292328114839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e89583f180e8b0800000000000000
+      internalID: -5124953493029198232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517aae99791b11c0800000000000000
+      internalID: -4532000589874564784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 479
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329cb8d279d80f880800000000000000
+      internalID: -8579201609697081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a09d045452d6a0800000000000000
+      internalID: -6425980998322706514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a819d8c945574d0800000000000000
+      internalID: -3137508534026925559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f4d78a8e54deac0800000000000000
+      internalID: -3824323643006169311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f1fa1cf5c0fa900800000000000000
+      internalID: 697790072676622129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91e41f2dd92e6c80800000000000000
+      internalID: -8327672631007059553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b1160217e85a010800000000000000
+      internalID: 1199521492289788820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_20
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 479
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538195d6673f88a20800000000000000
+      internalID: 3064967236391868469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f8a933e2f9cab0800000000000000
+      internalID: -4987188054597241869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14132033f9e2390800000000000000
+      internalID: -7841154859776523785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2c59844b4fd2030800000000000000
+      internalID: 3471699942921585366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aea8e7ddb7d88330800000000000000
+      internalID: 3713455103138115236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2459db297236b0a0800000000000000
+      internalID: -6866245085871647702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b31d39a657601e0800000000000000
+      internalID: -2231967464708555945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe9be3d1f9f46a0800000000000000
+      internalID: -6462771992298131661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_28
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d84122b228ea70800000000000000
+      internalID: 8856366815682025541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffaf74f292658a20800000000000000
+      internalID: 3063963504802246649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038efa9ad14af95e0800000000000000
+      internalID: -1900620070419175376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e19b5140b1d164b0800000000000000
+      internalID: -5448843519200620056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba299665c38cf00800000000000000
+      internalID: 1137225247747123998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173f02475eaf9740800000000000000
+      internalID: 5161035387783558932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 431
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f15e922c7eb6ab60800000000000000
+      internalID: 7757096848558281202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10834ac4f80db10800000000000000
+      internalID: 2004259393515291062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849cb9197bf1b300800000000000000
+      internalID: 266270350532973706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_37
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce9b8fdad1fe0580800000000000000
+      internalID: -8858877494635553083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce20f69dcffeb54e0800000000000000
+      internalID: -1991734540922584340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_39
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4dace6254b640a0800000000000000
+      internalID: -6897627513132231496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3359f5dc3d95d9c60800000000000000
+      internalID: 7826510493658354995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 431
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e0cb2dfa771970800000000000000
+      internalID: 8725578030833000833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74380866984ab4680800000000000000
+      internalID: -8769734939336735929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edaf97fadee9ab60800000000000000
+      internalID: 7757994457347108327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2515c329e831f60800000000000000
+      internalID: 8003897721495835343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336acf6cc7927a270800000000000000
+      internalID: 8261617657325594163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b079ed2f725fbb0800000000000000
+      internalID: -4902968695252907232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735a22c814305130800000000000000
+      internalID: 3553397386936734584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d8cf08ba268390800000000000000
+      internalID: -7816513133227747829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 382
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1514610bd41290430800000000000000
+      internalID: 3749564782313095505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5e7527eaabc10f0800000000000000
+      internalID: -1144834946853509658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676b6beaf7eadd1b0800000000000000
+      internalID: -5630152095727962506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6102d81e2953ba2a0800000000000000
+      internalID: -6725222713582084074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd6ff02243389ab0800000000000000
+      internalID: -5001191027080466979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_54
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcc761435abe000800000000000000
+      internalID: 66328262661164899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_55
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a18310cfba5d780800000000000000
+      internalID: -8658825609709348310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_56
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3871adf0645ccb0800000000000000
+      internalID: -4844388790269672480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_57
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3a29ec6cda4b20800000000000000
+      internalID: 3119548052233927879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_58
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a980bcb0ef5e9070800000000000000
+      internalID: 8115028997411211684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b979224b22e55ba0800000000000000
+      internalID: -6100721444781983312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_60
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afd200906e9c1ee0800000000000000
+      internalID: -1288981255764648024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_61
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4f7220766dc9f0800000000000000
+      internalID: -446588156238671893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_62
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce034a1b71285ec0800000000000000
+      internalID: -3578073091340562750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de84cd4d9dbe1f630800000000000000
+      internalID: 3959204868247013613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80beb21779819ddf0800000000000000
+      internalID: -155065673449739512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72c648d2370af10800000000000000
+      internalID: 2278948050781874123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522832d7d6fd396d0800000000000000
+      internalID: -2984796466672598491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97d64d5aca3e8290800000000000000
+      internalID: -7886301256656431201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5535d45b37d5eff00800000000000000
+      internalID: 1152461306197791573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e0b3c571bfe1b00800000000000000
+      internalID: 801353861468720681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20aceb6234542360800000000000000
+      internalID: 7143927484452216875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_71
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5563eb1d22bda2400800000000000000
+      internalID: 300293267767834197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b255da65160a520800000000000000
+      internalID: 2711274000580160333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ecd253ef7e76c60800000000000000
+      internalID: 7811467157697318515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_74
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d172fabc4958d0800000000000000
+      internalID: -2857168122774693395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_75
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a241a1b65e5de0800000000000000
+      internalID: -1342540317995128742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_76
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 334
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1141007a1ed941bf0800000000000000
+      internalID: -354484878160423919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_77
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e40f8ab088360b80800000000000000
+      internalID: -8428987527040400160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_78
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49856605ee87366d0800000000000000
+      internalID: -2998419961952184172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_79
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f8b063d724be6e0800000000000000
+      internalID: -1807277719914049769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_80
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe44f850c7e9a1010800000000000000
+      internalID: 1160414109507732719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_81
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceecec97829c3d60800000000000000
+      internalID: 7871327359887797966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_82
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837656928378ca710800000000000000
+      internalID: 1705887034149005112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_83
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 335
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9964e83e748a99320800000000000000
+      internalID: 2565266489478104729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ddf781551c2bcf0800000000000000
+      internalID: -237915259069801103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_85
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a3192a0f5583b0800000000000000
+      internalID: -5510894071774468373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f31dcc7ea6bd8800800000000000000
+      internalID: 616349584554005489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c698412a72f65e60800000000000000
+      internalID: 7950808798527526599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde51381760dd0580800000000000000
+      internalID: -8859195750761799969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_89
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6950f2fb9bf470800000000000000
+      internalID: 8429502595270798756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 305
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfefeb1affeb9d510800000000000000
+      internalID: 1574499549882285820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cae4dd268327130800000000000000
+      internalID: 3562972252474354762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4510afbd64d975410800000000000000
+      internalID: 1465813131396251988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88b76db7da02270800000000000000
+      internalID: 8223763666969528544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_94
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bdf7414537698c0800000000000000
+      internalID: -3992877214658995391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10065c6c3f6b10d0800000000000000
+      internalID: -3451042384143056868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_96
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61974989465776440800000000000000
+      internalID: 4929037392097343766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 239
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b9f32a44f226610800000000000000
+      internalID: 1612903588378417989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1333aeb796fe90800000000000000
+      internalID: -6992234526408499378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_99
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164c5841a809dfd0800000000000000
+      internalID: -2316811044508645872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773f396587f03bad0800000000000000
+      internalID: -2687787543087025289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c3ab73fa39138b0800000000000000
+      internalID: -5174192116108477323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b312cfda9a56d4870800000000000000
+      internalID: 8668696637200933179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_103
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e98d2500d38eff30800000000000000
+      internalID: 4611267997937273312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_104
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48418ca8729517260800000000000000
+      internalID: 7093548914452206724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a3ddc2a2d149d50800000000000000
+      internalID: 6743046609059002937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba2ad3d3b426900800000000000000
+      internalID: 676185620458154885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f9879d63d10170800000000000000
+      internalID: 8143022068909863583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_108
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4bf7a9e640bbf0800000000000000
+      internalID: -310670404928976245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc84715634a42c0a0800000000000000
+      internalID: -6862841228839925556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24a638c6c7f04ae0800000000000000
+      internalID: -1566980237190323155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 161
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e6b6f7a262e2d40800000000000000
+      internalID: 5561424553817370190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_112
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851202a9cb68b270800000000000000
+      internalID: 8266475629789189515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_113
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2387c3e8ee8a060f0800000000000000
+      internalID: -1125714164300613582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c16bd7a784be7d0800000000000000
+      internalID: -2888135045095744454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_115
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23357f09f1f9e090800000000000000
+      internalID: -8004600810665856209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_116
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d060d148a5318ca0800000000000000
+      internalID: -6016468630415318828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_117
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c877032e2c3b1700800000000000000
+      internalID: 512069151490537672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_118
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 159
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd39563ab69cbb330800000000000000
+      internalID: 3727794580719244251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_119
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91001f0a36c51f500800000000000000
+      internalID: 428225022548574233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_120
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc608c23fc347e850800000000000000
+      internalID: 6406163552147080907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_121
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47990369ba7c8e550800000000000000
+      internalID: 6190417227593849204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_122
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8aa47f34f26d030800000000000000
+      internalID: 3519052127794800835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_123
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48917580c2479eb70800000000000000
+      internalID: 8928795468706027908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_124
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2406474b8929180800000000000000
+      internalID: -9110051195403091267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_125
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 161
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f3c2de45214cfb0800000000000000
+      internalID: -4628554361064374472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_126
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93c6cbfc1aff9e0800000000000000
+      internalID: -1585370630219613777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_127
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 113
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17600df7d7c416410800000000000000
+      internalID: 1468539055398454897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_128
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 113
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422a30b7255131090800000000000000
+      internalID: -8065079063695089116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_129
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 113
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366b6bd38a7774310800000000000000
+      internalID: 1389210574540682851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_130
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee26fb3d924ba8d0800000000000000
+      internalID: -2834098297416306963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_131
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 113
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7eac9b2b666e50800000000000000
+      internalID: 6802242122246159217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_132
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 113
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390898db6dd7bff0800000000000000
+      internalID: -20304218034796231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_133
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41550f766975c8cf0800000000000000
+      internalID: -248727575911705324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_134
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a61b7a327fa4d90800000000000000
+      internalID: -7112600928968938887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_135
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012b8f5cb05d0c1d0800000000000000
+      internalID: -3332429477711400432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_136
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203466f2c78a4c070800000000000000
+      internalID: 8125804879007859458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_137
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583cc86baf90c3a20800000000000000
+      internalID: 3043318420604765061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_138
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a5f140f89ae960800000000000000
+      internalID: 7632080676198917955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_139
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 111
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdb8aecb83de98a0800000000000000
+      internalID: -6296362631596294664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_140
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82bdbe138d4184d0800000000000000
+      internalID: -3134138640121351541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_141
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc98ac2404e7ad900800000000000000
+      internalID: 710018705727850956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_142
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2eb5a5c4162c970800000000000000
+      internalID: 8773682004632527532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_143
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c016e8edb1da630800000000000000
+      internalID: 3939835891704466465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_144
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517cbc67090069b90800000000000000
+      internalID: -7235595130855766251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_145
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc0e13c21b868f90800000000000000
+      internalID: -6951716062100583205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_146
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 113
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403998a1223b9680800000000000000
+      internalID: -8747342731093135295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_147
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88e4381503941f00800000000000000
+      internalID: 1086655060193372298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_148
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eb6921ea04ad540800000000000000
+      internalID: 5033406649920306817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb9b8d09c8a9500800000000000000
+      internalID: 403789670342311539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_150
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb5816526901090800000000000000
+      internalID: -8065781845326446648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_151
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207768a231c7b4770800000000000000
+      internalID: 8596100735526401794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_152
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873eb3f42a72876f0800000000000000
+      internalID: -686755365106490504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_153
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca5f70b0e11b9b0800000000000000
+      internalID: -5066235073088082872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99845a946cb85a80800000000000000
+      internalID: -8477819158252975717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_155
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f341fed8900e40800000000000000
+      internalID: 5620660418256302900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_156
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c22cb8c15d9700800000000000000
+      internalID: 548684652200773535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_157
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2108d174b8a18230800000000000000
+      internalID: 3639375466849632555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_158
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bee48df111c8850800000000000000
+      internalID: 6380493600547859232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_159
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aff0163f9dc6440800000000000000
+      internalID: 4930555331392567903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_160
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 62
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362f44bf660c4bfb0800000000000000
+      internalID: -4632866568122600861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_161
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2ccefd5db5672b0800000000000000
+      internalID: -5587177313563524438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_162
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca45ca5a377ec180800000000000000
+      internalID: -9093199505099765055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ae534c48a1986d0800000000000000
+      internalID: -2987827720253740443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_164
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb1f28d0c1e3e80800000000000000
+      internalID: -8197083427410690937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d7a9e1d3b1cc20800000000000000
+      internalID: 3225056522323613437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d479ec1ce6b76e0800000000000000
+      internalID: -1838754244176949962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 66
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3245e49e92635a9f0800000000000000
+      internalID: -457900233472453597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eafa3a7c884ff7c0800000000000000
+      internalID: -4035426972917368096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_169
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f997aeb79c35d60800000000000000
+      internalID: 7877861707253128994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_170
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933dbd7aed96bb70800000000000000
+      internalID: 8914486142883935123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_171
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01c6b0ec8a3cdca0800000000000000
+      internalID: -5990849027569696498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208943e9e4c96b650800000000000000
+      internalID: 6248353394498770946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_173
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60645e4b72aa95080800000000000000
+      internalID: -9198133676412156410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_174
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3e70d3fd9e7e4f0800000000000000
+      internalID: -799413263824067666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_175
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1960b1e61bfc670800000000000000
+      internalID: 8561256503112536507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_176
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264faa06435a45800800000000000000
+      internalID: 600286294725817442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_177
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf0b4d88c32a990800000000000000
+      internalID: -7376266681297863185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_178
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0929392ff955d0970800000000000000
+      internalID: 8722722198744437392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_179
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca00f26ba6192d0800000000000000
+      internalID: -3273718123416474479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_180
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecf21a2d5526320800000000000000
+      internalID: 2549694702180880060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_181
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2c2a2d72a02f1d0800000000000000
+      internalID: -3318578809264749882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_182
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c403d917cf6d10800000000000000
+      internalID: 2121132863243208215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_183
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdbdffd9dc9ffed0800000000000000
+      internalID: -2378009618648547852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c954274e1822a020800000000000000
+      internalID: 2351486065948514754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_185
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814cba2cf8a602a90800000000000000
+      internalID: -7340750226935004136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52cd017cc39a54c0800000000000000
+      internalID: -4297960388092378530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_187
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d06f94ad6643c630800000000000000
+      internalID: 3946075135233974482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_doors_188
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 18
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af16d64ff13a0300800000000000000
+      internalID: 219042504355749799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_doors_0: -3726384184265341755
+      house_doors_1: 2837623567997933047
+      house_doors_10: -7362364292328114839
+      house_doors_100: -2687787543087025289
+      house_doors_101: -5174192116108477323
+      house_doors_102: 8668696637200933179
+      house_doors_103: 4611267997937273312
+      house_doors_104: 7093548914452206724
+      house_doors_105: 6743046609059002937
+      house_doors_106: 676185620458154885
+      house_doors_107: 8143022068909863583
+      house_doors_108: -310670404928976245
+      house_doors_109: -6862841228839925556
+      house_doors_11: -5124953493029198232
+      house_doors_110: -1566980237190323155
+      house_doors_111: 5561424553817370190
+      house_doors_112: 8266475629789189515
+      house_doors_113: -1125714164300613582
+      house_doors_114: -2888135045095744454
+      house_doors_115: -8004600810665856209
+      house_doors_116: -6016468630415318828
+      house_doors_117: 512069151490537672
+      house_doors_118: 3727794580719244251
+      house_doors_119: 428225022548574233
+      house_doors_12: -4532000589874564784
+      house_doors_120: 6406163552147080907
+      house_doors_121: 6190417227593849204
+      house_doors_122: 3519052127794800835
+      house_doors_123: 8928795468706027908
+      house_doors_124: -9110051195403091267
+      house_doors_125: -4628554361064374472
+      house_doors_126: -1585370630219613777
+      house_doors_127: 1468539055398454897
+      house_doors_128: -8065079063695089116
+      house_doors_129: 1389210574540682851
+      house_doors_13: -8579201609697081053
+      house_doors_130: -2834098297416306963
+      house_doors_131: 6802242122246159217
+      house_doors_132: -20304218034796231
+      house_doors_133: -248727575911705324
+      house_doors_134: -7112600928968938887
+      house_doors_135: -3332429477711400432
+      house_doors_136: 8125804879007859458
+      house_doors_137: 3043318420604765061
+      house_doors_138: 7632080676198917955
+      house_doors_139: -6296362631596294664
+      house_doors_14: -6425980998322706514
+      house_doors_140: -3134138640121351541
+      house_doors_141: 710018705727850956
+      house_doors_142: 8773682004632527532
+      house_doors_143: 3939835891704466465
+      house_doors_144: -7235595130855766251
+      house_doors_145: -6951716062100583205
+      house_doors_146: -8747342731093135295
+      house_doors_147: 1086655060193372298
+      house_doors_148: 5033406649920306817
+      house_doors_149: 403789670342311539
+      house_doors_15: -3137508534026925559
+      house_doors_150: -8065781845326446648
+      house_doors_151: 8596100735526401794
+      house_doors_152: -686755365106490504
+      house_doors_153: -5066235073088082872
+      house_doors_154: -8477819158252975717
+      house_doors_155: 5620660418256302900
+      house_doors_156: 548684652200773535
+      house_doors_157: 3639375466849632555
+      house_doors_158: 6380493600547859232
+      house_doors_159: 4930555331392567903
+      house_doors_16: -3824323643006169311
+      house_doors_160: -4632866568122600861
+      house_doors_161: -5587177313563524438
+      house_doors_162: -9093199505099765055
+      house_doors_163: -2987827720253740443
+      house_doors_164: -8197083427410690937
+      house_doors_165: 3225056522323613437
+      house_doors_166: -1838754244176949962
+      house_doors_167: -457900233472453597
+      house_doors_168: -4035426972917368096
+      house_doors_169: 7877861707253128994
+      house_doors_17: 697790072676622129
+      house_doors_170: 8914486142883935123
+      house_doors_171: -5990849027569696498
+      house_doors_172: 6248353394498770946
+      house_doors_173: -9198133676412156410
+      house_doors_174: -799413263824067666
+      house_doors_175: 8561256503112536507
+      house_doors_176: 600286294725817442
+      house_doors_177: -7376266681297863185
+      house_doors_178: 8722722198744437392
+      house_doors_179: -3273718123416474479
+      house_doors_18: -8327672631007059553
+      house_doors_180: 2549694702180880060
+      house_doors_181: -3318578809264749882
+      house_doors_182: 2121132863243208215
+      house_doors_183: -2378009618648547852
+      house_doors_184: 2351486065948514754
+      house_doors_185: -7340750226935004136
+      house_doors_186: -4297960388092378530
+      house_doors_187: 3946075135233974482
+      house_doors_188: 219042504355749799
+      house_doors_19: 1199521492289788820
+      house_doors_2: 6907692092422744762
+      house_doors_20: 3064967236391868469
+      house_doors_21: -4987188054597241869
+      house_doors_22: -7841154859776523785
+      house_doors_23: 3471699942921585366
+      house_doors_24: 3713455103138115236
+      house_doors_25: -6866245085871647702
+      house_doors_26: -2231967464708555945
+      house_doors_27: -6462771992298131661
+      house_doors_28: 8856366815682025541
+      house_doors_29: 3063963504802246649
+      house_doors_3: -4082185201630736180
+      house_doors_30: -1900620070419175376
+      house_doors_31: -5448843519200620056
+      house_doors_32: 1137225247747123998
+      house_doors_33: 5161035387783558932
+      house_doors_34: 7757096848558281202
+      house_doors_35: 2004259393515291062
+      house_doors_36: 266270350532973706
+      house_doors_37: -8858877494635553083
+      house_doors_38: -1991734540922584340
+      house_doors_39: -6897627513132231496
+      house_doors_4: 1876110375132321588
+      house_doors_40: 7826510493658354995
+      house_doors_41: 8725578030833000833
+      house_doors_42: -8769734939336735929
+      house_doors_43: 7757994457347108327
+      house_doors_44: 8003897721495835343
+      house_doors_45: 8261617657325594163
+      house_doors_46: -4902968695252907232
+      house_doors_47: 3553397386936734584
+      house_doors_48: -7816513133227747829
+      house_doors_49: 3749564782313095505
+      house_doors_5: -5365440427684354848
+      house_doors_50: -1144834946853509658
+      house_doors_51: -5630152095727962506
+      house_doors_52: -6725222713582084074
+      house_doors_53: -5001191027080466979
+      house_doors_54: 66328262661164899
+      house_doors_55: -8658825609709348310
+      house_doors_56: -4844388790269672480
+      house_doors_57: 3119548052233927879
+      house_doors_58: 8115028997411211684
+      house_doors_59: -6100721444781983312
+      house_doors_6: 4105886006507573420
+      house_doors_60: -1288981255764648024
+      house_doors_61: -446588156238671893
+      house_doors_62: -3578073091340562750
+      house_doors_63: 3959204868247013613
+      house_doors_64: -155065673449739512
+      house_doors_65: 2278948050781874123
+      house_doors_66: -2984796466672598491
+      house_doors_67: -7886301256656431201
+      house_doors_68: 1152461306197791573
+      house_doors_69: 801353861468720681
+      house_doors_7: 1501756274975675726
+      house_doors_70: 7143927484452216875
+      house_doors_71: 300293267767834197
+      house_doors_72: 2711274000580160333
+      house_doors_73: 7811467157697318515
+      house_doors_74: -2857168122774693395
+      house_doors_75: -1342540317995128742
+      house_doors_76: -354484878160423919
+      house_doors_77: -8428987527040400160
+      house_doors_78: -2998419961952184172
+      house_doors_79: -1807277719914049769
+      house_doors_8: 6281020520684359332
+      house_doors_80: 1160414109507732719
+      house_doors_81: 7871327359887797966
+      house_doors_82: 1705887034149005112
+      house_doors_83: 2565266489478104729
+      house_doors_84: -237915259069801103
+      house_doors_85: -5510894071774468373
+      house_doors_86: 616349584554005489
+      house_doors_87: 7950808798527526599
+      house_doors_88: -8859195750761799969
+      house_doors_89: 8429502595270798756
+      house_doors_9: 8567359688966355455
+      house_doors_90: 1574499549882285820
+      house_doors_91: 3562972252474354762
+      house_doors_92: 1465813131396251988
+      house_doors_93: 8223763666969528544
+      house_doors_94: -3992877214658995391
+      house_doors_95: -3451042384143056868
+      house_doors_96: 4929037392097343766
+      house_doors_97: 1612903588378417989
+      house_doors_98: -6992234526408499378
+      house_doors_99: -2316811044508645872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

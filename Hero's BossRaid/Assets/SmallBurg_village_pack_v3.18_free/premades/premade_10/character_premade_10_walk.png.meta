@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 279f8f2350da2d8469c53e299cf3b4b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 395586350118229111
+    second: character_premade_10_walk_0
+  - first:
+      213: 8398326490420932582
+    second: character_premade_10_walk_1
+  - first:
+      213: 7055526780560620335
+    second: character_premade_10_walk_2
+  - first:
+      213: 932132227124158756
+    second: character_premade_10_walk_3
+  - first:
+      213: -1911494528848440239
+    second: character_premade_10_walk_4
+  - first:
+      213: -3644330589608827056
+    second: character_premade_10_walk_5
+  - first:
+      213: 904829629289896850
+    second: character_premade_10_walk_6
+  - first:
+      213: 4785373144484766469
+    second: character_premade_10_walk_7
+  - first:
+      213: 8013822884587242088
+    second: character_premade_10_walk_8
+  - first:
+      213: 7321445801436129804
+    second: character_premade_10_walk_9
+  - first:
+      213: 7614749579330702041
+    second: character_premade_10_walk_10
+  - first:
+      213: -3662918574612677826
+    second: character_premade_10_walk_11
+  - first:
+      213: 2603147215284037913
+    second: character_premade_10_walk_12
+  - first:
+      213: 3369880899069717929
+    second: character_premade_10_walk_13
+  - first:
+      213: -1435172873910774554
+    second: character_premade_10_walk_14
+  - first:
+      213: 2517083823156353157
+    second: character_premade_10_walk_15
+  - first:
+      213: -1434347728137171981
+    second: character_premade_10_walk_16
+  - first:
+      213: 7527761953781902983
+    second: character_premade_10_walk_17
+  - first:
+      213: -1086223612286939560
+    second: character_premade_10_walk_18
+  - first:
+      213: -5084909318313997616
+    second: character_premade_10_walk_19
+  - first:
+      213: -3565953258205628035
+    second: character_premade_10_walk_20
+  - first:
+      213: 1315683107332597803
+    second: character_premade_10_walk_21
+  - first:
+      213: 5371247737717962953
+    second: character_premade_10_walk_22
+  - first:
+      213: 6855423051818840349
+    second: character_premade_10_walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_premade_10_walk_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7745ac480b76d7500800000000000000
+      internalID: 395586350118229111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efea416279dc8470800000000000000
+      internalID: 8398326490420932582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b3292a9344ae160800000000000000
+      internalID: 7055526780560620335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421ed6962599fec00800000000000000
+      internalID: 932132227124158756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154d2e18ad10975e0800000000000000
+      internalID: -1911494528848440239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057a64223acbc6dc0800000000000000
+      internalID: -3644330589608827056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b921cf0c99e8c00800000000000000
+      internalID: 904829629289896850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50365ba558f096240800000000000000
+      internalID: 4785373144484766469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86208b85471d63f60800000000000000
+      internalID: 8013822884587242088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a20ec6a200b9560800000000000000
+      internalID: 7321445801436129804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacf81d5660da960800000000000000
+      internalID: 7614749579330702041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf70f96f2ba2dc0800000000000000
+      internalID: -3662918574612677826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 85
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9196d09a99c302420800000000000000
+      internalID: 2603147215284037913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adac64c2d834ce20800000000000000
+      internalID: 3369880899069717929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4954300ed351ce0800000000000000
+      internalID: -1435172873910774554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588dd1da66a7ee220800000000000000
+      internalID: 2517083823156353157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbcefb375c281ce0800000000000000
+      internalID: -1434347728137171981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eeed8fc9bf77860800000000000000
+      internalID: 7527761953781902983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ecef23165fce0f0800000000000000
+      internalID: -1086223612286939560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da02de7ae5ce69b0800000000000000
+      internalID: -5084909318313997616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79b107a760338ec0800000000000000
+      internalID: -3565953258205628035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28aa89b0de324210800000000000000
+      internalID: 1315683107332597803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8bc4ffb518a8a40800000000000000
+      internalID: 5371247737717962953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_walk_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11bfaca1fa532f50800000000000000
+      internalID: 6855423051818840349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_premade_10_walk_0: 395586350118229111
+      character_premade_10_walk_1: 8398326490420932582
+      character_premade_10_walk_10: 7614749579330702041
+      character_premade_10_walk_11: -3662918574612677826
+      character_premade_10_walk_12: 2603147215284037913
+      character_premade_10_walk_13: 3369880899069717929
+      character_premade_10_walk_14: -1435172873910774554
+      character_premade_10_walk_15: 2517083823156353157
+      character_premade_10_walk_16: -1434347728137171981
+      character_premade_10_walk_17: 7527761953781902983
+      character_premade_10_walk_18: -1086223612286939560
+      character_premade_10_walk_19: -5084909318313997616
+      character_premade_10_walk_2: 7055526780560620335
+      character_premade_10_walk_20: -3565953258205628035
+      character_premade_10_walk_21: 1315683107332597803
+      character_premade_10_walk_22: 5371247737717962953
+      character_premade_10_walk_23: 6855423051818840349
+      character_premade_10_walk_3: 932132227124158756
+      character_premade_10_walk_4: -1911494528848440239
+      character_premade_10_walk_5: -3644330589608827056
+      character_premade_10_walk_6: 904829629289896850
+      character_premade_10_walk_7: 4785373144484766469
+      character_premade_10_walk_8: 8013822884587242088
+      character_premade_10_walk_9: 7321445801436129804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

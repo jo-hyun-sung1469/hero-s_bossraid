@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 91e35ae83ef23d14489419b0db6484d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8579902437981788168
+    second: house_building_walls_shadows_0
+  - first:
+      213: 6327446300117364978
+    second: house_building_walls_shadows_1
+  - first:
+      213: -5839924747358025120
+    second: house_building_walls_shadows_2
+  - first:
+      213: -3705736755185189220
+    second: house_building_walls_shadows_3
+  - first:
+      213: -2154195312992459438
+    second: house_building_walls_shadows_4
+  - first:
+      213: -2755996239047601977
+    second: house_building_walls_shadows_5
+  - first:
+      213: 625366750817996991
+    second: house_building_walls_shadows_6
+  - first:
+      213: 2461162478091006875
+    second: house_building_walls_shadows_7
+  - first:
+      213: -8110440995899460355
+    second: house_building_walls_shadows_8
+  - first:
+      213: -8921896611786033053
+    second: house_building_walls_shadows_9
+  - first:
+      213: -492914945872541103
+    second: house_building_walls_shadows_10
+  - first:
+      213: 821728077566620026
+    second: house_building_walls_shadows_11
+  - first:
+      213: -3426244353993819880
+    second: house_building_walls_shadows_12
+  - first:
+      213: -7251235968407338979
+    second: house_building_walls_shadows_13
+  - first:
+      213: 6436522395154628573
+    second: house_building_walls_shadows_14
+  - first:
+      213: 7336085645039548401
+    second: house_building_walls_shadows_15
+  - first:
+      213: -6796660359753572694
+    second: house_building_walls_shadows_16
+  - first:
+      213: 1503393043142490089
+    second: house_building_walls_shadows_17
+  - first:
+      213: 5077026050848193050
+    second: house_building_walls_shadows_18
+  - first:
+      213: 4689730093284579394
+    second: house_building_walls_shadows_19
+  - first:
+      213: -7195372256279960463
+    second: house_building_walls_shadows_20
+  - first:
+      213: 2132495265923978076
+    second: house_building_walls_shadows_21
+  - first:
+      213: -6601955832024600089
+    second: house_building_walls_shadows_22
+  - first:
+      213: 7856550355443212872
+    second: house_building_walls_shadows_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_building_walls_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 561
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76690e0301ee880800000000000000
+      internalID: -8579902437981788168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 577
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0faddb2ea9fc750800000000000000
+      internalID: 6327446300117364978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 385
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a46be226b64fea0800000000000000
+      internalID: -5839924747358025120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 401
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef3141e04929cc0800000000000000
+      internalID: -3705736755185189220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 209
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e548b6c2ca12e0800000000000000
+      internalID: -2154195312992459438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 225
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c05141c50cb0c9d0800000000000000
+      internalID: -2755996239047601977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 33
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d8dc1fbfbda800800000000000000
+      internalID: 625366750817996991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937229eb3ec72220800000000000000
+      internalID: 2461162478091006875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33
+        width: 451
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4b5ab92ece17f80800000000000000
+      internalID: -8110440995899460355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 577
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3687bb34d4e0f2480800000000000000
+      internalID: -8921896611786033053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_10
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 433
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a49c2e770d829f0800000000000000
+      internalID: -492914945872541103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 401
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b255355d576b00800000000000000
+      internalID: 821728077566620026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 257
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819b28eb9e88370d0800000000000000
+      internalID: -3426244353993819880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 225
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d108b803e4f6e5b90800000000000000
+      internalID: -7251235968407338979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 81
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb908240f135950800000000000000
+      internalID: 6436522395154628573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 49
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7bc62a6030fc560800000000000000
+      internalID: 7336085645039548401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_16
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 33
+        width: 687
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed8edb9696da1a0800000000000000
+      internalID: -6796660359753572694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_17
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 577
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e73d46e1002dd410800000000000000
+      internalID: 1503393043142490089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_18
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 449
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af5344b48357640800000000000000
+      internalID: 5077026050848193050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_19
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 401
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248dfae2ca4451140800000000000000
+      internalID: 4689730093284579394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_20
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 273
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1746bbd3e07e42c90800000000000000
+      internalID: -7195372256279960463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_21
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 225
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53d99a5525289d10800000000000000
+      internalID: 2132495265923978076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_22
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 97
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1fa5146242164a0800000000000000
+      internalID: -6601955832024600089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_building_walls_shadows_23
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 49
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84269282ce2180d60800000000000000
+      internalID: 7856550355443212872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_building_walls_shadows_0: -8579902437981788168
+      house_building_walls_shadows_1: 6327446300117364978
+      house_building_walls_shadows_10: -492914945872541103
+      house_building_walls_shadows_11: 821728077566620026
+      house_building_walls_shadows_12: -3426244353993819880
+      house_building_walls_shadows_13: -7251235968407338979
+      house_building_walls_shadows_14: 6436522395154628573
+      house_building_walls_shadows_15: 7336085645039548401
+      house_building_walls_shadows_16: -6796660359753572694
+      house_building_walls_shadows_17: 1503393043142490089
+      house_building_walls_shadows_18: 5077026050848193050
+      house_building_walls_shadows_19: 4689730093284579394
+      house_building_walls_shadows_2: -5839924747358025120
+      house_building_walls_shadows_20: -7195372256279960463
+      house_building_walls_shadows_21: 2132495265923978076
+      house_building_walls_shadows_22: -6601955832024600089
+      house_building_walls_shadows_23: 7856550355443212872
+      house_building_walls_shadows_3: -3705736755185189220
+      house_building_walls_shadows_4: -2154195312992459438
+      house_building_walls_shadows_5: -2755996239047601977
+      house_building_walls_shadows_6: 625366750817996991
+      house_building_walls_shadows_7: 2461162478091006875
+      house_building_walls_shadows_8: -8110440995899460355
+      house_building_walls_shadows_9: -8921896611786033053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

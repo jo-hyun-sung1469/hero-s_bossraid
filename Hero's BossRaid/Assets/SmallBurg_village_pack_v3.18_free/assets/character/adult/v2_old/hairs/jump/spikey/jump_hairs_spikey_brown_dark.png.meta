@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 35e76682045ef5040a58f14eecbf7ad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7241918631264777430
+    second: jump_hairs_spikey_brown_dark_0
+  - first:
+      213: -989318069878710608
+    second: jump_hairs_spikey_brown_dark_1
+  - first:
+      213: -4232440927799042565
+    second: jump_hairs_spikey_brown_dark_2
+  - first:
+      213: -6288899711083411577
+    second: jump_hairs_spikey_brown_dark_3
+  - first:
+      213: 181511381462906801
+    second: jump_hairs_spikey_brown_dark_4
+  - first:
+      213: 4022952646584238578
+    second: jump_hairs_spikey_brown_dark_5
+  - first:
+      213: -4315559213580610263
+    second: jump_hairs_spikey_brown_dark_6
+  - first:
+      213: -4951463200622881818
+    second: jump_hairs_spikey_brown_dark_7
+  - first:
+      213: 4507857270530437239
+    second: jump_hairs_spikey_brown_dark_8
+  - first:
+      213: -5715038923679632556
+    second: jump_hairs_spikey_brown_dark_9
+  - first:
+      213: 1754048623030989037
+    second: jump_hairs_spikey_brown_dark_10
+  - first:
+      213: -3078382447492338610
+    second: jump_hairs_spikey_brown_dark_11
+  - first:
+      213: -6961085714641812159
+    second: jump_hairs_spikey_brown_dark_12
+  - first:
+      213: 7209162380475884219
+    second: jump_hairs_spikey_brown_dark_13
+  - first:
+      213: -4607035073854785630
+    second: jump_hairs_spikey_brown_dark_14
+  - first:
+      213: 7284353253038376824
+    second: jump_hairs_spikey_brown_dark_15
+  - first:
+      213: -5006475433779926288
+    second: jump_hairs_spikey_brown_dark_16
+  - first:
+      213: -8599295728121036795
+    second: jump_hairs_spikey_brown_dark_17
+  - first:
+      213: -3158920614902522736
+    second: jump_hairs_spikey_brown_dark_18
+  - first:
+      213: -7778464911190069937
+    second: jump_hairs_spikey_brown_dark_19
+  - first:
+      213: -7510866814165110522
+    second: jump_hairs_spikey_brown_dark_20
+  - first:
+      213: -3091054245790044570
+    second: jump_hairs_spikey_brown_dark_21
+  - first:
+      213: -2425169897241334978
+    second: jump_hairs_spikey_brown_dark_22
+  - first:
+      213: 3696218654555102554
+    second: jump_hairs_spikey_brown_dark_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4f1d430a6708460800000000000000
+      internalID: 7241918631264777430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 225
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be1103057c3542f0800000000000000
+      internalID: -989318069878710608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 228
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd96bd86695345c0800000000000000
+      internalID: -4232440927799042565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 226
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78701d4680759b8a0800000000000000
+      internalID: -6288899711083411577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 224
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b779c6c3abd48200800000000000000
+      internalID: 181511381462906801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f10fd71e1664d730800000000000000
+      internalID: 4022952646584238578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9251d5392cd0c14c0800000000000000
+      internalID: -4315559213580610263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 161
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35478f37ed84bb0800000000000000
+      internalID: -4951463200622881818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 164
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770f02ccd402f8e30800000000000000
+      internalID: 4507857270530437239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 162
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4537b84e06a10b0b0800000000000000
+      internalID: -5715038923679632556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 160
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de07686ede1a75810800000000000000
+      internalID: 1754048623030989037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 157
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ceb6659736745d0800000000000000
+      internalID: -3078382447492338610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1458ab78c61456f90800000000000000
+      internalID: -6961085714641812159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ef504df61c0460800000000000000
+      internalID: 7209162380475884219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7be1b62068010c0800000000000000
+      internalID: -4607035073854785630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 97
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87740d180b8371560800000000000000
+      internalID: 7284353253038376824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae3d05e1d658ab0800000000000000
+      internalID: -5006475433779926288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500cfc6a81a29a880800000000000000
+      internalID: -8599295728121036795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c931bff624924d0800000000000000
+      internalID: -3158920614902522736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4deca610675d0490800000000000000
+      internalID: -7778464911190069937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013b624d6a04c790800000000000000
+      internalID: -7510866814165110522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ea8326a8e5a15d0800000000000000
+      internalID: -3091054245790044570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ba5fad3d0185ed0800000000000000
+      internalID: -2425169897241334978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump_hairs_spikey_brown_dark_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 26
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dddec684b9b4330800000000000000
+      internalID: 3696218654555102554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump_hairs_spikey_brown_dark_0: 7241918631264777430
+      jump_hairs_spikey_brown_dark_1: -989318069878710608
+      jump_hairs_spikey_brown_dark_10: 1754048623030989037
+      jump_hairs_spikey_brown_dark_11: -3078382447492338610
+      jump_hairs_spikey_brown_dark_12: -6961085714641812159
+      jump_hairs_spikey_brown_dark_13: 7209162380475884219
+      jump_hairs_spikey_brown_dark_14: -4607035073854785630
+      jump_hairs_spikey_brown_dark_15: 7284353253038376824
+      jump_hairs_spikey_brown_dark_16: -5006475433779926288
+      jump_hairs_spikey_brown_dark_17: -8599295728121036795
+      jump_hairs_spikey_brown_dark_18: -3158920614902522736
+      jump_hairs_spikey_brown_dark_19: -7778464911190069937
+      jump_hairs_spikey_brown_dark_2: -4232440927799042565
+      jump_hairs_spikey_brown_dark_20: -7510866814165110522
+      jump_hairs_spikey_brown_dark_21: -3091054245790044570
+      jump_hairs_spikey_brown_dark_22: -2425169897241334978
+      jump_hairs_spikey_brown_dark_23: 3696218654555102554
+      jump_hairs_spikey_brown_dark_3: -6288899711083411577
+      jump_hairs_spikey_brown_dark_4: 181511381462906801
+      jump_hairs_spikey_brown_dark_5: 4022952646584238578
+      jump_hairs_spikey_brown_dark_6: -4315559213580610263
+      jump_hairs_spikey_brown_dark_7: -4951463200622881818
+      jump_hairs_spikey_brown_dark_8: 4507857270530437239
+      jump_hairs_spikey_brown_dark_9: -5715038923679632556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

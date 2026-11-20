@@ -1,0 +1,5202 @@
+fileFormatVersion: 2
+guid: 2502320e4529f1349bbd87d4f7aacc58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5070615974337980437
+    second: smallburg_outside_assets_0
+  - first:
+      213: -6394624525364615909
+    second: smallburg_outside_assets_1
+  - first:
+      213: 500382509096852313
+    second: smallburg_outside_assets_2
+  - first:
+      213: -1250331077075711191
+    second: smallburg_outside_assets_3
+  - first:
+      213: 7916894004445899166
+    second: smallburg_outside_assets_4
+  - first:
+      213: -1551822428036187168
+    second: smallburg_outside_assets_5
+  - first:
+      213: -5963890512222148550
+    second: smallburg_outside_assets_6
+  - first:
+      213: -5023237716385856667
+    second: smallburg_outside_assets_7
+  - first:
+      213: -2136550499718233799
+    second: smallburg_outside_assets_8
+  - first:
+      213: -9067679505291149965
+    second: smallburg_outside_assets_9
+  - first:
+      213: -8567781674062047510
+    second: smallburg_outside_assets_10
+  - first:
+      213: 8451205602979235834
+    second: smallburg_outside_assets_11
+  - first:
+      213: 4302777018366898612
+    second: smallburg_outside_assets_12
+  - first:
+      213: 605929040521216292
+    second: smallburg_outside_assets_13
+  - first:
+      213: 1200765302090453436
+    second: smallburg_outside_assets_14
+  - first:
+      213: -3961943402254059169
+    second: smallburg_outside_assets_15
+  - first:
+      213: -3945703638364710351
+    second: smallburg_outside_assets_16
+  - first:
+      213: 1784673764752395491
+    second: smallburg_outside_assets_17
+  - first:
+      213: 7726074218551695409
+    second: smallburg_outside_assets_18
+  - first:
+      213: 970524978953826458
+    second: smallburg_outside_assets_19
+  - first:
+      213: 73834401915495941
+    second: smallburg_outside_assets_20
+  - first:
+      213: 4662948911353575851
+    second: smallburg_outside_assets_21
+  - first:
+      213: 1101457321295574620
+    second: smallburg_outside_assets_22
+  - first:
+      213: 5617983207188704743
+    second: smallburg_outside_assets_23
+  - first:
+      213: -7383410976856469164
+    second: smallburg_outside_assets_24
+  - first:
+      213: -3288736983400354343
+    second: smallburg_outside_assets_25
+  - first:
+      213: 5765459898811372781
+    second: smallburg_outside_assets_26
+  - first:
+      213: 6514358362135414622
+    second: smallburg_outside_assets_27
+  - first:
+      213: 2656101736647749528
+    second: smallburg_outside_assets_28
+  - first:
+      213: 1597025108355798033
+    second: smallburg_outside_assets_29
+  - first:
+      213: 4964335578499100711
+    second: smallburg_outside_assets_30
+  - first:
+      213: -701714589665218763
+    second: smallburg_outside_assets_31
+  - first:
+      213: 6262161107042550716
+    second: smallburg_outside_assets_32
+  - first:
+      213: 1987922720129023362
+    second: smallburg_outside_assets_33
+  - first:
+      213: 8997635114677388616
+    second: smallburg_outside_assets_34
+  - first:
+      213: 3174467759036824890
+    second: smallburg_outside_assets_35
+  - first:
+      213: -5079007584347875753
+    second: smallburg_outside_assets_36
+  - first:
+      213: -8778999618562830149
+    second: smallburg_outside_assets_37
+  - first:
+      213: 3694785543245120825
+    second: smallburg_outside_assets_38
+  - first:
+      213: 983175643792151564
+    second: smallburg_outside_assets_39
+  - first:
+      213: -930595968382430117
+    second: smallburg_outside_assets_40
+  - first:
+      213: -8534963148253467433
+    second: smallburg_outside_assets_41
+  - first:
+      213: 4173872055757614084
+    second: smallburg_outside_assets_42
+  - first:
+      213: 518776903116661886
+    second: smallburg_outside_assets_43
+  - first:
+      213: -8143492498639985869
+    second: smallburg_outside_assets_44
+  - first:
+      213: -3808536133958016962
+    second: smallburg_outside_assets_45
+  - first:
+      213: 3659811170150640790
+    second: smallburg_outside_assets_46
+  - first:
+      213: -1770088111003610240
+    second: smallburg_outside_assets_47
+  - first:
+      213: -7637044101695040734
+    second: smallburg_outside_assets_48
+  - first:
+      213: 3649948251198435088
+    second: smallburg_outside_assets_49
+  - first:
+      213: -2802710756201746825
+    second: smallburg_outside_assets_50
+  - first:
+      213: -4049038828127811463
+    second: smallburg_outside_assets_51
+  - first:
+      213: 6490841120960636831
+    second: smallburg_outside_assets_52
+  - first:
+      213: 6434146490536009638
+    second: smallburg_outside_assets_53
+  - first:
+      213: -6448018247995232275
+    second: smallburg_outside_assets_54
+  - first:
+      213: 4840484405906521019
+    second: smallburg_outside_assets_55
+  - first:
+      213: -6613822117457083835
+    second: smallburg_outside_assets_56
+  - first:
+      213: 7318448062846953805
+    second: smallburg_outside_assets_57
+  - first:
+      213: 3294019649571466481
+    second: smallburg_outside_assets_58
+  - first:
+      213: 5917958717980163963
+    second: smallburg_outside_assets_59
+  - first:
+      213: 8243139799095991773
+    second: smallburg_outside_assets_60
+  - first:
+      213: 9031976806499059314
+    second: smallburg_outside_assets_61
+  - first:
+      213: 7381354502238891980
+    second: smallburg_outside_assets_62
+  - first:
+      213: -8114286106691324434
+    second: smallburg_outside_assets_63
+  - first:
+      213: -5178850450807470516
+    second: smallburg_outside_assets_64
+  - first:
+      213: -3693085602531979517
+    second: smallburg_outside_assets_65
+  - first:
+      213: -7901327187574865064
+    second: smallburg_outside_assets_66
+  - first:
+      213: -885233551137217202
+    second: smallburg_outside_assets_67
+  - first:
+      213: -5263704257295414933
+    second: smallburg_outside_assets_68
+  - first:
+      213: 6956292675060077264
+    second: smallburg_outside_assets_69
+  - first:
+      213: 1999399591894373085
+    second: smallburg_outside_assets_70
+  - first:
+      213: 5073627828970584966
+    second: smallburg_outside_assets_71
+  - first:
+      213: 6343220638201986469
+    second: smallburg_outside_assets_72
+  - first:
+      213: 5773857059887953895
+    second: smallburg_outside_assets_73
+  - first:
+      213: -6293545133410254322
+    second: smallburg_outside_assets_74
+  - first:
+      213: -6059142524506832178
+    second: smallburg_outside_assets_75
+  - first:
+      213: -214440976323415633
+    second: smallburg_outside_assets_76
+  - first:
+      213: 7086883924316945266
+    second: smallburg_outside_assets_77
+  - first:
+      213: 7084575754309171903
+    second: smallburg_outside_assets_78
+  - first:
+      213: 3148666303816104328
+    second: smallburg_outside_assets_79
+  - first:
+      213: -2115324101397607711
+    second: smallburg_outside_assets_80
+  - first:
+      213: -1093722017535427259
+    second: smallburg_outside_assets_81
+  - first:
+      213: -7811468966769358374
+    second: smallburg_outside_assets_82
+  - first:
+      213: -4688489432493019666
+    second: smallburg_outside_assets_83
+  - first:
+      213: -5358956809850179163
+    second: smallburg_outside_assets_84
+  - first:
+      213: 7010705160985625405
+    second: smallburg_outside_assets_85
+  - first:
+      213: 1657459566441731487
+    second: smallburg_outside_assets_86
+  - first:
+      213: 6436676234696641649
+    second: smallburg_outside_assets_87
+  - first:
+      213: 4358087660227711593
+    second: smallburg_outside_assets_88
+  - first:
+      213: 896253353960499253
+    second: smallburg_outside_assets_89
+  - first:
+      213: -8394348548785665265
+    second: smallburg_outside_assets_90
+  - first:
+      213: 1352687766834995633
+    second: smallburg_outside_assets_91
+  - first:
+      213: -2825634232031925715
+    second: smallburg_outside_assets_92
+  - first:
+      213: -6719185107738856216
+    second: smallburg_outside_assets_93
+  - first:
+      213: 6440379846102998731
+    second: smallburg_outside_assets_94
+  - first:
+      213: 2268337896855429903
+    second: smallburg_outside_assets_95
+  - first:
+      213: -7832421709711356026
+    second: smallburg_outside_assets_96
+  - first:
+      213: 3099436563020202841
+    second: smallburg_outside_assets_97
+  - first:
+      213: 33072259594349199
+    second: smallburg_outside_assets_98
+  - first:
+      213: 904195073608057192
+    second: smallburg_outside_assets_99
+  - first:
+      213: 481568280573363674
+    second: smallburg_outside_assets_100
+  - first:
+      213: 3441835033657597097
+    second: smallburg_outside_assets_101
+  - first:
+      213: 1078466241306043928
+    second: smallburg_outside_assets_102
+  - first:
+      213: -7486450930950772657
+    second: smallburg_outside_assets_103
+  - first:
+      213: -390005105592482070
+    second: smallburg_outside_assets_104
+  - first:
+      213: 316636322780862714
+    second: smallburg_outside_assets_105
+  - first:
+      213: -2151399511505017228
+    second: smallburg_outside_assets_106
+  - first:
+      213: -5774439696115668575
+    second: smallburg_outside_assets_107
+  - first:
+      213: -5001148054515330520
+    second: smallburg_outside_assets_108
+  - first:
+      213: 884197723857054710
+    second: smallburg_outside_assets_109
+  - first:
+      213: -4053699639125095071
+    second: smallburg_outside_assets_110
+  - first:
+      213: -1522335074196812981
+    second: smallburg_outside_assets_111
+  - first:
+      213: 8161635792578681579
+    second: smallburg_outside_assets_112
+  - first:
+      213: 7972952516667852978
+    second: smallburg_outside_assets_113
+  - first:
+      213: -883904711167147903
+    second: smallburg_outside_assets_114
+  - first:
+      213: 7255964497769337056
+    second: smallburg_outside_assets_115
+  - first:
+      213: 279480929282608358
+    second: smallburg_outside_assets_116
+  - first:
+      213: 7525640333444879141
+    second: smallburg_outside_assets_117
+  - first:
+      213: 4809002662371308734
+    second: smallburg_outside_assets_118
+  - first:
+      213: 4411033000631757536
+    second: smallburg_outside_assets_119
+  - first:
+      213: 8804321045491500798
+    second: smallburg_outside_assets_120
+  - first:
+      213: 2390215284899848162
+    second: smallburg_outside_assets_121
+  - first:
+      213: 1688068902854034339
+    second: smallburg_outside_assets_122
+  - first:
+      213: 8175936761507285261
+    second: smallburg_outside_assets_123
+  - first:
+      213: -959536354809058643
+    second: smallburg_outside_assets_124
+  - first:
+      213: -4216658427389950547
+    second: smallburg_outside_assets_125
+  - first:
+      213: -7305263288648536598
+    second: smallburg_outside_assets_126
+  - first:
+      213: -1036870370771768526
+    second: smallburg_outside_assets_127
+  - first:
+      213: -703517332442814412
+    second: smallburg_outside_assets_128
+  - first:
+      213: -1680538382307790178
+    second: smallburg_outside_assets_129
+  - first:
+      213: 6549730236758825971
+    second: smallburg_outside_assets_130
+  - first:
+      213: 2563448067630588713
+    second: smallburg_outside_assets_131
+  - first:
+      213: 8963197460947367249
+    second: smallburg_outside_assets_132
+  - first:
+      213: 3920924354135242804
+    second: smallburg_outside_assets_133
+  - first:
+      213: 5154727649338028231
+    second: smallburg_outside_assets_134
+  - first:
+      213: -6195364957758171946
+    second: smallburg_outside_assets_135
+  - first:
+      213: -5549046226296385748
+    second: smallburg_outside_assets_136
+  - first:
+      213: 8960551151698916870
+    second: smallburg_outside_assets_137
+  - first:
+      213: 596770277951598192
+    second: smallburg_outside_assets_138
+  - first:
+      213: -8373758611740803904
+    second: smallburg_outside_assets_139
+  - first:
+      213: -6813317096847868075
+    second: smallburg_outside_assets_140
+  - first:
+      213: -6485459083707827783
+    second: smallburg_outside_assets_141
+  - first:
+      213: 8703081955081288943
+    second: smallburg_outside_assets_142
+  - first:
+      213: 9083800945045663737
+    second: smallburg_outside_assets_143
+  - first:
+      213: 1412483455862773530
+    second: smallburg_outside_assets_144
+  - first:
+      213: 6701889408983174658
+    second: smallburg_outside_assets_145
+  - first:
+      213: -6234050889899455749
+    second: smallburg_outside_assets_146
+  - first:
+      213: -9222062707958704675
+    second: smallburg_outside_assets_147
+  - first:
+      213: 919217547001163038
+    second: smallburg_outside_assets_148
+  - first:
+      213: 7478796485102739624
+    second: smallburg_outside_assets_149
+  - first:
+      213: 2849144728561430493
+    second: smallburg_outside_assets_150
+  - first:
+      213: -7507243522799199684
+    second: smallburg_outside_assets_151
+  - first:
+      213: 1778177993998456317
+    second: smallburg_outside_assets_152
+  - first:
+      213: -6493081058012378839
+    second: smallburg_outside_assets_153
+  - first:
+      213: -116854065804351344
+    second: smallburg_outside_assets_154
+  - first:
+      213: 4355860535245290568
+    second: smallburg_outside_assets_155
+  - first:
+      213: -409496263138129661
+    second: smallburg_outside_assets_156
+  - first:
+      213: -4774293940525771408
+    second: smallburg_outside_assets_157
+  - first:
+      213: -8394533248542001325
+    second: smallburg_outside_assets_158
+  - first:
+      213: 3591549564710612044
+    second: smallburg_outside_assets_159
+  - first:
+      213: -8335590295569813185
+    second: smallburg_outside_assets_160
+  - first:
+      213: 8026053342576362861
+    second: smallburg_outside_assets_161
+  - first:
+      213: -5705942217924878521
+    second: smallburg_outside_assets_162
+  - first:
+      213: -502443586876038623
+    second: smallburg_outside_assets_163
+  - first:
+      213: -534352584371637218
+    second: smallburg_outside_assets_164
+  - first:
+      213: -1451825556710385085
+    second: smallburg_outside_assets_165
+  - first:
+      213: -9073705947974699970
+    second: smallburg_outside_assets_166
+  - first:
+      213: -2954214427707569323
+    second: smallburg_outside_assets_167
+  - first:
+      213: -2220344259325252961
+    second: smallburg_outside_assets_168
+  - first:
+      213: -8628930410674144490
+    second: smallburg_outside_assets_169
+  - first:
+      213: 2790329909644822097
+    second: smallburg_outside_assets_170
+  - first:
+      213: 6906314404277069130
+    second: smallburg_outside_assets_171
+  - first:
+      213: -8741363000724450973
+    second: smallburg_outside_assets_172
+  - first:
+      213: -3624559935631431504
+    second: smallburg_outside_assets_173
+  - first:
+      213: -2598943692932691586
+    second: smallburg_outside_assets_174
+  - first:
+      213: -4539302849033795873
+    second: smallburg_outside_assets_175
+  - first:
+      213: -1269664769114350098
+    second: smallburg_outside_assets_176
+  - first:
+      213: -2660360719576923931
+    second: smallburg_outside_assets_177
+  - first:
+      213: 7484372245126505299
+    second: smallburg_outside_assets_178
+  - first:
+      213: 5493769455265146640
+    second: smallburg_outside_assets_179
+  - first:
+      213: -2854361670041405904
+    second: smallburg_outside_assets_180
+  - first:
+      213: 5424014475378795740
+    second: smallburg_outside_assets_181
+  - first:
+      213: -3829893532986486109
+    second: smallburg_outside_assets_182
+  - first:
+      213: 5182837702141119284
+    second: smallburg_outside_assets_183
+  - first:
+      213: 7636698055077775639
+    second: smallburg_outside_assets_184
+  - first:
+      213: -8683325397852167412
+    second: smallburg_outside_assets_185
+  - first:
+      213: 5804999559302647814
+    second: smallburg_outside_assets_186
+  - first:
+      213: 7489160950783113168
+    second: smallburg_outside_assets_187
+  - first:
+      213: -1376183746128629498
+    second: smallburg_outside_assets_188
+  - first:
+      213: -4591859038603478698
+    second: smallburg_outside_assets_189
+  - first:
+      213: -3105439180136431749
+    second: smallburg_outside_assets_190
+  - first:
+      213: -7168162694091226492
+    second: smallburg_outside_assets_191
+  - first:
+      213: -615631493978323076
+    second: smallburg_outside_assets_192
+  - first:
+      213: 5927495674512739189
+    second: smallburg_outside_assets_193
+  - first:
+      213: -5644936644188954679
+    second: smallburg_outside_assets_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smallburg_outside_assets_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 384
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51826d60d527e5640800000000000000
+      internalID: 5070615974337980437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 449
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1524a5dfdab147a0800000000000000
+      internalID: -6394624525364615909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 417
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b598aad37b1f600800000000000000
+      internalID: 500382509096852313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 433
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b454b828ee5aee0800000000000000
+      internalID: -1250331077075711191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 420
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99ea6bc6257edd60800000000000000
+      internalID: 7916894004445899166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 429
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb3b6e39b1d67ae0800000000000000
+      internalID: -1551822428036187168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 425
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382dab5d210c3da0800000000000000
+      internalID: -5963890512222148550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 402
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5630a7449efd94ab0800000000000000
+      internalID: -5023237716385856667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 382
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318c93f3a27952e0800000000000000
+      internalID: -2136550499718233799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 366
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37df7065881292280800000000000000
+      internalID: -9067679505291149965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae61e6426ff191980800000000000000
+      internalID: -8567781674062047510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 366
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74e5138b6b84570800000000000000
+      internalID: 8451205602979235834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1397fa6e886bb30800000000000000
+      internalID: 4302777018366898612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214c538041b86800800000000000000
+      internalID: 605929040521216292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb157b92ea9f9a010800000000000000
+      internalID: 1200765302090453436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b17887795409c0800000000000000
+      internalID: -3961943402254059169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a1e46327b0e39c0800000000000000
+      internalID: -3945703638364710351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec860c555f64c810800000000000000
+      internalID: 1784673764752395491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d3193197883b60800000000000000
+      internalID: 7726074218551695409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 352
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90bf28835ff77d00800000000000000
+      internalID: 970524978953826458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 355
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50660625fff460100800000000000000
+      internalID: 73834401915495941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 325
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9360b545f16b040800000000000000
+      internalID: 4662948911353575851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5673131999294f00800000000000000
+      internalID: 1101457321295574620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda79a26f517fd40800000000000000
+      internalID: 5617983207188704743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45110c5e5dad88990800000000000000
+      internalID: -7383410976856469164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd6bb8532f0c52d0800000000000000
+      internalID: -3288736983400354343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de459633b37030050800000000000000
+      internalID: 5765459898811372781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e574da27a66a76a50800000000000000
+      internalID: 6514358362135414622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fef24f47e5cd420800000000000000
+      internalID: 2656101736647749528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1145de8efd5c92610800000000000000
+      internalID: 1597025108355798033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720b54e08ecd4e440800000000000000
+      internalID: 4964335578499100711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fab4d6c420346f0800000000000000
+      internalID: -701714589665218763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3c987395aa7e650800000000000000
+      internalID: 6262161107042550716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df7367e25869b10800000000000000
+      internalID: 1987922720129023362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 338
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8454dec17750edc70800000000000000
+      internalID: 8997635114677388616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 336
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df1589b99fd0c20800000000000000
+      internalID: 3174467759036824890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 289
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7561e63038db389b0800000000000000
+      internalID: -5079007584347875753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d54c2c5aba2680800000000000000
+      internalID: -8778999618562830149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 319
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935cf5230e3864330800000000000000
+      internalID: 3694785543245120825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c041c08f901f4ad00800000000000000
+      internalID: 983175643792151564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b549723b5ebd513f0800000000000000
+      internalID: -930595968382430117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc6d41ac38bd8980800000000000000
+      internalID: -8534963148253467433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cac5545829ce930800000000000000
+      internalID: 4173872055757614084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7422f348d0133700800000000000000
+      internalID: 518776903116661886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336183f7b08cfe80800000000000000
+      internalID: -8143492498639985869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30613d809c552bc0800000000000000
+      internalID: -3808536133958016962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ce5d56ed24ac230800000000000000
+      internalID: 3659811170150640790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083dc7acd326f67e0800000000000000
+      internalID: -1770088111003610240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 303
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22399703ad4c30690800000000000000
+      internalID: -7637044101695040734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 303
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fad31a89837a230800000000000000
+      internalID: 3649948251198435088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ead68aa65ca19d0800000000000000
+      internalID: -2802710756201746825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 307
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9788da773aceec7c0800000000000000
+      internalID: -4049038828127811463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 308
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f976b5c0c99141a50800000000000000
+      internalID: 6490841120960636831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 285
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af9931c42eaa4950800000000000000
+      internalID: 6434146490536009638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 270
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe10701990486a0800000000000000
+      internalID: -6448018247995232275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 270
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb30e2dbeadc2340800000000000000
+      internalID: 4840484405906521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_56
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 270
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542495163dbf634a0800000000000000
+      internalID: -6613822117457083835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4963250db9509560800000000000000
+      internalID: 7318448062846953805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc2dd73b65b6bd20800000000000000
+      internalID: 3294019649571466481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f32ac6910d02250800000000000000
+      internalID: 5917958717980163963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_60
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd500729f3856270800000000000000
+      internalID: 8243139799095991773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_61
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27681f25d07085d70800000000000000
+      internalID: 9031976806499059314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_62
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfed2bcfc6df6660800000000000000
+      internalID: 7381354502238891980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b6ccf6c3446f80800000000000000
+      internalID: -8114286106691324434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46cfb624f60128b0800000000000000
+      internalID: -5178850450807470516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc8f716368fbcc0800000000000000
+      internalID: -3693085602531979517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c67239c8d85290800000000000000
+      internalID: -7901327187574865064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 287
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45653186c407b3f0800000000000000
+      internalID: -885233551137217202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 291
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690235cdd093f6b0800000000000000
+      internalID: -5263704257295414933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 291
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29b9af457b98060800000000000000
+      internalID: 6956292675060077264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_70
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 237
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2dce6e55b4fbb10800000000000000
+      internalID: 1999399591894373085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 292
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf35411a5296640800000000000000
+      internalID: 5073627828970584966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 271
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adb4f70095a70850800000000000000
+      internalID: 6343220638201986469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_73
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 271
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b08e976cd02050800000000000000
+      internalID: 5773857059887953895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 275
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e028139bb06d8a8a0800000000000000
+      internalID: -6293545133410254322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_75
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 275
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28e470af999eba0800000000000000
+      internalID: -6059142524506832178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 276
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa174f47117260df0800000000000000
+      internalID: -214440976323415633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_77
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b7659916ba95260800000000000000
+      internalID: 7086883924316945266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba71f3ec18715260800000000000000
+      internalID: 7084575754309171903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_79
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889733b225f42bb20800000000000000
+      internalID: 3148666303816104328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea8f5fefebd4a2e0800000000000000
+      internalID: -2115324101397607711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 238
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54df6cdae9152d0f0800000000000000
+      internalID: -1093722017535427259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 238
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad989b59c56189390800000000000000
+      internalID: -7811468966769358374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 238
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda41ba3b32feeb0800000000000000
+      internalID: -4688489432493019666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 238
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a13836ac2921a5b0800000000000000
+      internalID: -5358956809850179163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 240
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33cb8913370b4160800000000000000
+      internalID: 7010705160985625405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95155fa1ba700710800000000000000
+      internalID: 1657459566441731487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 240
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cca47beeaa35950800000000000000
+      internalID: 6436676234696641649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 254
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d2e703a90b7c30800000000000000
+      internalID: 4358087660227711593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 247
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53861974da1207c00800000000000000
+      internalID: 896253353960499253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 221
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b80d45878418b80800000000000000
+      internalID: -8394348548785665265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 238
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1673a6b56b5c210800000000000000
+      internalID: 1352687766834995633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_92
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 245
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aad8603a459c8d0800000000000000
+      internalID: -2825634232031925715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 225
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e471298eb8a0c2a0800000000000000
+      internalID: -6719185107738856216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcedd81f853d06950800000000000000
+      internalID: 6440379846102998731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 224
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ef9c8c41ca7f10800000000000000
+      internalID: 2268337896855429903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fc895f3f5ad4390800000000000000
+      internalID: -7832421709711356026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_97
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9534daee129630b20800000000000000
+      internalID: 3099436563020202841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a6a0d7b0f757000800000000000000
+      internalID: 33072259594349199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_99
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 223
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861011af0a85c8c00800000000000000
+      internalID: 904195073608057192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_100
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 224
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5cbaabccfdea600800000000000000
+      internalID: 481568280573363674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acd7ac3abad3cf20800000000000000
+      internalID: 3441835033657597097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8162c4f155b77fe00800000000000000
+      internalID: 1078466241306043928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_103
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4869401b88ca1890800000000000000
+      internalID: -7486450930950772657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6429c3c6c669af0800000000000000
+      internalID: -390005105592482070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8d656de0be46400800000000000000
+      internalID: 316636322780862714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_106
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766bcafa81b422e0800000000000000
+      internalID: -2151399511505017228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_107
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a96c10d0b11ddfa0800000000000000
+      internalID: -5774439696115668575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_108
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 208
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8225a75775a589ab0800000000000000
+      internalID: -5001148054515330520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_109
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb65b9252d454c00800000000000000
+      internalID: 884197723857054710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_110
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 192
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dc1d7d7ad5eb7c0800000000000000
+      internalID: -4053699639125095071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_111
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b8161d0549fdae0800000000000000
+      internalID: -1522335074196812981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_112
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea14cad284f34170800000000000000
+      internalID: 8161635792578681579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_113
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 195
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b84b07421e95ae60800000000000000
+      internalID: 7972952516667852978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180869b295dbbb3f0800000000000000
+      internalID: -883904711167147903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_115
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e01368544d52b460800000000000000
+      internalID: 7255964497769337056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 177
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc267ac6ae0e300800000000000000
+      internalID: 279480929282608358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_117
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 173
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523955eb202707860800000000000000
+      internalID: 7525640333444879141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 177
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4bc8631720db240800000000000000
+      internalID: 4809002662371308734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_119
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 178
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea6e27b423273d30800000000000000
+      internalID: 4411033000631757536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_120
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef64405f75b3f2a70800000000000000
+      internalID: 8804321045491500798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_121
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 183
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1a214320cb2120800000000000000
+      internalID: 2390215284899848162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_122
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 179
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38ffe29b93d6710800000000000000
+      internalID: 1688068902854034339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_123
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0903b7aa23c67170800000000000000
+      internalID: 8175936761507285261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 167
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa6886e4ca0fa2f0800000000000000
+      internalID: -959536354809058643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_125
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 167
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c348408b6b75c0800000000000000
+      internalID: -4216658427389950547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 169
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aede6617ebd7e9a90800000000000000
+      internalID: -7305263288648536598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_127
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 171
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b650034eb4c91f0800000000000000
+      internalID: -1036870370771768526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 142
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386a6aa6ba9c36f0800000000000000
+      internalID: -703517332442814412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_129
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 142
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927223ce378da8e0800000000000000
+      internalID: -1680538382307790178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_130
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb15a8c2f055ea50800000000000000
+      internalID: 6549730236758825971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_131
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 163
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923684f8f62339320800000000000000
+      internalID: 2563448067630588713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_132
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 142
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15573770a9ca36c70800000000000000
+      internalID: 8963197460947367249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_133
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 140
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b8671debe96630800000000000000
+      internalID: 3920924354135242804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_134
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 142
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c07da47c75498740800000000000000
+      internalID: 5154727649338028231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4dbe63564a50aa0800000000000000
+      internalID: -6195364957758171946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc1677bd3ddf2b0800000000000000
+      internalID: -5549046226296385748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 143
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6063bb42cc54a5c70800000000000000
+      internalID: 8960551151698916870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 142
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee0dde767284800800000000000000
+      internalID: 596770277951598192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 142
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3250a8ee6acb80800000000000000
+      internalID: -8373758611740803904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_140
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 143
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f794ce23c3271a0800000000000000
+      internalID: -6813317096847868075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_141
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 143
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9b34623550ff5a0800000000000000
+      internalID: -6485459083707827783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 143
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec7bbf5dee87c870800000000000000
+      internalID: 8703081955081288943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_143
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 143
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffedcbd4d4201e70800000000000000
+      internalID: 9083800945045663737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_144
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1711dd28362a9310800000000000000
+      internalID: 1412483455862773530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_145
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e056ac8e4e10d50800000000000000
+      internalID: 6701889408983174658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_146
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfac5dbbeb33c79a0800000000000000
+      internalID: -6234050889899455749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_147
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 138
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd59eb3e3d6a40080800000000000000
+      internalID: -9222062707958704675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_148
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d6f402d77b1cc00800000000000000
+      internalID: 919217547001163038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_149
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a02df167c50ac760800000000000000
+      internalID: 7478796485102739624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_150
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfa49309023a8720800000000000000
+      internalID: 2849144728561430493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_151
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a93358ac9e0d790800000000000000
+      internalID: -7507243522799199684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_152
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d1bfd67b5da810800000000000000
+      internalID: 1778177993998456317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_153
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 110
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ca57fd21f3e5a0800000000000000
+      internalID: -6493081058012378839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_154
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 110
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098eb25a8d9d06ef0800000000000000
+      internalID: -116854065804351344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_155
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 110
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c30761410237c30800000000000000
+      internalID: 4355860535245290568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_156
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 110
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3094dca715d215af0800000000000000
+      internalID: -409496263138129661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_157
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 110
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07559a5d4fc4ebdb0800000000000000
+      internalID: -4774293940525771408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_158
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b2719c70a08b80800000000000000
+      internalID: -8394533248542001325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_159
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce8cddc4fb7d130800000000000000
+      internalID: 3591549564710612044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_160
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 80
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313e5f3ac8025c80800000000000000
+      internalID: -8335590295569813185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_161
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 83
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65c990cdf4426f60800000000000000
+      internalID: 8026053342576362861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_162
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fdeafb8cb60d0b0800000000000000
+      internalID: -5705942217924878521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_163
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122a4944836f609f0800000000000000
+      internalID: -502443586876038623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_164
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1477b7d7299598f0800000000000000
+      internalID: -534352584371637218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_165
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 79
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a917829541adbe0800000000000000
+      internalID: -1451825556710385085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_166
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 79
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e347e9ec388b31280800000000000000
+      internalID: -9073705947974699970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 79
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b082e41a58007d0800000000000000
+      internalID: -2954214427707569323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_168
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a27d7f8a0cf21e0800000000000000
+      internalID: -2220344259325252961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_169
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 79
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb3307281ef3880800000000000000
+      internalID: -8628930410674144490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_170
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156078ed44e39b620800000000000000
+      internalID: 2790329909644822097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_171
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4529160c5828df50800000000000000
+      internalID: 6906314404277069130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_172
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36193112aa070b680800000000000000
+      internalID: -8741363000724450973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_173
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8639931f9f2bdc0800000000000000
+      internalID: -3624559935631431504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_174
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7941872b72beebd0800000000000000
+      internalID: -2598943692932691586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_175
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd60c6beb182101c0800000000000000
+      internalID: -4539302849033795873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_176
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed5c159e9e316ee0800000000000000
+      internalID: -1269664769114350098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_177
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0073f4500841bd0800000000000000
+      internalID: -2660360719576923931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 31
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353ee8d27e4ddd760800000000000000
+      internalID: 7484372245126505299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_179
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 31
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01768fa563acd3c40800000000000000
+      internalID: 5493769455265146640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_180
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 47
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036f0b42f254368d0800000000000000
+      internalID: -2854361670041405904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_181
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 47
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4a78d7d68f54b40800000000000000
+      internalID: 5424014475378795740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_182
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 47
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a256c69f1c79dac0800000000000000
+      internalID: -3829893532986486109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8f942e632de740800000000000000
+      internalID: 5182837702141119284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_184
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c3dd8b600bf960800000000000000
+      internalID: 7636698055077775639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_185
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 47
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e4ef8e81ae7780800000000000000
+      internalID: -8683325397852167412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_186
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 47
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600988dc7508f8050800000000000000
+      internalID: 5804999559302647814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_187
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 47
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d777299438dee760800000000000000
+      internalID: 7489160950783113168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_188
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 47
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601365a9c20d6ece0800000000000000
+      internalID: -1376183746128629498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_189
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6597f5978807640c0800000000000000
+      internalID: -4591859038603478698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_190
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f336cd48347e4d0800000000000000
+      internalID: -3105439180136431749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_191
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824c7e1202958c90800000000000000
+      internalID: -7168162694091226492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_192
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7701e00b66d477f0800000000000000
+      internalID: -615631493978323076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_193
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b0ff629e1b24250800000000000000
+      internalID: 5927495674512739189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_outside_assets_194
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 15
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf188fb70829a1b0800000000000000
+      internalID: -5644936644188954679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smallburg_outside_assets_0: 5070615974337980437
+      smallburg_outside_assets_1: -6394624525364615909
+      smallburg_outside_assets_10: -8567781674062047510
+      smallburg_outside_assets_100: 481568280573363674
+      smallburg_outside_assets_101: 3441835033657597097
+      smallburg_outside_assets_102: 1078466241306043928
+      smallburg_outside_assets_103: -7486450930950772657
+      smallburg_outside_assets_104: -390005105592482070
+      smallburg_outside_assets_105: 316636322780862714
+      smallburg_outside_assets_106: -2151399511505017228
+      smallburg_outside_assets_107: -5774439696115668575
+      smallburg_outside_assets_108: -5001148054515330520
+      smallburg_outside_assets_109: 884197723857054710
+      smallburg_outside_assets_11: 8451205602979235834
+      smallburg_outside_assets_110: -4053699639125095071
+      smallburg_outside_assets_111: -1522335074196812981
+      smallburg_outside_assets_112: 8161635792578681579
+      smallburg_outside_assets_113: 7972952516667852978
+      smallburg_outside_assets_114: -883904711167147903
+      smallburg_outside_assets_115: 7255964497769337056
+      smallburg_outside_assets_116: 279480929282608358
+      smallburg_outside_assets_117: 7525640333444879141
+      smallburg_outside_assets_118: 4809002662371308734
+      smallburg_outside_assets_119: 4411033000631757536
+      smallburg_outside_assets_12: 4302777018366898612
+      smallburg_outside_assets_120: 8804321045491500798
+      smallburg_outside_assets_121: 2390215284899848162
+      smallburg_outside_assets_122: 1688068902854034339
+      smallburg_outside_assets_123: 8175936761507285261
+      smallburg_outside_assets_124: -959536354809058643
+      smallburg_outside_assets_125: -4216658427389950547
+      smallburg_outside_assets_126: -7305263288648536598
+      smallburg_outside_assets_127: -1036870370771768526
+      smallburg_outside_assets_128: -703517332442814412
+      smallburg_outside_assets_129: -1680538382307790178
+      smallburg_outside_assets_13: 605929040521216292
+      smallburg_outside_assets_130: 6549730236758825971
+      smallburg_outside_assets_131: 2563448067630588713
+      smallburg_outside_assets_132: 8963197460947367249
+      smallburg_outside_assets_133: 3920924354135242804
+      smallburg_outside_assets_134: 5154727649338028231
+      smallburg_outside_assets_135: -6195364957758171946
+      smallburg_outside_assets_136: -5549046226296385748
+      smallburg_outside_assets_137: 8960551151698916870
+      smallburg_outside_assets_138: 596770277951598192
+      smallburg_outside_assets_139: -8373758611740803904
+      smallburg_outside_assets_14: 1200765302090453436
+      smallburg_outside_assets_140: -6813317096847868075
+      smallburg_outside_assets_141: -6485459083707827783
+      smallburg_outside_assets_142: 8703081955081288943
+      smallburg_outside_assets_143: 9083800945045663737
+      smallburg_outside_assets_144: 1412483455862773530
+      smallburg_outside_assets_145: 6701889408983174658
+      smallburg_outside_assets_146: -6234050889899455749
+      smallburg_outside_assets_147: -9222062707958704675
+      smallburg_outside_assets_148: 919217547001163038
+      smallburg_outside_assets_149: 7478796485102739624
+      smallburg_outside_assets_15: -3961943402254059169
+      smallburg_outside_assets_150: 2849144728561430493
+      smallburg_outside_assets_151: -7507243522799199684
+      smallburg_outside_assets_152: 1778177993998456317
+      smallburg_outside_assets_153: -6493081058012378839
+      smallburg_outside_assets_154: -116854065804351344
+      smallburg_outside_assets_155: 4355860535245290568
+      smallburg_outside_assets_156: -409496263138129661
+      smallburg_outside_assets_157: -4774293940525771408
+      smallburg_outside_assets_158: -8394533248542001325
+      smallburg_outside_assets_159: 3591549564710612044
+      smallburg_outside_assets_16: -3945703638364710351
+      smallburg_outside_assets_160: -8335590295569813185
+      smallburg_outside_assets_161: 8026053342576362861
+      smallburg_outside_assets_162: -5705942217924878521
+      smallburg_outside_assets_163: -502443586876038623
+      smallburg_outside_assets_164: -534352584371637218
+      smallburg_outside_assets_165: -1451825556710385085
+      smallburg_outside_assets_166: -9073705947974699970
+      smallburg_outside_assets_167: -2954214427707569323
+      smallburg_outside_assets_168: -2220344259325252961
+      smallburg_outside_assets_169: -8628930410674144490
+      smallburg_outside_assets_17: 1784673764752395491
+      smallburg_outside_assets_170: 2790329909644822097
+      smallburg_outside_assets_171: 6906314404277069130
+      smallburg_outside_assets_172: -8741363000724450973
+      smallburg_outside_assets_173: -3624559935631431504
+      smallburg_outside_assets_174: -2598943692932691586
+      smallburg_outside_assets_175: -4539302849033795873
+      smallburg_outside_assets_176: -1269664769114350098
+      smallburg_outside_assets_177: -2660360719576923931
+      smallburg_outside_assets_178: 7484372245126505299
+      smallburg_outside_assets_179: 5493769455265146640
+      smallburg_outside_assets_18: 7726074218551695409
+      smallburg_outside_assets_180: -2854361670041405904
+      smallburg_outside_assets_181: 5424014475378795740
+      smallburg_outside_assets_182: -3829893532986486109
+      smallburg_outside_assets_183: 5182837702141119284
+      smallburg_outside_assets_184: 7636698055077775639
+      smallburg_outside_assets_185: -8683325397852167412
+      smallburg_outside_assets_186: 5804999559302647814
+      smallburg_outside_assets_187: 7489160950783113168
+      smallburg_outside_assets_188: -1376183746128629498
+      smallburg_outside_assets_189: -4591859038603478698
+      smallburg_outside_assets_19: 970524978953826458
+      smallburg_outside_assets_190: -3105439180136431749
+      smallburg_outside_assets_191: -7168162694091226492
+      smallburg_outside_assets_192: -615631493978323076
+      smallburg_outside_assets_193: 5927495674512739189
+      smallburg_outside_assets_194: -5644936644188954679
+      smallburg_outside_assets_2: 500382509096852313
+      smallburg_outside_assets_20: 73834401915495941
+      smallburg_outside_assets_21: 4662948911353575851
+      smallburg_outside_assets_22: 1101457321295574620
+      smallburg_outside_assets_23: 5617983207188704743
+      smallburg_outside_assets_24: -7383410976856469164
+      smallburg_outside_assets_25: -3288736983400354343
+      smallburg_outside_assets_26: 5765459898811372781
+      smallburg_outside_assets_27: 6514358362135414622
+      smallburg_outside_assets_28: 2656101736647749528
+      smallburg_outside_assets_29: 1597025108355798033
+      smallburg_outside_assets_3: -1250331077075711191
+      smallburg_outside_assets_30: 4964335578499100711
+      smallburg_outside_assets_31: -701714589665218763
+      smallburg_outside_assets_32: 6262161107042550716
+      smallburg_outside_assets_33: 1987922720129023362
+      smallburg_outside_assets_34: 8997635114677388616
+      smallburg_outside_assets_35: 3174467759036824890
+      smallburg_outside_assets_36: -5079007584347875753
+      smallburg_outside_assets_37: -8778999618562830149
+      smallburg_outside_assets_38: 3694785543245120825
+      smallburg_outside_assets_39: 983175643792151564
+      smallburg_outside_assets_4: 7916894004445899166
+      smallburg_outside_assets_40: -930595968382430117
+      smallburg_outside_assets_41: -8534963148253467433
+      smallburg_outside_assets_42: 4173872055757614084
+      smallburg_outside_assets_43: 518776903116661886
+      smallburg_outside_assets_44: -8143492498639985869
+      smallburg_outside_assets_45: -3808536133958016962
+      smallburg_outside_assets_46: 3659811170150640790
+      smallburg_outside_assets_47: -1770088111003610240
+      smallburg_outside_assets_48: -7637044101695040734
+      smallburg_outside_assets_49: 3649948251198435088
+      smallburg_outside_assets_5: -1551822428036187168
+      smallburg_outside_assets_50: -2802710756201746825
+      smallburg_outside_assets_51: -4049038828127811463
+      smallburg_outside_assets_52: 6490841120960636831
+      smallburg_outside_assets_53: 6434146490536009638
+      smallburg_outside_assets_54: -6448018247995232275
+      smallburg_outside_assets_55: 4840484405906521019
+      smallburg_outside_assets_56: -6613822117457083835
+      smallburg_outside_assets_57: 7318448062846953805
+      smallburg_outside_assets_58: 3294019649571466481
+      smallburg_outside_assets_59: 5917958717980163963
+      smallburg_outside_assets_6: -5963890512222148550
+      smallburg_outside_assets_60: 8243139799095991773
+      smallburg_outside_assets_61: 9031976806499059314
+      smallburg_outside_assets_62: 7381354502238891980
+      smallburg_outside_assets_63: -8114286106691324434
+      smallburg_outside_assets_64: -5178850450807470516
+      smallburg_outside_assets_65: -3693085602531979517
+      smallburg_outside_assets_66: -7901327187574865064
+      smallburg_outside_assets_67: -885233551137217202
+      smallburg_outside_assets_68: -5263704257295414933
+      smallburg_outside_assets_69: 6956292675060077264
+      smallburg_outside_assets_7: -5023237716385856667
+      smallburg_outside_assets_70: 1999399591894373085
+      smallburg_outside_assets_71: 5073627828970584966
+      smallburg_outside_assets_72: 6343220638201986469
+      smallburg_outside_assets_73: 5773857059887953895
+      smallburg_outside_assets_74: -6293545133410254322
+      smallburg_outside_assets_75: -6059142524506832178
+      smallburg_outside_assets_76: -214440976323415633
+      smallburg_outside_assets_77: 7086883924316945266
+      smallburg_outside_assets_78: 7084575754309171903
+      smallburg_outside_assets_79: 3148666303816104328
+      smallburg_outside_assets_8: -2136550499718233799
+      smallburg_outside_assets_80: -2115324101397607711
+      smallburg_outside_assets_81: -1093722017535427259
+      smallburg_outside_assets_82: -7811468966769358374
+      smallburg_outside_assets_83: -4688489432493019666
+      smallburg_outside_assets_84: -5358956809850179163
+      smallburg_outside_assets_85: 7010705160985625405
+      smallburg_outside_assets_86: 1657459566441731487
+      smallburg_outside_assets_87: 6436676234696641649
+      smallburg_outside_assets_88: 4358087660227711593
+      smallburg_outside_assets_89: 896253353960499253
+      smallburg_outside_assets_9: -9067679505291149965
+      smallburg_outside_assets_90: -8394348548785665265
+      smallburg_outside_assets_91: 1352687766834995633
+      smallburg_outside_assets_92: -2825634232031925715
+      smallburg_outside_assets_93: -6719185107738856216
+      smallburg_outside_assets_94: 6440379846102998731
+      smallburg_outside_assets_95: 2268337896855429903
+      smallburg_outside_assets_96: -7832421709711356026
+      smallburg_outside_assets_97: 3099436563020202841
+      smallburg_outside_assets_98: 33072259594349199
+      smallburg_outside_assets_99: 904195073608057192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 67eae365d38b9dd438b7c76a60d7e65e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -916583918553788859
+    second: character_walk_clothes_fullbody_overhalls_blue_0
+  - first:
+      213: -2968461226220994722
+    second: character_walk_clothes_fullbody_overhalls_blue_1
+  - first:
+      213: 3138100193308612856
+    second: character_walk_clothes_fullbody_overhalls_blue_2
+  - first:
+      213: 8222612997067009226
+    second: character_walk_clothes_fullbody_overhalls_blue_3
+  - first:
+      213: 4223456908459307624
+    second: character_walk_clothes_fullbody_overhalls_blue_4
+  - first:
+      213: 2146231967823683695
+    second: character_walk_clothes_fullbody_overhalls_blue_5
+  - first:
+      213: 5858454127428923044
+    second: character_walk_clothes_fullbody_overhalls_blue_6
+  - first:
+      213: -2692131118048226310
+    second: character_walk_clothes_fullbody_overhalls_blue_7
+  - first:
+      213: -1713385566399686325
+    second: character_walk_clothes_fullbody_overhalls_blue_8
+  - first:
+      213: 1586470681014496225
+    second: character_walk_clothes_fullbody_overhalls_blue_9
+  - first:
+      213: -6270952416431933018
+    second: character_walk_clothes_fullbody_overhalls_blue_10
+  - first:
+      213: -5510148381556519291
+    second: character_walk_clothes_fullbody_overhalls_blue_11
+  - first:
+      213: 6665114068916760522
+    second: character_walk_clothes_fullbody_overhalls_blue_12
+  - first:
+      213: 5636356252489087704
+    second: character_walk_clothes_fullbody_overhalls_blue_13
+  - first:
+      213: 1250231671207942030
+    second: character_walk_clothes_fullbody_overhalls_blue_14
+  - first:
+      213: -7025643264615149209
+    second: character_walk_clothes_fullbody_overhalls_blue_15
+  - first:
+      213: -7545045816038626130
+    second: character_walk_clothes_fullbody_overhalls_blue_16
+  - first:
+      213: 5313596362819139929
+    second: character_walk_clothes_fullbody_overhalls_blue_17
+  - first:
+      213: 1120263051282346125
+    second: character_walk_clothes_fullbody_overhalls_blue_18
+  - first:
+      213: -9146963408173154824
+    second: character_walk_clothes_fullbody_overhalls_blue_19
+  - first:
+      213: 5372075014695911394
+    second: character_walk_clothes_fullbody_overhalls_blue_20
+  - first:
+      213: -1254808886519545807
+    second: character_walk_clothes_fullbody_overhalls_blue_21
+  - first:
+      213: -4846083547574291171
+    second: character_walk_clothes_fullbody_overhalls_blue_22
+  - first:
+      213: 3234616947395886547
+    second: character_walk_clothes_fullbody_overhalls_blue_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e04c748c3a743f0800000000000000
+      internalID: -916583918553788859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fb3990e38edc6d0800000000000000
+      internalID: -2968461226220994722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f89ebbdf75cc8b20800000000000000
+      internalID: 3138100193308612856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc60bf94f69c1270800000000000000
+      internalID: 8222612997067009226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862f2e07eabbc9a30800000000000000
+      internalID: 4223456908459307624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60e7bf7a92f8cd10800000000000000
+      internalID: 2146231967823683695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae625e4df86d4150800000000000000
+      internalID: 5858454127428923044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 153
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d5fbf201a3aad0800000000000000
+      internalID: -2692131118048226310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49177fb7e4d838e0800000000000000
+      internalID: -1713385566399686325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe07ccda6440610800000000000000
+      internalID: 1586470681014496225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 153
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9723f800a19f8a0800000000000000
+      internalID: -6270952416431933018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e41a1bd350883b0800000000000000
+      internalID: -5510148381556519291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfed31beed3f7c50800000000000000
+      internalID: 6665114068916760522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 89
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf921262c583e40800000000000000
+      internalID: 5636356252489087704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87da49b417b95110800000000000000
+      internalID: 1250231671207942030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619ffd9ca6ef7e90800000000000000
+      internalID: -7025643264615149209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 89
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac68f04ecc9a4790800000000000000
+      internalID: -7545045816038626130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95974a54dbfadb940800000000000000
+      internalID: 5313596362819139929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80fdaa4f49fb8f00800000000000000
+      internalID: 1120263051282346125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdb7523e357f0180800000000000000
+      internalID: -9146963408173154824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 25
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef73bd63c17d8a40800000000000000
+      internalID: 5372075014695911394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 25
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130cff947f5069ee0800000000000000
+      internalID: -1254808886519545807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1538fa60b04fbcb0800000000000000
+      internalID: -4846083547574291171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_clothes_fullbody_overhalls_blue_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 25
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd7df5d9faa3ec20800000000000000
+      internalID: 3234616947395886547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_clothes_fullbody_overhalls_blue_0: -916583918553788859
+      character_walk_clothes_fullbody_overhalls_blue_1: -2968461226220994722
+      character_walk_clothes_fullbody_overhalls_blue_10: -6270952416431933018
+      character_walk_clothes_fullbody_overhalls_blue_11: -5510148381556519291
+      character_walk_clothes_fullbody_overhalls_blue_12: 6665114068916760522
+      character_walk_clothes_fullbody_overhalls_blue_13: 5636356252489087704
+      character_walk_clothes_fullbody_overhalls_blue_14: 1250231671207942030
+      character_walk_clothes_fullbody_overhalls_blue_15: -7025643264615149209
+      character_walk_clothes_fullbody_overhalls_blue_16: -7545045816038626130
+      character_walk_clothes_fullbody_overhalls_blue_17: 5313596362819139929
+      character_walk_clothes_fullbody_overhalls_blue_18: 1120263051282346125
+      character_walk_clothes_fullbody_overhalls_blue_19: -9146963408173154824
+      character_walk_clothes_fullbody_overhalls_blue_2: 3138100193308612856
+      character_walk_clothes_fullbody_overhalls_blue_20: 5372075014695911394
+      character_walk_clothes_fullbody_overhalls_blue_21: -1254808886519545807
+      character_walk_clothes_fullbody_overhalls_blue_22: -4846083547574291171
+      character_walk_clothes_fullbody_overhalls_blue_23: 3234616947395886547
+      character_walk_clothes_fullbody_overhalls_blue_3: 8222612997067009226
+      character_walk_clothes_fullbody_overhalls_blue_4: 4223456908459307624
+      character_walk_clothes_fullbody_overhalls_blue_5: 2146231967823683695
+      character_walk_clothes_fullbody_overhalls_blue_6: 5858454127428923044
+      character_walk_clothes_fullbody_overhalls_blue_7: -2692131118048226310
+      character_walk_clothes_fullbody_overhalls_blue_8: -1713385566399686325
+      character_walk_clothes_fullbody_overhalls_blue_9: 1586470681014496225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
